@@ -1,0 +1,170 @@
+7008: 12:33:12.184 - ---
+7008: 12:33:12.184 - Service: "Photon Socket Server" starting
+7008: 12:33:12.184 - Config File: C:\Users\Admin\Desktop\PhotonServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\bin_Win64\PhotonServer.config
+7008: 12:33:12.187 - Will produce at most: 10 crash dumps
+7008: 12:33:12.188 - Existing dump file: PhotonSocketServer.exe-20200205-154020-5524-4800-1.dmp
+7008: 12:33:12.188 - Existing dump file: PhotonSocketServer.exe-20200205-154021-5524-4800-2.dmp
+7008: 12:33:12.188 - Existing dump file: PhotonSocketServer.exe-20200205-154324-5352-5536-1.dmp
+7008: 12:33:12.188 - Existing dump file: PhotonSocketServer.exe-20200205-154324-5352-5536-2.dmp
+7008: 12:33:12.188 - Max dumps to produce reduced to 6 due to 4 existing dump files
+7008: 12:33:12.188 - Action: run as exe
+7008: 12:33:12.190 - Server Starting...
+7008: 12:33:12.191 -    Tick count: 11085015 (wraps in: 49.582 days)
+7008: 12:33:12.191 - Tick count 64: 11085015
+7008: 12:33:12.191 - Photon Version: 4.0.28.2962
+7008: 12:33:12.191 - PID: 6456
+7008: 12:33:12.192 - Config File: C:\Users\Admin\Desktop\PhotonServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\bin_Win64\PhotonServer.config
+7008: 12:33:12.193 - Will NOT log unimportant exceptions
+7008: 12:33:12.204 - Not using performance counters as they are not currently installed. Run the service with /InstallCounters to install them.
+7008: 12:33:12.204 - Shutdown timeout enabled: 30000ms
+7008: 12:33:12.205 - Starting I/O thread pool with 2 threads
+7008: 12:33:12.206 - Using Standard allocator
+7008: 12:33:12.206 - Max message size: 512000
+7008: 12:33:12.207 - Starting business logic thread pool with the following settings
+7008: 12:33:12.207 - InitialThreads: 4 threads
+7008: 12:33:12.207 - MinThreads: 4 threads
+7008: 12:33:12.207 - Thread pool is fixed size
+7008: 12:33:12.208 - Starting ENet thread pool with the following settings
+7008: 12:33:12.208 - InitialThreads: 2 threads
+7008: 12:33:12.208 - MinThreads: 2 threads
+7008: 12:33:12.208 - Thread pool is fixed size
+7008: 12:33:12.208 - OnlyDispatchTimers: False
+7008: 12:33:12.209 - S2S: flow control: Max pending writes: 50
+7008: 12:33:12.209 - S2S: flow control: Max queued buffers: 200
+7008: 12:33:12.209 - S2S: flow control: Max pending writes MUX: 500
+7008: 12:33:12.209 - S2S: flow control: Max queued buffers MUX: 2000
+7008: 12:33:12.209 - S2S: MaxInboundMessageSize: 512000
+7008: 12:33:12.209 - S2S: MaxOutboundMessageSize: 512000
+7008: 12:33:12.209 - S2S: No inactivity timeout
+7008: 12:33:12.217 - WebSocket S2S: MaxInboundMessageSize: 512000
+7008: 12:33:12.217 - WebSocket S2S: MaxOutboundMessageSize: 512000
+7008: 12:33:12.217 - WebSocket S2S: No inactivity timeout
+7008: 12:33:12.218 - Max Reliable Data In Transit (awaiting ACKs) per peer : 51200 bytes
+7008: 12:33:12.218 - Per peer bandwidth limit
+7008: 12:33:12.218 - Transmit Rate Limit: 256 KB/Sec
+7008: 12:33:12.218 - Limit period: 200ms
+7008: 12:33:12.218 - Limit per period: 52428 bytes
+7008: 12:33:12.218 - Max queued data for transmission per peer: 512000 bytes
+7008: 12:33:12.218 - Minimum retransmit timeout: 200
+7008: 12:33:12.218 - No Maximum retransmit timeout
+7008: 12:33:12.218 - Minimum ENet timeout: 5000ms
+7008: 12:33:12.219 - Maximum ENet timeout: 30000ms
+7008: 12:33:12.219 - Max Inbound Reliable Data Queued (awaiting resends of earlier sequence numbers) per peer : 163840 bytes
+7008: 12:33:12.219 - No RTT ACK adjustment timeout
+7008: 12:33:12.219 - Outbound ENet: MaxInboundMessageSize: 512000
+7008: 12:33:12.219 - Outbound ENet: MaxOutboundMessageSize: 512000
+7008: 12:33:12.230 - GetRuntime - About to load CLR - versions available:
+7008: 12:33:12.230 - v2.0.50727
+7008: 12:33:12.230 - v4.0.30319
+7008: 12:33:12.230 - Configuration requests: "v2.0.50727"
+7008: 12:33:12.230 - About to load version: "v2.0.50727"
+7008: 12:33:12.297 - About to load runtime: PhotonHostRuntime.PhotonDomainManager from PhotonHostRuntime, Culture=neutral, PublicKeyToken=02C301B61B060C4D
+7008: 12:33:12.297 - CLRBaseDirectory set to "C:\Users\Admin\Desktop\PhotonServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy"
+7008: 12:33:12.297 - Optimising event broadcast for 20 or more peers
+7008: 12:33:12.300 - Start: About to load CLR - versions available:
+7008: 12:33:12.300 - v2.0.50727
+7008: 12:33:12.300 - v4.0.30319
+7008: 12:33:12.300 - No preference in configuration file, will load latest.
+7008: 12:33:12.300 - About to load version: "v4.0.30319"
+7008: 12:33:12.303 - Loaded version: "v4.0.30319"
+7008: 12:33:12.845 - Photon host runtime loaded
+7008: 12:33:15.546 - LICENSE: No license file was found. Starting with Bootstrap License.
+7008: 12:33:15.547 - License is valid.
+7008: 12:33:15.547 - Licensed for 20 concurrent connections.
+7008: 12:33:15.547 - ENet: Max Reliable Data In Transit (awaiting ACKs) per peer : 51200 bytes
+7008: 12:33:15.547 - ENet: Per peer bandwidth limit
+7008: 12:33:15.547 - ENet: Transmit Rate Limit: 256 KB/Sec
+7008: 12:33:15.547 - ENet: Limit period: 200ms
+7008: 12:33:15.547 - ENet: Limit per period: 52428 bytes
+7008: 12:33:15.547 - ENet: Max queued data for transmission per peer: 512000 bytes
+7008: 12:33:15.547 - ENet: Minimum retransmit timeout: 200
+7008: 12:33:15.547 - No Maximum retransmit timeout
+7008: 12:33:15.547 - ENet: Minimum timeout: 5000ms
+7008: 12:33:15.548 - ENet: Maximum timeout: 30000ms
+7008: 12:33:15.548 - ENet: Max Inbound Reliable Data Queued (awaiting resends of earlier sequence numbers) per peer : 163840 bytes
+7008: 12:33:15.548 - No RTT ACK adjustment timeout
+7008: 12:33:15.548 - About to load application: Master from Photon.LoadBalancing
+7008: 12:33:15.548 - Auto restart is enabled for application, existing connections will be terminated during restart
+7008: 12:33:15.548 - Application will restart 1000ms after the last change detected
+7008: 12:33:15.548 - Application will restart if files matching the following are changed: "dll;config"
+7008: 12:33:15.548 - Application will NOT restart if files matching the following are changed: "log4net.config"
+7008: 12:33:16.666 - Taking reference on default app domain
+7008: 12:33:17.212 - Application: "Master" started in app domain: 2
+7008: 12:33:17.212 - About to load application: Game from Photon.LoadBalancing
+7008: 12:33:17.212 - Auto restart is enabled for application, existing connections will be terminated during restart
+7008: 12:33:17.212 - Application will restart 1000ms after the last change detected
+7008: 12:33:17.212 - Application will restart if files matching the following are changed: "dll;config"
+7008: 12:33:17.212 - Application will NOT restart if files matching the following are changed: "log4net.config"
+7008: 12:33:17.644 - Taking reference on default app domain
+7008: 12:33:18.506 - Application: "Game" started in app domain: 3
+7008: 12:33:18.506 - About to load application: CounterPublisher from CounterPublisher
+7008: 12:33:18.506 - Auto restart is enabled for application, existing connections will be terminated during restart
+7008: 12:33:18.506 - Application will restart 1000ms after the last change detected
+7008: 12:33:18.506 - Application will restart if files matching the following are changed: "dll;config"
+7008: 12:33:18.506 - Application will NOT restart if files matching the following are changed: "log4net.config"
+7008: 12:33:18.961 - Taking reference on default app domain
+7008: 12:33:19.396 - Application: "CounterPublisher" started in app domain: 4
+7008: 12:33:19.397 - Adding TCP listener on: 0.0.0.0: 4530 with a listen backlog of: 150
+7008: 12:33:19.397 - TCP inactivity timeout: 10000ms
+7008: 12:33:19.397 - TCP disconnect timeout: 120000ms
+7008: 12:33:19.397 - MaxInboundMessageSize: 512000
+7008: 12:33:19.397 - MaxOutboundMessageSize: 512000
+7008: 12:33:19.397 - Forcing all applications ids to: "Master"
+7008: 12:33:19.404 - Serving policy file requests from: "C:\Users\Admin\Desktop\PhotonServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Policy\assets\socket-policy.xml"
+7008: 12:33:19.404 - Adding TCP listener on: 0.0.0.0: 4531 with a listen backlog of: 150
+7008: 12:33:19.404 - TCP inactivity timeout: 10000ms
+7008: 12:33:19.404 - TCP disconnect timeout: 120000ms
+7008: 12:33:19.404 - MaxInboundMessageSize: 512000
+7008: 12:33:19.404 - MaxOutboundMessageSize: 512000
+7008: 12:33:19.404 - Forcing all applications ids to: "Game"
+7008: 12:33:19.404 - Serving policy file requests from: "C:\Users\Admin\Desktop\PhotonServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Policy\assets\socket-policy.xml"
+7008: 12:33:19.404 - Adding TCP listener on: 0.0.0.0: 4520 with a listen backlog of: 150
+7008: 12:33:19.404 - TCP inactivity timeout: 5000ms
+7008: 12:33:19.405 - TCP disconnect timeout: 120000ms
+7008: 12:33:19.405 - MaxInboundMessageSize: 512000
+7008: 12:33:19.405 - MaxOutboundMessageSize: 512000
+7008: 12:33:19.405 - Forcing all applications ids to: "Master"
+7008: 12:33:19.405 - MaxInboundMessageSize: 512000
+7008: 12:33:19.405 - MaxOutboundMessageSize: 512000
+7008: 12:33:19.405 - UDP address specified as: "0.0.0.0" adding listener to each available IPv4 address
+7008: 12:33:19.406 - Adding UDP listener on: 192.168.0.18: 5055 with a listen backlog of: 500
+7008: 12:33:19.406 - Adding UDP listener on: 127.0.0.1: 5055 with a listen backlog of: 500
+7008: 12:33:19.406 - Forcing all applications ids to: "Game"
+7008: 12:33:19.406 - MaxInboundMessageSize: 512000
+7008: 12:33:19.406 - MaxOutboundMessageSize: 512000
+7008: 12:33:19.406 - UDP address specified as: "0.0.0.0" adding listener to each available IPv4 address
+7008: 12:33:19.406 - Adding UDP listener on: 192.168.0.18: 5056 with a listen backlog of: 500
+7008: 12:33:19.406 - Adding UDP listener on: 127.0.0.1: 5056 with a listen backlog of: 500
+7008: 12:33:19.406 - Adding WebSocket TCP listener on: 0.0.0.0: 9090 with a listen backlog of: 150
+7008: 12:33:19.406 - Nagle disabled
+7008: 12:33:19.406 - TCP inactivity timeout: 10000ms
+7008: 12:33:19.406 - MaxInboundMessageSize: 512000
+7008: 12:33:19.406 - MaxOutboundMessageSize: 512000
+7008: 12:33:19.406 - Forcing all applications ids to: "Master"
+7008: 12:33:19.406 - Will accept ANY sub-protocols from the client
+7008: 12:33:19.407 - No automatic WebSocket ping
+7008: 12:33:19.407 - Adding WebSocket TCP listener on: 0.0.0.0: 9091 with a listen backlog of: 150
+7008: 12:33:19.407 - Nagle disabled
+7008: 12:33:19.407 - TCP inactivity timeout: 10000ms
+7008: 12:33:19.407 - MaxInboundMessageSize: 512000
+7008: 12:33:19.407 - MaxOutboundMessageSize: 512000
+7008: 12:33:19.407 - Forcing all applications ids to: "Game"
+7008: 12:33:19.407 - Will accept ANY sub-protocols from the client
+7008: 12:33:19.408 - No automatic WebSocket ping
+7008: 12:33:19.408 - Adding Policy File listener on: 0.0.0.0: 843 with a listen backlog of: 150 and serving Policy File: "C:\Users\Admin\Desktop\PhotonServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Policy\assets\socket-policy.xml"
+7008: 12:33:19.408 - TCP inactivity timeout: 1000ms
+7008: 12:33:19.411 - Adding Policy File listener on: 0.0.0.0: 943 with a listen backlog of: 150 and serving Policy File: "C:\Users\Admin\Desktop\PhotonServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Policy\assets\socket-policy-silverlight.xml"
+7008: 12:33:19.411 - TCP inactivity timeout: 1000ms
+7008: 12:33:19.532 - Service is running...
+5220: 13:22:00.279 - CUDPSocketServer::OnError() - TDatagramSocketServer::OnError() Handler Error: An unexpected network error occurred.
+5220: 13:22:00.279 - CUDPSocketServer::OnError() - CUDPSocketServer::OnSendToCompletionError(): An unexpected network error occurred.
+5220: 13:22:00.497 - CUDPSocketServer::OnError() - TDatagramSocketServer::OnError() Handler Error: An unexpected network error occurred.
+5220: 13:22:00.497 - CUDPSocketServer::OnError() - CUDPSocketServer::OnSendToCompletionError(): An unexpected network error occurred.
+5220: 13:22:00.902 - CUDPSocketServer::OnError() - TDatagramSocketServer::OnError() Handler Error: An unexpected network error occurred.
+5220: 13:22:00.902 - CUDPSocketServer::OnError() - CUDPSocketServer::OnSendToCompletionError(): An unexpected network error occurred.
+5220: 13:22:01.713 - CUDPSocketServer::OnError() - TDatagramSocketServer::OnError() Handler Error: An unexpected network error occurred.
+5220: 13:22:01.713 - CUDPSocketServer::OnError() - CUDPSocketServer::OnSendToCompletionError(): An unexpected network error occurred.
+5220: 13:22:03.321 - CUDPSocketServer::OnError() - TDatagramSocketServer::OnError() Handler Error: An unexpected network error occurred.
+5220: 13:22:03.321 - CUDPSocketServer::OnError() - CUDPSocketServer::OnSendToCompletionError(): An unexpected network error occurred.
+4324: 14:55:49.267 - CUDPSocketServer::OnError() - TDatagramSocketServer::OnError() Handler Error: An unexpected network error occurred.
+4324: 14:55:49.267 - CUDPSocketServer::OnError() - CUDPSocketServer::OnSendToCompletionError(): An unexpected network error occurred.

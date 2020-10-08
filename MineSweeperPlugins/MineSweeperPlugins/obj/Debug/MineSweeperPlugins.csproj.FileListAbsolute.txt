@@ -1,0 +1,9 @@
+C:\Users\Admin\Desktop\PhotonServer\MineSweeperPlugins\MineSweeperPlugins\obj\Debug\MineSweeperPlugins.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\PhotonServer\MineSweeperPlugins\MineSweeperPlugins\obj\Debug\MineSweeperPlugins.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\PhotonServer\MineSweeperPlugins\MineSweeperPlugins\obj\Debug\MineSweeperPlugins.csproj.CopyComplete
+C:\Users\Admin\Desktop\PhotonServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Plugins\MineSweepersPlugins\bin\MineSweepersPlugins.dll
+C:\Users\Admin\Desktop\PhotonServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Plugins\MineSweepersPlugins\bin\MineSweepersPlugins.pdb
+C:\Users\Admin\Desktop\PhotonServer\MineSweeperPlugins\MineSweeperPlugins\obj\Debug\MineSweepersPlugins.dll
+C:\Users\Admin\Desktop\PhotonServer\MineSweeperPlugins\MineSweeperPlugins\obj\Debug\MineSweepersPlugins.pdb
+C:\Users\Admin\Desktop\PhotonServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Plugins\MineSweepersPlugins\1.0.0\bin\MineSweepersPlugins.dll
+C:\Users\Admin\Desktop\PhotonServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Plugins\MineSweepersPlugins\1.0.0\bin\MineSweepersPlugins.pdb

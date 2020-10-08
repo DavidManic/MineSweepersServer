@@ -1,0 +1,11 @@
+7788: 22:12:43.292 - ---
+7788: 22:12:43.292 - Service: "Photon Socket Server" starting
+7788: 22:12:43.292 - Config File: C:\Users\Admin\Desktop\PhotonServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\bin_Win64\PhotonServer.config
+7788: 22:12:43.294 - Will produce at most: 10 crash dumps
+7788: 22:12:43.294 - Existing dump file: PhotonSocketServer.exe-20200205-154020-5524-4800-1.dmp
+7788: 22:12:43.294 - Existing dump file: PhotonSocketServer.exe-20200205-154021-5524-4800-2.dmp
+7788: 22:12:43.294 - Existing dump file: PhotonSocketServer.exe-20200205-154324-5352-5536-1.dmp
+7788: 22:12:43.294 - Existing dump file: PhotonSocketServer.exe-20200205-154324-5352-5536-2.dmp
+7788: 22:12:43.294 - Max dumps to produce reduced to 6 due to 4 existing dump files
+7788: 22:12:43.294 - Service shutting down
+7788: 22:12:43.296 - Service shut down complete

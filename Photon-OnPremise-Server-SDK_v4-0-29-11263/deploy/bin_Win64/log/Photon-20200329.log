@@ -1,0 +1,66 @@
+5492: 12:43:15.917 - ---
+5492: 12:43:15.917 - Service: "Photon Socket Server" starting
+5492: 12:43:15.918 - Config File: C:\Users\Admin\Desktop\PhotonServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\bin_Win64\PhotonServer.config
+5492: 12:43:15.920 - Will produce at most: 10 crash dumps
+5492: 12:43:15.920 - Existing dump file: PhotonSocketServer.exe-20200205-154020-5524-4800-1.dmp
+5492: 12:43:15.920 - Existing dump file: PhotonSocketServer.exe-20200205-154021-5524-4800-2.dmp
+5492: 12:43:15.920 - Existing dump file: PhotonSocketServer.exe-20200205-154324-5352-5536-1.dmp
+5492: 12:43:15.920 - Existing dump file: PhotonSocketServer.exe-20200205-154324-5352-5536-2.dmp
+5492: 12:43:15.920 - Max dumps to produce reduced to 6 due to 4 existing dump files
+5492: 12:43:15.920 - Service shutting down
+5492: 12:43:15.923 - Service shut down complete
+9436: 16:00:18.902 - ---
+9436: 16:00:18.902 - Service: "Photon Socket Server" starting
+9436: 16:00:18.903 - Config File: C:\Users\Admin\Desktop\PhotonServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\bin_Win64\PhotonServer.config
+9436: 16:00:18.907 - Will produce at most: 10 crash dumps
+9436: 16:00:18.907 - Existing dump file: PhotonSocketServer.exe-20200205-154020-5524-4800-1.dmp
+9436: 16:00:18.907 - Existing dump file: PhotonSocketServer.exe-20200205-154021-5524-4800-2.dmp
+9436: 16:00:18.907 - Existing dump file: PhotonSocketServer.exe-20200205-154324-5352-5536-1.dmp
+9436: 16:00:18.907 - Existing dump file: PhotonSocketServer.exe-20200205-154324-5352-5536-2.dmp
+9436: 16:00:18.907 - Max dumps to produce reduced to 6 due to 4 existing dump files
+9436: 16:00:18.907 - Service shutting down
+9436: 16:00:18.909 - Service shut down complete
+9860: 16:08:16.436 - ---
+9860: 16:08:16.436 - Service: "Photon Socket Server" starting
+9860: 16:08:16.436 - Config File: C:\Users\Admin\Desktop\PhotonServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\bin_Win64\PhotonServer.config
+9860: 16:08:16.440 - Will produce at most: 10 crash dumps
+9860: 16:08:16.440 - Existing dump file: PhotonSocketServer.exe-20200205-154020-5524-4800-1.dmp
+9860: 16:08:16.441 - Existing dump file: PhotonSocketServer.exe-20200205-154021-5524-4800-2.dmp
+9860: 16:08:16.441 - Existing dump file: PhotonSocketServer.exe-20200205-154324-5352-5536-1.dmp
+9860: 16:08:16.441 - Existing dump file: PhotonSocketServer.exe-20200205-154324-5352-5536-2.dmp
+9860: 16:08:16.441 - Max dumps to produce reduced to 6 due to 4 existing dump files
+9860: 16:08:16.441 - Service shutting down
+9860: 16:08:16.445 - Service shut down complete
+5136: 16:53:09.483 - ---
+5136: 16:53:09.483 - Service: "Photon Socket Server" starting
+5136: 16:53:09.483 - Config File: C:\Users\Admin\Desktop\PhotonServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\bin_Win64\PhotonServer.config
+5136: 16:53:09.486 - Will produce at most: 10 crash dumps
+5136: 16:53:09.486 - Existing dump file: PhotonSocketServer.exe-20200205-154020-5524-4800-1.dmp
+5136: 16:53:09.486 - Existing dump file: PhotonSocketServer.exe-20200205-154021-5524-4800-2.dmp
+5136: 16:53:09.486 - Existing dump file: PhotonSocketServer.exe-20200205-154324-5352-5536-1.dmp
+5136: 16:53:09.486 - Existing dump file: PhotonSocketServer.exe-20200205-154324-5352-5536-2.dmp
+5136: 16:53:09.486 - Max dumps to produce reduced to 6 due to 4 existing dump files
+5136: 16:53:09.486 - Service shutting down
+5136: 16:53:09.487 - Service shut down complete
+10036: 16:54:00.282 - ---
+10036: 16:54:00.282 - Service: "Photon Socket Server" starting
+10036: 16:54:00.282 - Config File: C:\Users\Admin\Desktop\PhotonServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\bin_Win64\PhotonServer.config
+10036: 16:54:00.284 - Will produce at most: 10 crash dumps
+10036: 16:54:00.285 - Existing dump file: PhotonSocketServer.exe-20200205-154020-5524-4800-1.dmp
+10036: 16:54:00.285 - Existing dump file: PhotonSocketServer.exe-20200205-154021-5524-4800-2.dmp
+10036: 16:54:00.285 - Existing dump file: PhotonSocketServer.exe-20200205-154324-5352-5536-1.dmp
+10036: 16:54:00.285 - Existing dump file: PhotonSocketServer.exe-20200205-154324-5352-5536-2.dmp
+10036: 16:54:00.285 - Max dumps to produce reduced to 6 due to 4 existing dump files
+10036: 16:54:00.285 - Service shutting down
+10036: 16:54:00.286 - Service shut down complete
+15760: 17:30:49.686 - ---
+15760: 17:30:49.686 - Service: "Photon Socket Server" starting
+15760: 17:30:49.686 - Config File: C:\Users\Admin\Desktop\PhotonServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\bin_Win64\PhotonServer.config
+15760: 17:30:49.690 - Will produce at most: 10 crash dumps
+15760: 17:30:49.690 - Existing dump file: PhotonSocketServer.exe-20200205-154020-5524-4800-1.dmp
+15760: 17:30:49.690 - Existing dump file: PhotonSocketServer.exe-20200205-154021-5524-4800-2.dmp
+15760: 17:30:49.690 - Existing dump file: PhotonSocketServer.exe-20200205-154324-5352-5536-1.dmp
+15760: 17:30:49.690 - Existing dump file: PhotonSocketServer.exe-20200205-154324-5352-5536-2.dmp
+15760: 17:30:49.690 - Max dumps to produce reduced to 6 due to 4 existing dump files
+15760: 17:30:49.690 - Service shutting down
+15760: 17:30:49.692 - Service shut down complete

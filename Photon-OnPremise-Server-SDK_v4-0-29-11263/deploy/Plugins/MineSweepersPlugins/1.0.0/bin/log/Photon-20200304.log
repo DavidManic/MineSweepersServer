@@ -1,0 +1,12 @@
+4200: 11:05:19.926 - ---
+4200: 11:05:19.926 - Service: "Photon Socket Server" starting
+4200: 11:05:19.926 - Config File: C:\Users\Admin\Desktop\PhotonServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Plugins\MineSweepersPlugins\1.0.0\bin\PhotonServer.config
+4200: 11:05:19.929 - Will produce at most: 10 crash dumps
+4200: 11:05:19.929 - Service shutting down
+4200: 11:05:19.931 - Service shut down complete
+8680: 11:11:15.454 - ---
+8680: 11:11:15.454 - Service: "Photon Socket Server" starting
+8680: 11:11:15.455 - Config File: C:\Users\Admin\Desktop\PhotonServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Plugins\MineSweepersPlugins\1.0.0\bin\PhotonServer.config
+8680: 11:11:15.456 - Will produce at most: 10 crash dumps
+8680: 11:11:15.456 - Service shutting down
+8680: 11:11:15.457 - Service shut down complete
