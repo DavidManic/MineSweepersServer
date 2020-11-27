@@ -5,9 +5,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using ExitGames.Logging;
+using System.Security.Cryptography.X509Certificates;
 
 namespace MineSweepersPlugins
 {
+    /// <summary>
+    /// Manages player playing order
+    /// </summary>
     public class TurnManager
     {
         private IPluginHost pluginHost;
@@ -140,6 +144,17 @@ namespace MineSweepersPlugins
                 if (actor.ActorNr == actorNr)
                     return actor;
             return null;
+        }
+
+        public void AddActor(IActor actor)
+        {
+            actors.Add(actor);
+        }
+
+        public void Remove(IActor actor)
+        {
+            if (current == actor.ActorNr) NextTurn();
+            actors.Remove(actor);
         }
     }
 }

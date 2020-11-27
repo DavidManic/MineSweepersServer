@@ -1206,3 +1206,629 @@
 2020-10-05 11:51:21,170 [9] INFO  Photon.LoadBalancing.MasterServer.GameServer.IncomingGameServerPeer - game server connection from 127.0.0.1:49753 established (id=2)
 2020-10-05 11:51:21,404 [11] WARN  Photon.LoadBalancing.Common.NodesReader - Internal address for node 0 unknown; using loop back
 2020-10-05 11:51:21,420 [11] INFO  Photon.LoadBalancing.Common.NodesReader - Node added: 0 = 127.0.0.1
+2020-10-11 12:36:07,597 [1] INFO  Photon.LoadBalancing.MasterServer.MasterApplication - TokenCreator intialized with an expiration of 02:46:40
+2020-10-11 12:36:07,725 [1] INFO  Photon.SocketServer.Diagnostics.HttpQueuePerformanceCounters - HTTP Queue performance counters successfully initialized
+2020-10-11 12:36:07,726 [1] INFO  Photon.SocketServer.Diagnostics.HttpQueuePerformanceCounters - Internal HTTP Queue performance counters successfully created
+2020-10-11 12:36:07,727 [1] INFO  Photon.Common.Authentication.Diagnostic.CustomAuthResultCounters - Start to initialize Photon: Custom Authentication Results performance counters
+2020-10-11 12:36:07,729 [1] INFO  Photon.Common.Authentication.Diagnostic.CustomAuthResultCounters - Photon: Custom Authentication Results performance counters successfully initialized
+2020-10-11 12:36:07,737 [1] WARN  Photon.Common.LoadBalancer.LoadBalancer`1 - Could not initialize LoadBalancer from configuration: Invalid configuration file C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancer.config. Using default settings... (Could not find file 'C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancer.config'.)
+2020-10-11 12:36:07,765 [1] INFO  Photon.LoadBalancing.MasterServer.GameApplication - TokenCreator intialized with an expiration of 02:46:40
+2020-10-11 12:36:07,788 [1] INFO  Photon.LoadBalancing.MasterServer.GameApplication - Application {Default}/{Default} starts without Redis
+2020-10-11 12:36:07,817 [1] INFO  Photon.LoadBalancing.Common.NodesReader - Import nodes
+2020-10-11 12:36:07,818 [1] WARN  Photon.LoadBalancing.Common.NodesReader - C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Nodes.txt does not exist, CurrentNodeId = 0
+2020-10-11 12:36:07,818 [1] INFO  Photon.LoadBalancing.Common.NodesReader - Watching C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Nodes.txt
+2020-10-11 12:36:07,819 [1] INFO  Photon.LoadBalancing.MasterServer.MasterApplication - Current Node (nodeId=0) is the active master (leader)
+2020-10-11 12:36:07,819 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=Master; AppPath=C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancing\Master, Type=Photon.LoadBalancing.MasterServer.MasterApplication 
+2020-10-11 12:36:07,843 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher - CounterPublisher started publishing ExitGames.Diagnostics.Monitoring.CounterSamplePublisher to ExitGames.Diagnostics.Monitoring.CounterSampleSender
+2020-10-11 12:36:07,867 [14] INFO  Photon.LoadBalancing.MasterServer.GameServer.IncomingGameServerPeer - game server connection from 127.0.0.1:63745 established (id=2)
+2020-10-11 12:36:07,934 [14] WARN  Photon.LoadBalancing.Common.NodesReader - Internal address for node 0 unknown; using loop back
+2020-10-11 12:36:07,935 [14] INFO  Photon.LoadBalancing.Common.NodesReader - Node added: 0 = 127.0.0.1
+2020-10-11 12:37:26,565 [19] INFO  Photon.LoadBalancing.MasterServer.GameServer.IncomingGameServerPeer - game server connection from 127.0.0.1:63752 established (id=3)
+2020-10-11 12:37:26,567 [15] INFO  Photon.LoadBalancing.MasterServer.GameServer.IncomingGameServerPeer - OnDisconnect: game server connection closed (connectionId=2, serverId=add08a01-ea23-41e1-a8f9-a1b7e0e2f5a5, reason=ClientDisconnect)
+2020-10-11 12:37:29,366 [19] INFO  Photon.LoadBalancing.MasterServer.GameServer.IncomingGameServerPeer - OnDisconnect: game server connection closed (connectionId=3, serverId=936f92b7-76a7-4183-acb7-89d1792e6119, reason=ClientDisconnect)
+2020-10-11 12:37:29,370 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=Master
+2020-10-11 12:37:29,380 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=Master
+2020-10-11 12:37:35,326 [1] INFO  Photon.LoadBalancing.MasterServer.MasterApplication - TokenCreator intialized with an expiration of 02:46:40
+2020-10-11 12:37:35,454 [1] INFO  Photon.SocketServer.Diagnostics.HttpQueuePerformanceCounters - HTTP Queue performance counters successfully initialized
+2020-10-11 12:37:35,455 [1] INFO  Photon.SocketServer.Diagnostics.HttpQueuePerformanceCounters - Internal HTTP Queue performance counters successfully created
+2020-10-11 12:37:35,456 [1] INFO  Photon.Common.Authentication.Diagnostic.CustomAuthResultCounters - Start to initialize Photon: Custom Authentication Results performance counters
+2020-10-11 12:37:35,458 [1] INFO  Photon.Common.Authentication.Diagnostic.CustomAuthResultCounters - Photon: Custom Authentication Results performance counters successfully initialized
+2020-10-11 12:37:35,466 [1] WARN  Photon.Common.LoadBalancer.LoadBalancer`1 - Could not initialize LoadBalancer from configuration: Invalid configuration file C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancer.config. Using default settings... (Could not find file 'C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancer.config'.)
+2020-10-11 12:37:35,498 [1] INFO  Photon.LoadBalancing.MasterServer.GameApplication - TokenCreator intialized with an expiration of 02:46:40
+2020-10-11 12:37:35,525 [1] INFO  Photon.LoadBalancing.MasterServer.GameApplication - Application {Default}/{Default} starts without Redis
+2020-10-11 12:37:35,555 [1] INFO  Photon.LoadBalancing.Common.NodesReader - Import nodes
+2020-10-11 12:37:35,556 [1] WARN  Photon.LoadBalancing.Common.NodesReader - C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Nodes.txt does not exist, CurrentNodeId = 0
+2020-10-11 12:37:35,556 [1] INFO  Photon.LoadBalancing.Common.NodesReader - Watching C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Nodes.txt
+2020-10-11 12:37:35,556 [1] INFO  Photon.LoadBalancing.MasterServer.MasterApplication - Current Node (nodeId=0) is the active master (leader)
+2020-10-11 12:37:35,557 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=Master; AppPath=C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancing\Master, Type=Photon.LoadBalancing.MasterServer.MasterApplication 
+2020-10-11 12:37:35,583 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher - CounterPublisher started publishing ExitGames.Diagnostics.Monitoring.CounterSamplePublisher to ExitGames.Diagnostics.Monitoring.CounterSampleSender
+2020-10-11 12:37:35,606 [11] INFO  Photon.LoadBalancing.MasterServer.GameServer.IncomingGameServerPeer - game server connection from 127.0.0.1:63754 established (id=2)
+2020-10-11 12:37:35,692 [11] WARN  Photon.LoadBalancing.Common.NodesReader - Internal address for node 0 unknown; using loop back
+2020-10-11 12:37:35,693 [11] INFO  Photon.LoadBalancing.Common.NodesReader - Node added: 0 = 127.0.0.1
+2020-10-11 12:53:36,638 [15] INFO  Photon.LoadBalancing.MasterServer.GameServer.IncomingGameServerPeer - OnDisconnect: game server connection closed (connectionId=2, serverId=780da71a-2761-4f71-a697-37189cba88c9, reason=ClientDisconnect)
+2020-10-11 12:53:36,643 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=Master
+2020-10-11 12:53:36,651 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=Master
+2020-10-11 12:53:43,563 [1] INFO  Photon.LoadBalancing.MasterServer.MasterApplication - TokenCreator intialized with an expiration of 02:46:40
+2020-10-11 12:53:43,696 [1] INFO  Photon.SocketServer.Diagnostics.HttpQueuePerformanceCounters - HTTP Queue performance counters successfully initialized
+2020-10-11 12:53:43,697 [1] INFO  Photon.SocketServer.Diagnostics.HttpQueuePerformanceCounters - Internal HTTP Queue performance counters successfully created
+2020-10-11 12:53:43,699 [1] INFO  Photon.Common.Authentication.Diagnostic.CustomAuthResultCounters - Start to initialize Photon: Custom Authentication Results performance counters
+2020-10-11 12:53:43,700 [1] INFO  Photon.Common.Authentication.Diagnostic.CustomAuthResultCounters - Photon: Custom Authentication Results performance counters successfully initialized
+2020-10-11 12:53:43,707 [1] WARN  Photon.Common.LoadBalancer.LoadBalancer`1 - Could not initialize LoadBalancer from configuration: Invalid configuration file C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancer.config. Using default settings... (Could not find file 'C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancer.config'.)
+2020-10-11 12:53:43,734 [1] INFO  Photon.LoadBalancing.MasterServer.GameApplication - TokenCreator intialized with an expiration of 02:46:40
+2020-10-11 12:53:43,755 [1] INFO  Photon.LoadBalancing.MasterServer.GameApplication - Application {Default}/{Default} starts without Redis
+2020-10-11 12:53:43,783 [1] INFO  Photon.LoadBalancing.Common.NodesReader - Import nodes
+2020-10-11 12:53:43,784 [1] WARN  Photon.LoadBalancing.Common.NodesReader - C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Nodes.txt does not exist, CurrentNodeId = 0
+2020-10-11 12:53:43,784 [1] INFO  Photon.LoadBalancing.Common.NodesReader - Watching C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Nodes.txt
+2020-10-11 12:53:43,785 [1] INFO  Photon.LoadBalancing.MasterServer.MasterApplication - Current Node (nodeId=0) is the active master (leader)
+2020-10-11 12:53:43,785 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=Master; AppPath=C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancing\Master, Type=Photon.LoadBalancing.MasterServer.MasterApplication 
+2020-10-11 12:53:43,811 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher - CounterPublisher started publishing ExitGames.Diagnostics.Monitoring.CounterSamplePublisher to ExitGames.Diagnostics.Monitoring.CounterSampleSender
+2020-10-11 12:53:43,834 [13] INFO  Photon.LoadBalancing.MasterServer.GameServer.IncomingGameServerPeer - game server connection from 127.0.0.1:64090 established (id=2)
+2020-10-11 12:53:43,899 [10] WARN  Photon.LoadBalancing.Common.NodesReader - Internal address for node 0 unknown; using loop back
+2020-10-11 12:53:43,900 [10] INFO  Photon.LoadBalancing.Common.NodesReader - Node added: 0 = 127.0.0.1
+2020-10-11 13:09:29,829 [18] INFO  Photon.LoadBalancing.MasterServer.GameServer.IncomingGameServerPeer - OnDisconnect: game server connection closed (connectionId=2, serverId=012195fc-628f-44ed-9fc4-f207079b4eb7, reason=ClientDisconnect)
+2020-10-11 13:09:29,831 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=Master
+2020-10-11 13:09:29,841 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=Master
+2020-10-11 13:09:36,322 [1] INFO  Photon.LoadBalancing.MasterServer.MasterApplication - TokenCreator intialized with an expiration of 02:46:40
+2020-10-11 13:09:36,460 [1] INFO  Photon.SocketServer.Diagnostics.HttpQueuePerformanceCounters - HTTP Queue performance counters successfully initialized
+2020-10-11 13:09:36,460 [1] INFO  Photon.SocketServer.Diagnostics.HttpQueuePerformanceCounters - Internal HTTP Queue performance counters successfully created
+2020-10-11 13:09:36,462 [1] INFO  Photon.Common.Authentication.Diagnostic.CustomAuthResultCounters - Start to initialize Photon: Custom Authentication Results performance counters
+2020-10-11 13:09:36,464 [1] INFO  Photon.Common.Authentication.Diagnostic.CustomAuthResultCounters - Photon: Custom Authentication Results performance counters successfully initialized
+2020-10-11 13:09:36,472 [1] WARN  Photon.Common.LoadBalancer.LoadBalancer`1 - Could not initialize LoadBalancer from configuration: Invalid configuration file C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancer.config. Using default settings... (Could not find file 'C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancer.config'.)
+2020-10-11 13:09:36,499 [1] INFO  Photon.LoadBalancing.MasterServer.GameApplication - TokenCreator intialized with an expiration of 02:46:40
+2020-10-11 13:09:36,521 [1] INFO  Photon.LoadBalancing.MasterServer.GameApplication - Application {Default}/{Default} starts without Redis
+2020-10-11 13:09:36,550 [1] INFO  Photon.LoadBalancing.Common.NodesReader - Import nodes
+2020-10-11 13:09:36,550 [1] WARN  Photon.LoadBalancing.Common.NodesReader - C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Nodes.txt does not exist, CurrentNodeId = 0
+2020-10-11 13:09:36,551 [1] INFO  Photon.LoadBalancing.Common.NodesReader - Watching C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Nodes.txt
+2020-10-11 13:09:36,551 [1] INFO  Photon.LoadBalancing.MasterServer.MasterApplication - Current Node (nodeId=0) is the active master (leader)
+2020-10-11 13:09:36,552 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=Master; AppPath=C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancing\Master, Type=Photon.LoadBalancing.MasterServer.MasterApplication 
+2020-10-11 13:09:36,576 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher - CounterPublisher started publishing ExitGames.Diagnostics.Monitoring.CounterSamplePublisher to ExitGames.Diagnostics.Monitoring.CounterSampleSender
+2020-10-11 13:09:36,599 [10] INFO  Photon.LoadBalancing.MasterServer.GameServer.IncomingGameServerPeer - game server connection from 127.0.0.1:64561 established (id=2)
+2020-10-11 13:09:36,668 [10] WARN  Photon.LoadBalancing.Common.NodesReader - Internal address for node 0 unknown; using loop back
+2020-10-11 13:09:36,668 [10] INFO  Photon.LoadBalancing.Common.NodesReader - Node added: 0 = 127.0.0.1
+2020-10-11 13:12:52,895 [29] INFO  Photon.LoadBalancing.MasterServer.GameServer.IncomingGameServerPeer - OnDisconnect: game server connection closed (connectionId=2, serverId=32ff2d87-b31d-4958-a12b-e6152fed1835, reason=ClientDisconnect)
+2020-10-11 13:12:52,898 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=Master
+2020-10-11 13:12:52,908 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=Master
+2020-10-11 13:12:59,445 [1] INFO  Photon.LoadBalancing.MasterServer.MasterApplication - TokenCreator intialized with an expiration of 02:46:40
+2020-10-11 13:12:59,584 [1] INFO  Photon.SocketServer.Diagnostics.HttpQueuePerformanceCounters - HTTP Queue performance counters successfully initialized
+2020-10-11 13:12:59,585 [1] INFO  Photon.SocketServer.Diagnostics.HttpQueuePerformanceCounters - Internal HTTP Queue performance counters successfully created
+2020-10-11 13:12:59,587 [1] INFO  Photon.Common.Authentication.Diagnostic.CustomAuthResultCounters - Start to initialize Photon: Custom Authentication Results performance counters
+2020-10-11 13:12:59,588 [1] INFO  Photon.Common.Authentication.Diagnostic.CustomAuthResultCounters - Photon: Custom Authentication Results performance counters successfully initialized
+2020-10-11 13:12:59,596 [1] WARN  Photon.Common.LoadBalancer.LoadBalancer`1 - Could not initialize LoadBalancer from configuration: Invalid configuration file C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancer.config. Using default settings... (Could not find file 'C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancer.config'.)
+2020-10-11 13:12:59,659 [1] INFO  Photon.LoadBalancing.MasterServer.GameApplication - TokenCreator intialized with an expiration of 02:46:40
+2020-10-11 13:12:59,691 [1] INFO  Photon.LoadBalancing.MasterServer.GameApplication - Application {Default}/{Default} starts without Redis
+2020-10-11 13:12:59,721 [1] INFO  Photon.LoadBalancing.Common.NodesReader - Import nodes
+2020-10-11 13:12:59,722 [1] WARN  Photon.LoadBalancing.Common.NodesReader - C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Nodes.txt does not exist, CurrentNodeId = 0
+2020-10-11 13:12:59,723 [1] INFO  Photon.LoadBalancing.Common.NodesReader - Watching C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Nodes.txt
+2020-10-11 13:12:59,723 [1] INFO  Photon.LoadBalancing.MasterServer.MasterApplication - Current Node (nodeId=0) is the active master (leader)
+2020-10-11 13:12:59,723 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=Master; AppPath=C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancing\Master, Type=Photon.LoadBalancing.MasterServer.MasterApplication 
+2020-10-11 13:12:59,748 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher - CounterPublisher started publishing ExitGames.Diagnostics.Monitoring.CounterSamplePublisher to ExitGames.Diagnostics.Monitoring.CounterSampleSender
+2020-10-11 13:12:59,773 [13] INFO  Photon.LoadBalancing.MasterServer.GameServer.IncomingGameServerPeer - game server connection from 127.0.0.1:64597 established (id=2)
+2020-10-11 13:12:59,844 [12] WARN  Photon.LoadBalancing.Common.NodesReader - Internal address for node 0 unknown; using loop back
+2020-10-11 13:12:59,844 [12] INFO  Photon.LoadBalancing.Common.NodesReader - Node added: 0 = 127.0.0.1
+2020-10-22 12:27:49,580 [1] INFO  Photon.LoadBalancing.MasterServer.MasterApplication - TokenCreator intialized with an expiration of 02:46:40
+2020-10-22 12:27:49,706 [1] INFO  Photon.SocketServer.Diagnostics.HttpQueuePerformanceCounters - HTTP Queue performance counters successfully initialized
+2020-10-22 12:27:49,707 [1] INFO  Photon.SocketServer.Diagnostics.HttpQueuePerformanceCounters - Internal HTTP Queue performance counters successfully created
+2020-10-22 12:27:49,708 [1] INFO  Photon.Common.Authentication.Diagnostic.CustomAuthResultCounters - Start to initialize Photon: Custom Authentication Results performance counters
+2020-10-22 12:27:49,710 [1] INFO  Photon.Common.Authentication.Diagnostic.CustomAuthResultCounters - Photon: Custom Authentication Results performance counters successfully initialized
+2020-10-22 12:27:49,719 [1] WARN  Photon.Common.LoadBalancer.LoadBalancer`1 - Could not initialize LoadBalancer from configuration: Invalid configuration file C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancer.config. Using default settings... (Could not find file 'C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancer.config'.)
+2020-10-22 12:27:49,753 [1] INFO  Photon.LoadBalancing.MasterServer.GameApplication - TokenCreator intialized with an expiration of 02:46:40
+2020-10-22 12:27:49,785 [1] INFO  Photon.LoadBalancing.MasterServer.GameApplication - Application {Default}/{Default} starts without Redis
+2020-10-22 12:27:49,815 [1] INFO  Photon.LoadBalancing.Common.NodesReader - Import nodes
+2020-10-22 12:27:49,815 [1] WARN  Photon.LoadBalancing.Common.NodesReader - C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Nodes.txt does not exist, CurrentNodeId = 0
+2020-10-22 12:27:49,817 [1] INFO  Photon.LoadBalancing.Common.NodesReader - Watching C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Nodes.txt
+2020-10-22 12:27:49,817 [1] INFO  Photon.LoadBalancing.MasterServer.MasterApplication - Current Node (nodeId=0) is the active master (leader)
+2020-10-22 12:27:49,818 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=Master; AppPath=C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancing\Master, Type=Photon.LoadBalancing.MasterServer.MasterApplication 
+2020-10-22 12:27:49,846 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher - CounterPublisher started publishing ExitGames.Diagnostics.Monitoring.CounterSamplePublisher to ExitGames.Diagnostics.Monitoring.CounterSampleSender
+2020-10-22 12:27:49,871 [10] INFO  Photon.LoadBalancing.MasterServer.GameServer.IncomingGameServerPeer - game server connection from 127.0.0.1:55254 established (id=2)
+2020-10-22 12:27:49,943 [12] WARN  Photon.LoadBalancing.Common.NodesReader - Internal address for node 0 unknown; using loop back
+2020-10-22 12:27:49,943 [12] INFO  Photon.LoadBalancing.Common.NodesReader - Node added: 0 = 127.0.0.1
+2020-10-22 13:01:57,728 [24] INFO  Photon.LoadBalancing.MasterServer.GameServer.IncomingGameServerPeer - OnDisconnect: game server connection closed (connectionId=2, serverId=4b3b7601-9c81-4ef6-9362-308ce338aeb7, reason=ClientDisconnect)
+2020-10-22 13:01:57,731 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=Master
+2020-10-22 13:01:57,741 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=Master
+2020-10-22 13:03:30,748 [1] INFO  Photon.LoadBalancing.MasterServer.MasterApplication - TokenCreator intialized with an expiration of 02:46:40
+2020-10-22 13:03:30,882 [1] INFO  Photon.SocketServer.Diagnostics.HttpQueuePerformanceCounters - HTTP Queue performance counters successfully initialized
+2020-10-22 13:03:30,882 [1] INFO  Photon.SocketServer.Diagnostics.HttpQueuePerformanceCounters - Internal HTTP Queue performance counters successfully created
+2020-10-22 13:03:30,884 [1] INFO  Photon.Common.Authentication.Diagnostic.CustomAuthResultCounters - Start to initialize Photon: Custom Authentication Results performance counters
+2020-10-22 13:03:30,886 [1] INFO  Photon.Common.Authentication.Diagnostic.CustomAuthResultCounters - Photon: Custom Authentication Results performance counters successfully initialized
+2020-10-22 13:03:30,894 [1] WARN  Photon.Common.LoadBalancer.LoadBalancer`1 - Could not initialize LoadBalancer from configuration: Invalid configuration file C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancer.config. Using default settings... (Could not find file 'C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancer.config'.)
+2020-10-22 13:03:30,923 [1] INFO  Photon.LoadBalancing.MasterServer.GameApplication - TokenCreator intialized with an expiration of 02:46:40
+2020-10-22 13:03:30,945 [1] INFO  Photon.LoadBalancing.MasterServer.GameApplication - Application {Default}/{Default} starts without Redis
+2020-10-22 13:03:30,973 [1] INFO  Photon.LoadBalancing.Common.NodesReader - Import nodes
+2020-10-22 13:03:30,974 [1] WARN  Photon.LoadBalancing.Common.NodesReader - C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Nodes.txt does not exist, CurrentNodeId = 0
+2020-10-22 13:03:30,974 [1] INFO  Photon.LoadBalancing.Common.NodesReader - Watching C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Nodes.txt
+2020-10-22 13:03:30,975 [1] INFO  Photon.LoadBalancing.MasterServer.MasterApplication - Current Node (nodeId=0) is the active master (leader)
+2020-10-22 13:03:30,975 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=Master; AppPath=C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancing\Master, Type=Photon.LoadBalancing.MasterServer.MasterApplication 
+2020-10-22 13:03:30,999 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher - CounterPublisher started publishing ExitGames.Diagnostics.Monitoring.CounterSamplePublisher to ExitGames.Diagnostics.Monitoring.CounterSampleSender
+2020-10-22 13:03:31,021 [13] INFO  Photon.LoadBalancing.MasterServer.GameServer.IncomingGameServerPeer - game server connection from 127.0.0.1:55779 established (id=2)
+2020-10-22 13:03:31,084 [10] WARN  Photon.LoadBalancing.Common.NodesReader - Internal address for node 0 unknown; using loop back
+2020-10-22 13:03:31,084 [10] INFO  Photon.LoadBalancing.Common.NodesReader - Node added: 0 = 127.0.0.1
+2020-10-22 13:12:39,507 [22] INFO  Photon.LoadBalancing.MasterServer.GameServer.IncomingGameServerPeer - OnDisconnect: game server connection closed (connectionId=2, serverId=1defe984-305a-4557-9514-58faf50c09b1, reason=ClientDisconnect)
+2020-10-22 13:12:39,511 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=Master
+2020-10-22 13:12:39,521 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=Master
+2020-10-22 13:13:17,876 [1] INFO  Photon.LoadBalancing.MasterServer.MasterApplication - TokenCreator intialized with an expiration of 02:46:40
+2020-10-22 13:13:18,004 [1] INFO  Photon.SocketServer.Diagnostics.HttpQueuePerformanceCounters - HTTP Queue performance counters successfully initialized
+2020-10-22 13:13:18,004 [1] INFO  Photon.SocketServer.Diagnostics.HttpQueuePerformanceCounters - Internal HTTP Queue performance counters successfully created
+2020-10-22 13:13:18,005 [1] INFO  Photon.Common.Authentication.Diagnostic.CustomAuthResultCounters - Start to initialize Photon: Custom Authentication Results performance counters
+2020-10-22 13:13:18,007 [1] INFO  Photon.Common.Authentication.Diagnostic.CustomAuthResultCounters - Photon: Custom Authentication Results performance counters successfully initialized
+2020-10-22 13:13:18,015 [1] WARN  Photon.Common.LoadBalancer.LoadBalancer`1 - Could not initialize LoadBalancer from configuration: Invalid configuration file C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancer.config. Using default settings... (Could not find file 'C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancer.config'.)
+2020-10-22 13:13:18,044 [1] INFO  Photon.LoadBalancing.MasterServer.GameApplication - TokenCreator intialized with an expiration of 02:46:40
+2020-10-22 13:13:18,068 [1] INFO  Photon.LoadBalancing.MasterServer.GameApplication - Application {Default}/{Default} starts without Redis
+2020-10-22 13:13:18,095 [1] INFO  Photon.LoadBalancing.Common.NodesReader - Import nodes
+2020-10-22 13:13:18,096 [1] WARN  Photon.LoadBalancing.Common.NodesReader - C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Nodes.txt does not exist, CurrentNodeId = 0
+2020-10-22 13:13:18,096 [1] INFO  Photon.LoadBalancing.Common.NodesReader - Watching C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Nodes.txt
+2020-10-22 13:13:18,097 [1] INFO  Photon.LoadBalancing.MasterServer.MasterApplication - Current Node (nodeId=0) is the active master (leader)
+2020-10-22 13:13:18,097 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=Master; AppPath=C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancing\Master, Type=Photon.LoadBalancing.MasterServer.MasterApplication 
+2020-10-22 13:13:18,120 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher - CounterPublisher started publishing ExitGames.Diagnostics.Monitoring.CounterSamplePublisher to ExitGames.Diagnostics.Monitoring.CounterSampleSender
+2020-10-22 13:13:18,143 [11] INFO  Photon.LoadBalancing.MasterServer.GameServer.IncomingGameServerPeer - game server connection from 127.0.0.1:56032 established (id=2)
+2020-10-22 13:13:18,210 [12] WARN  Photon.LoadBalancing.Common.NodesReader - Internal address for node 0 unknown; using loop back
+2020-10-22 13:13:18,210 [12] INFO  Photon.LoadBalancing.Common.NodesReader - Node added: 0 = 127.0.0.1
+2020-10-22 13:13:38,351 [10] INFO  Photon.LoadBalancing.MasterServer.GameServer.IncomingGameServerPeer - OnDisconnect: game server connection closed (connectionId=2, serverId=347a9dc4-aa43-4cbf-b8e1-aa0c901fc141, reason=ClientDisconnect)
+2020-10-22 13:13:38,354 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=Master
+2020-10-22 13:13:38,366 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=Master
+2020-10-22 13:28:09,474 [1] INFO  Photon.LoadBalancing.MasterServer.MasterApplication - TokenCreator intialized with an expiration of 02:46:40
+2020-10-22 13:28:09,613 [1] INFO  Photon.SocketServer.Diagnostics.HttpQueuePerformanceCounters - HTTP Queue performance counters successfully initialized
+2020-10-22 13:28:09,614 [1] INFO  Photon.SocketServer.Diagnostics.HttpQueuePerformanceCounters - Internal HTTP Queue performance counters successfully created
+2020-10-22 13:28:09,615 [1] INFO  Photon.Common.Authentication.Diagnostic.CustomAuthResultCounters - Start to initialize Photon: Custom Authentication Results performance counters
+2020-10-22 13:28:09,617 [1] INFO  Photon.Common.Authentication.Diagnostic.CustomAuthResultCounters - Photon: Custom Authentication Results performance counters successfully initialized
+2020-10-22 13:28:09,624 [1] WARN  Photon.Common.LoadBalancer.LoadBalancer`1 - Could not initialize LoadBalancer from configuration: Invalid configuration file C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancer.config. Using default settings... (Could not find file 'C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancer.config'.)
+2020-10-22 13:28:09,650 [1] INFO  Photon.LoadBalancing.MasterServer.GameApplication - TokenCreator intialized with an expiration of 02:46:40
+2020-10-22 13:28:09,674 [1] INFO  Photon.LoadBalancing.MasterServer.GameApplication - Application {Default}/{Default} starts without Redis
+2020-10-22 13:28:09,702 [1] INFO  Photon.LoadBalancing.Common.NodesReader - Import nodes
+2020-10-22 13:28:09,703 [1] WARN  Photon.LoadBalancing.Common.NodesReader - C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Nodes.txt does not exist, CurrentNodeId = 0
+2020-10-22 13:28:09,703 [1] INFO  Photon.LoadBalancing.Common.NodesReader - Watching C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Nodes.txt
+2020-10-22 13:28:09,704 [1] INFO  Photon.LoadBalancing.MasterServer.MasterApplication - Current Node (nodeId=0) is the active master (leader)
+2020-10-22 13:28:09,704 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=Master; AppPath=C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancing\Master, Type=Photon.LoadBalancing.MasterServer.MasterApplication 
+2020-10-22 13:28:09,727 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher - CounterPublisher started publishing ExitGames.Diagnostics.Monitoring.CounterSamplePublisher to ExitGames.Diagnostics.Monitoring.CounterSampleSender
+2020-10-22 13:28:09,750 [10] INFO  Photon.LoadBalancing.MasterServer.GameServer.IncomingGameServerPeer - game server connection from 127.0.0.1:56070 established (id=2)
+2020-10-22 13:28:09,817 [13] WARN  Photon.LoadBalancing.Common.NodesReader - Internal address for node 0 unknown; using loop back
+2020-10-22 13:28:09,817 [13] INFO  Photon.LoadBalancing.Common.NodesReader - Node added: 0 = 127.0.0.1
+2020-10-22 14:52:32,591 [16] INFO  Photon.LoadBalancing.MasterServer.GameServer.IncomingGameServerPeer - OnDisconnect: game server connection closed (connectionId=2, serverId=cc99a076-afaf-479a-9ab2-ca1a1b5b6568, reason=ClientDisconnect)
+2020-10-22 14:52:32,601 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=Master
+2020-10-22 14:52:32,615 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=Master
+2020-10-22 14:52:37,743 [1] INFO  Photon.LoadBalancing.MasterServer.MasterApplication - TokenCreator intialized with an expiration of 02:46:40
+2020-10-22 14:52:37,769 [1] INFO  Photon.SocketServer.Diagnostics.HttpQueuePerformanceCounters - User has no Admin rights. HttpQueuePerformanceCounters initialization skipped
+2020-10-22 14:52:37,770 [1] INFO  Photon.Common.Authentication.Diagnostic.CustomAuthResultCounters - Start to initialize Photon: Custom Authentication Results performance counters
+2020-10-22 14:52:37,771 [1] INFO  Photon.Common.Authentication.Diagnostic.CustomAuthResultCounters - User has no Admin rights. CustomAuthResultCounters initialization skipped
+2020-10-22 14:52:37,778 [1] WARN  Photon.Common.LoadBalancer.LoadBalancer`1 - Could not initialize LoadBalancer from configuration: Invalid configuration file C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancer.config. Using default settings... (Could not find file 'C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancer.config'.)
+2020-10-22 14:52:37,809 [1] INFO  Photon.LoadBalancing.MasterServer.GameApplication - TokenCreator intialized with an expiration of 02:46:40
+2020-10-22 14:52:37,836 [1] INFO  Photon.LoadBalancing.MasterServer.GameApplication - Application {Default}/{Default} starts without Redis
+2020-10-22 14:52:37,872 [1] INFO  Photon.LoadBalancing.Common.NodesReader - Import nodes
+2020-10-22 14:52:37,873 [1] WARN  Photon.LoadBalancing.Common.NodesReader - C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Nodes.txt does not exist, CurrentNodeId = 0
+2020-10-22 14:52:37,873 [1] INFO  Photon.LoadBalancing.Common.NodesReader - Watching C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Nodes.txt
+2020-10-22 14:52:37,874 [1] INFO  Photon.LoadBalancing.MasterServer.MasterApplication - Current Node (nodeId=0) is the active master (leader)
+2020-10-22 14:52:37,874 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=Master; AppPath=C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancing\Master, Type=Photon.LoadBalancing.MasterServer.MasterApplication 
+2020-10-22 14:52:37,900 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher - CounterPublisher started publishing ExitGames.Diagnostics.Monitoring.CounterSamplePublisher to ExitGames.Diagnostics.Monitoring.CounterSampleSender
+2020-10-22 14:52:37,925 [14] INFO  Photon.LoadBalancing.MasterServer.GameServer.IncomingGameServerPeer - game server connection from 127.0.0.1:56374 established (id=2)
+2020-10-22 14:52:37,998 [14] WARN  Photon.LoadBalancing.Common.NodesReader - Internal address for node 0 unknown; using loop back
+2020-10-22 14:52:37,999 [14] INFO  Photon.LoadBalancing.Common.NodesReader - Node added: 0 = 127.0.0.1
+2020-10-22 15:05:46,310 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=Master
+2020-10-22 15:05:46,311 [20] INFO  Photon.LoadBalancing.MasterServer.GameServer.IncomingGameServerPeer - OnDisconnect: game server connection closed (connectionId=2, serverId=adc79d4c-72a1-47cd-8af7-ca1b0a161bdf, reason=ClientDisconnect)
+2020-10-22 15:05:46,326 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=Master
+2020-10-22 15:05:50,457 [1] INFO  Photon.LoadBalancing.MasterServer.MasterApplication - TokenCreator intialized with an expiration of 02:46:40
+2020-10-22 15:05:50,481 [1] INFO  Photon.SocketServer.Diagnostics.HttpQueuePerformanceCounters - User has no Admin rights. HttpQueuePerformanceCounters initialization skipped
+2020-10-22 15:05:50,484 [1] INFO  Photon.Common.Authentication.Diagnostic.CustomAuthResultCounters - Start to initialize Photon: Custom Authentication Results performance counters
+2020-10-22 15:05:50,485 [1] INFO  Photon.Common.Authentication.Diagnostic.CustomAuthResultCounters - User has no Admin rights. CustomAuthResultCounters initialization skipped
+2020-10-22 15:05:50,492 [1] WARN  Photon.Common.LoadBalancer.LoadBalancer`1 - Could not initialize LoadBalancer from configuration: Invalid configuration file C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancer.config. Using default settings... (Could not find file 'C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancer.config'.)
+2020-10-22 15:05:50,522 [1] INFO  Photon.LoadBalancing.MasterServer.GameApplication - TokenCreator intialized with an expiration of 02:46:40
+2020-10-22 15:05:50,549 [1] INFO  Photon.LoadBalancing.MasterServer.GameApplication - Application {Default}/{Default} starts without Redis
+2020-10-22 15:05:50,577 [1] INFO  Photon.LoadBalancing.Common.NodesReader - Import nodes
+2020-10-22 15:05:50,578 [1] WARN  Photon.LoadBalancing.Common.NodesReader - C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Nodes.txt does not exist, CurrentNodeId = 0
+2020-10-22 15:05:50,579 [1] INFO  Photon.LoadBalancing.Common.NodesReader - Watching C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Nodes.txt
+2020-10-22 15:05:50,579 [1] INFO  Photon.LoadBalancing.MasterServer.MasterApplication - Current Node (nodeId=0) is the active master (leader)
+2020-10-22 15:05:50,580 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=Master; AppPath=C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancing\Master, Type=Photon.LoadBalancing.MasterServer.MasterApplication 
+2020-10-22 15:05:50,603 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher - CounterPublisher started publishing ExitGames.Diagnostics.Monitoring.CounterSamplePublisher to ExitGames.Diagnostics.Monitoring.CounterSampleSender
+2020-10-22 15:05:50,624 [13] INFO  Photon.LoadBalancing.MasterServer.GameServer.IncomingGameServerPeer - game server connection from 127.0.0.1:56457 established (id=2)
+2020-10-22 15:05:50,685 [10] WARN  Photon.LoadBalancing.Common.NodesReader - Internal address for node 0 unknown; using loop back
+2020-10-22 15:05:50,685 [10] INFO  Photon.LoadBalancing.Common.NodesReader - Node added: 0 = 127.0.0.1
+2020-10-22 19:00:17,165 [24] INFO  Photon.LoadBalancing.MasterServer.GameServer.IncomingGameServerPeer - OnDisconnect: game server connection closed (connectionId=2, serverId=ac910087-da0a-46d0-aeef-0a3f963eacf1, reason=ClientDisconnect)
+2020-10-22 19:00:17,168 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=Master
+2020-10-22 19:00:17,185 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=Master
+2020-10-22 19:00:21,464 [1] INFO  Photon.LoadBalancing.MasterServer.MasterApplication - TokenCreator intialized with an expiration of 02:46:40
+2020-10-22 19:00:21,488 [1] INFO  Photon.SocketServer.Diagnostics.HttpQueuePerformanceCounters - User has no Admin rights. HttpQueuePerformanceCounters initialization skipped
+2020-10-22 19:00:21,490 [1] INFO  Photon.Common.Authentication.Diagnostic.CustomAuthResultCounters - Start to initialize Photon: Custom Authentication Results performance counters
+2020-10-22 19:00:21,491 [1] INFO  Photon.Common.Authentication.Diagnostic.CustomAuthResultCounters - User has no Admin rights. CustomAuthResultCounters initialization skipped
+2020-10-22 19:00:21,498 [1] WARN  Photon.Common.LoadBalancer.LoadBalancer`1 - Could not initialize LoadBalancer from configuration: Invalid configuration file C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancer.config. Using default settings... (Could not find file 'C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancer.config'.)
+2020-10-22 19:00:21,529 [1] INFO  Photon.LoadBalancing.MasterServer.GameApplication - TokenCreator intialized with an expiration of 02:46:40
+2020-10-22 19:00:21,556 [1] INFO  Photon.LoadBalancing.MasterServer.GameApplication - Application {Default}/{Default} starts without Redis
+2020-10-22 19:00:21,585 [1] INFO  Photon.LoadBalancing.Common.NodesReader - Import nodes
+2020-10-22 19:00:21,586 [1] WARN  Photon.LoadBalancing.Common.NodesReader - C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Nodes.txt does not exist, CurrentNodeId = 0
+2020-10-22 19:00:21,586 [1] INFO  Photon.LoadBalancing.Common.NodesReader - Watching C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Nodes.txt
+2020-10-22 19:00:21,587 [1] INFO  Photon.LoadBalancing.MasterServer.MasterApplication - Current Node (nodeId=0) is the active master (leader)
+2020-10-22 19:00:21,588 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=Master; AppPath=C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancing\Master, Type=Photon.LoadBalancing.MasterServer.MasterApplication 
+2020-10-22 19:00:21,611 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher - CounterPublisher started publishing ExitGames.Diagnostics.Monitoring.CounterSamplePublisher to ExitGames.Diagnostics.Monitoring.CounterSampleSender
+2020-10-22 19:00:21,632 [13] INFO  Photon.LoadBalancing.MasterServer.GameServer.IncomingGameServerPeer - game server connection from 127.0.0.1:57078 established (id=2)
+2020-10-22 19:00:21,697 [13] WARN  Photon.LoadBalancing.Common.NodesReader - Internal address for node 0 unknown; using loop back
+2020-10-22 19:00:21,698 [13] INFO  Photon.LoadBalancing.Common.NodesReader - Node added: 0 = 127.0.0.1
+2020-10-22 19:39:56,637 [20] INFO  Photon.LoadBalancing.MasterServer.GameServer.IncomingGameServerPeer - OnDisconnect: game server connection closed (connectionId=2, serverId=17e12bcb-8850-4fc2-bcec-bad88c0b7d1a, reason=ClientDisconnect)
+2020-10-22 19:39:56,637 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=Master
+2020-10-22 19:39:56,655 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=Master
+2020-10-22 19:40:02,011 [1] INFO  Photon.LoadBalancing.MasterServer.MasterApplication - TokenCreator intialized with an expiration of 02:46:40
+2020-10-22 19:40:02,037 [1] INFO  Photon.SocketServer.Diagnostics.HttpQueuePerformanceCounters - User has no Admin rights. HttpQueuePerformanceCounters initialization skipped
+2020-10-22 19:40:02,039 [1] INFO  Photon.Common.Authentication.Diagnostic.CustomAuthResultCounters - Start to initialize Photon: Custom Authentication Results performance counters
+2020-10-22 19:40:02,039 [1] INFO  Photon.Common.Authentication.Diagnostic.CustomAuthResultCounters - User has no Admin rights. CustomAuthResultCounters initialization skipped
+2020-10-22 19:40:02,046 [1] WARN  Photon.Common.LoadBalancer.LoadBalancer`1 - Could not initialize LoadBalancer from configuration: Invalid configuration file C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancer.config. Using default settings... (Could not find file 'C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancer.config'.)
+2020-10-22 19:40:02,077 [1] INFO  Photon.LoadBalancing.MasterServer.GameApplication - TokenCreator intialized with an expiration of 02:46:40
+2020-10-22 19:40:02,106 [1] INFO  Photon.LoadBalancing.MasterServer.GameApplication - Application {Default}/{Default} starts without Redis
+2020-10-22 19:40:02,135 [1] INFO  Photon.LoadBalancing.Common.NodesReader - Import nodes
+2020-10-22 19:40:02,136 [1] WARN  Photon.LoadBalancing.Common.NodesReader - C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Nodes.txt does not exist, CurrentNodeId = 0
+2020-10-22 19:40:02,136 [1] INFO  Photon.LoadBalancing.Common.NodesReader - Watching C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Nodes.txt
+2020-10-22 19:40:02,137 [1] INFO  Photon.LoadBalancing.MasterServer.MasterApplication - Current Node (nodeId=0) is the active master (leader)
+2020-10-22 19:40:02,138 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=Master; AppPath=C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancing\Master, Type=Photon.LoadBalancing.MasterServer.MasterApplication 
+2020-10-22 19:40:02,161 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher - CounterPublisher started publishing ExitGames.Diagnostics.Monitoring.CounterSamplePublisher to ExitGames.Diagnostics.Monitoring.CounterSampleSender
+2020-10-22 19:40:02,184 [10] INFO  Photon.LoadBalancing.MasterServer.GameServer.IncomingGameServerPeer - game server connection from 127.0.0.1:57171 established (id=2)
+2020-10-22 19:40:02,253 [13] WARN  Photon.LoadBalancing.Common.NodesReader - Internal address for node 0 unknown; using loop back
+2020-10-22 19:40:02,254 [13] INFO  Photon.LoadBalancing.Common.NodesReader - Node added: 0 = 127.0.0.1
+2020-10-22 19:40:02,644 [11] INFO  Photon.LoadBalancing.MasterServer.GameServer.IncomingGameServerPeer - OnDisconnect: game server connection closed (connectionId=2, serverId=3730c6ba-9132-49b6-8442-b7baebecd962, reason=ClientDisconnect)
+2020-10-22 19:40:02,651 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=Master
+2020-10-22 19:40:02,671 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=Master
+2020-10-22 19:40:05,992 [1] INFO  Photon.LoadBalancing.MasterServer.MasterApplication - TokenCreator intialized with an expiration of 02:46:40
+2020-10-22 19:40:06,019 [1] INFO  Photon.SocketServer.Diagnostics.HttpQueuePerformanceCounters - User has no Admin rights. HttpQueuePerformanceCounters initialization skipped
+2020-10-22 19:40:06,021 [1] INFO  Photon.Common.Authentication.Diagnostic.CustomAuthResultCounters - Start to initialize Photon: Custom Authentication Results performance counters
+2020-10-22 19:40:06,022 [1] INFO  Photon.Common.Authentication.Diagnostic.CustomAuthResultCounters - User has no Admin rights. CustomAuthResultCounters initialization skipped
+2020-10-22 19:40:06,029 [1] WARN  Photon.Common.LoadBalancer.LoadBalancer`1 - Could not initialize LoadBalancer from configuration: Invalid configuration file C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancer.config. Using default settings... (Could not find file 'C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancer.config'.)
+2020-10-22 19:40:06,058 [1] INFO  Photon.LoadBalancing.MasterServer.GameApplication - TokenCreator intialized with an expiration of 02:46:40
+2020-10-22 19:40:06,083 [1] INFO  Photon.LoadBalancing.MasterServer.GameApplication - Application {Default}/{Default} starts without Redis
+2020-10-22 19:40:06,111 [1] INFO  Photon.LoadBalancing.Common.NodesReader - Import nodes
+2020-10-22 19:40:06,112 [1] WARN  Photon.LoadBalancing.Common.NodesReader - C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Nodes.txt does not exist, CurrentNodeId = 0
+2020-10-22 19:40:06,112 [1] INFO  Photon.LoadBalancing.Common.NodesReader - Watching C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Nodes.txt
+2020-10-22 19:40:06,113 [1] INFO  Photon.LoadBalancing.MasterServer.MasterApplication - Current Node (nodeId=0) is the active master (leader)
+2020-10-22 19:40:06,113 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=Master; AppPath=C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancing\Master, Type=Photon.LoadBalancing.MasterServer.MasterApplication 
+2020-10-22 19:40:06,137 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher - CounterPublisher started publishing ExitGames.Diagnostics.Monitoring.CounterSamplePublisher to ExitGames.Diagnostics.Monitoring.CounterSampleSender
+2020-10-22 19:40:06,160 [11] INFO  Photon.LoadBalancing.MasterServer.GameServer.IncomingGameServerPeer - game server connection from 127.0.0.1:57173 established (id=2)
+2020-10-22 19:40:06,228 [11] WARN  Photon.LoadBalancing.Common.NodesReader - Internal address for node 0 unknown; using loop back
+2020-10-22 19:40:06,228 [11] INFO  Photon.LoadBalancing.Common.NodesReader - Node added: 0 = 127.0.0.1
+2020-10-22 19:45:11,299 [13] INFO  Photon.LoadBalancing.MasterServer.GameServer.IncomingGameServerPeer - OnDisconnect: game server connection closed (connectionId=2, serverId=378f0cba-fc06-49ed-8394-2e8b6069ea8d, reason=ClientDisconnect)
+2020-10-22 19:45:11,304 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=Master
+2020-10-22 19:45:11,338 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=Master
+2020-10-22 19:45:15,853 [1] INFO  Photon.LoadBalancing.MasterServer.MasterApplication - TokenCreator intialized with an expiration of 02:46:40
+2020-10-22 19:45:15,878 [1] INFO  Photon.SocketServer.Diagnostics.HttpQueuePerformanceCounters - User has no Admin rights. HttpQueuePerformanceCounters initialization skipped
+2020-10-22 19:45:15,880 [1] INFO  Photon.Common.Authentication.Diagnostic.CustomAuthResultCounters - Start to initialize Photon: Custom Authentication Results performance counters
+2020-10-22 19:45:15,881 [1] INFO  Photon.Common.Authentication.Diagnostic.CustomAuthResultCounters - User has no Admin rights. CustomAuthResultCounters initialization skipped
+2020-10-22 19:45:15,888 [1] WARN  Photon.Common.LoadBalancer.LoadBalancer`1 - Could not initialize LoadBalancer from configuration: Invalid configuration file C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancer.config. Using default settings... (Could not find file 'C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancer.config'.)
+2020-10-22 19:45:15,919 [1] INFO  Photon.LoadBalancing.MasterServer.GameApplication - TokenCreator intialized with an expiration of 02:46:40
+2020-10-22 19:45:15,943 [1] INFO  Photon.LoadBalancing.MasterServer.GameApplication - Application {Default}/{Default} starts without Redis
+2020-10-22 19:45:15,972 [1] INFO  Photon.LoadBalancing.Common.NodesReader - Import nodes
+2020-10-22 19:45:15,973 [1] WARN  Photon.LoadBalancing.Common.NodesReader - C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Nodes.txt does not exist, CurrentNodeId = 0
+2020-10-22 19:45:15,973 [1] INFO  Photon.LoadBalancing.Common.NodesReader - Watching C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Nodes.txt
+2020-10-22 19:45:15,974 [1] INFO  Photon.LoadBalancing.MasterServer.MasterApplication - Current Node (nodeId=0) is the active master (leader)
+2020-10-22 19:45:15,975 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=Master; AppPath=C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancing\Master, Type=Photon.LoadBalancing.MasterServer.MasterApplication 
+2020-10-22 19:45:15,999 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher - CounterPublisher started publishing ExitGames.Diagnostics.Monitoring.CounterSamplePublisher to ExitGames.Diagnostics.Monitoring.CounterSampleSender
+2020-10-22 19:45:16,024 [12] INFO  Photon.LoadBalancing.MasterServer.GameServer.IncomingGameServerPeer - game server connection from 127.0.0.1:57177 established (id=2)
+2020-10-22 19:45:16,096 [12] WARN  Photon.LoadBalancing.Common.NodesReader - Internal address for node 0 unknown; using loop back
+2020-10-22 19:45:16,097 [12] INFO  Photon.LoadBalancing.Common.NodesReader - Node added: 0 = 127.0.0.1
+2020-10-22 20:06:49,536 [9] INFO  Photon.LoadBalancing.MasterServer.GameServer.IncomingGameServerPeer - OnDisconnect: game server connection closed (connectionId=2, serverId=cec64559-ffc7-484a-a0ad-a5b3c6ff31bb, reason=ClientDisconnect)
+2020-10-22 20:06:49,540 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=Master
+2020-10-22 20:06:49,552 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=Master
+2020-10-22 20:06:53,794 [1] INFO  Photon.LoadBalancing.MasterServer.MasterApplication - TokenCreator intialized with an expiration of 02:46:40
+2020-10-22 20:06:53,824 [1] INFO  Photon.SocketServer.Diagnostics.HttpQueuePerformanceCounters - User has no Admin rights. HttpQueuePerformanceCounters initialization skipped
+2020-10-22 20:06:53,825 [1] INFO  Photon.Common.Authentication.Diagnostic.CustomAuthResultCounters - Start to initialize Photon: Custom Authentication Results performance counters
+2020-10-22 20:06:53,826 [1] INFO  Photon.Common.Authentication.Diagnostic.CustomAuthResultCounters - User has no Admin rights. CustomAuthResultCounters initialization skipped
+2020-10-22 20:06:53,834 [1] WARN  Photon.Common.LoadBalancer.LoadBalancer`1 - Could not initialize LoadBalancer from configuration: Invalid configuration file C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancer.config. Using default settings... (Could not find file 'C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancer.config'.)
+2020-10-22 20:06:53,863 [1] INFO  Photon.LoadBalancing.MasterServer.GameApplication - TokenCreator intialized with an expiration of 02:46:40
+2020-10-22 20:06:53,890 [1] INFO  Photon.LoadBalancing.MasterServer.GameApplication - Application {Default}/{Default} starts without Redis
+2020-10-22 20:06:53,919 [1] INFO  Photon.LoadBalancing.Common.NodesReader - Import nodes
+2020-10-22 20:06:53,920 [1] WARN  Photon.LoadBalancing.Common.NodesReader - C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Nodes.txt does not exist, CurrentNodeId = 0
+2020-10-22 20:06:53,920 [1] INFO  Photon.LoadBalancing.Common.NodesReader - Watching C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Nodes.txt
+2020-10-22 20:06:53,921 [1] INFO  Photon.LoadBalancing.MasterServer.MasterApplication - Current Node (nodeId=0) is the active master (leader)
+2020-10-22 20:06:53,922 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=Master; AppPath=C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancing\Master, Type=Photon.LoadBalancing.MasterServer.MasterApplication 
+2020-10-22 20:06:53,946 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher - CounterPublisher started publishing ExitGames.Diagnostics.Monitoring.CounterSamplePublisher to ExitGames.Diagnostics.Monitoring.CounterSampleSender
+2020-10-22 20:06:53,969 [10] INFO  Photon.LoadBalancing.MasterServer.GameServer.IncomingGameServerPeer - game server connection from 127.0.0.1:57311 established (id=2)
+2020-10-22 20:06:54,038 [12] WARN  Photon.LoadBalancing.Common.NodesReader - Internal address for node 0 unknown; using loop back
+2020-10-22 20:06:54,039 [12] INFO  Photon.LoadBalancing.Common.NodesReader - Node added: 0 = 127.0.0.1
+2020-10-22 20:17:34,915 [22] INFO  Photon.LoadBalancing.MasterServer.GameServer.IncomingGameServerPeer - OnDisconnect: game server connection closed (connectionId=2, serverId=1d6ed4c7-9e69-41ef-a2b8-b197d049d14f, reason=ClientDisconnect)
+2020-10-22 20:17:34,923 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=Master
+2020-10-22 20:17:34,937 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=Master
+2020-10-22 20:17:39,680 [1] INFO  Photon.LoadBalancing.MasterServer.MasterApplication - TokenCreator intialized with an expiration of 02:46:40
+2020-10-22 20:17:39,707 [1] INFO  Photon.SocketServer.Diagnostics.HttpQueuePerformanceCounters - User has no Admin rights. HttpQueuePerformanceCounters initialization skipped
+2020-10-22 20:17:39,709 [1] INFO  Photon.Common.Authentication.Diagnostic.CustomAuthResultCounters - Start to initialize Photon: Custom Authentication Results performance counters
+2020-10-22 20:17:39,710 [1] INFO  Photon.Common.Authentication.Diagnostic.CustomAuthResultCounters - User has no Admin rights. CustomAuthResultCounters initialization skipped
+2020-10-22 20:17:39,718 [1] WARN  Photon.Common.LoadBalancer.LoadBalancer`1 - Could not initialize LoadBalancer from configuration: Invalid configuration file C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancer.config. Using default settings... (Could not find file 'C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancer.config'.)
+2020-10-22 20:17:39,750 [1] INFO  Photon.LoadBalancing.MasterServer.GameApplication - TokenCreator intialized with an expiration of 02:46:40
+2020-10-22 20:17:39,781 [1] INFO  Photon.LoadBalancing.MasterServer.GameApplication - Application {Default}/{Default} starts without Redis
+2020-10-22 20:17:39,811 [1] INFO  Photon.LoadBalancing.Common.NodesReader - Import nodes
+2020-10-22 20:17:39,812 [1] WARN  Photon.LoadBalancing.Common.NodesReader - C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Nodes.txt does not exist, CurrentNodeId = 0
+2020-10-22 20:17:39,812 [1] INFO  Photon.LoadBalancing.Common.NodesReader - Watching C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Nodes.txt
+2020-10-22 20:17:39,813 [1] INFO  Photon.LoadBalancing.MasterServer.MasterApplication - Current Node (nodeId=0) is the active master (leader)
+2020-10-22 20:17:39,814 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=Master; AppPath=C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancing\Master, Type=Photon.LoadBalancing.MasterServer.MasterApplication 
+2020-10-22 20:17:39,842 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher - CounterPublisher started publishing ExitGames.Diagnostics.Monitoring.CounterSamplePublisher to ExitGames.Diagnostics.Monitoring.CounterSampleSender
+2020-10-22 20:17:39,866 [12] INFO  Photon.LoadBalancing.MasterServer.GameServer.IncomingGameServerPeer - game server connection from 127.0.0.1:57338 established (id=2)
+2020-10-22 20:17:39,953 [14] WARN  Photon.LoadBalancing.Common.NodesReader - Internal address for node 0 unknown; using loop back
+2020-10-22 20:17:39,954 [14] INFO  Photon.LoadBalancing.Common.NodesReader - Node added: 0 = 127.0.0.1
+2020-10-22 22:33:23,486 [14] INFO  Photon.LoadBalancing.MasterServer.GameServer.IncomingGameServerPeer - OnDisconnect: game server connection closed (connectionId=2, serverId=0eb7a369-77ae-43cc-859b-355931cbf8f0, reason=ClientDisconnect)
+2020-10-22 22:33:23,490 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=Master
+2020-10-22 22:33:23,502 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=Master
+2020-10-22 22:33:28,183 [1] INFO  Photon.LoadBalancing.MasterServer.MasterApplication - TokenCreator intialized with an expiration of 02:46:40
+2020-10-22 22:33:28,206 [1] INFO  Photon.SocketServer.Diagnostics.HttpQueuePerformanceCounters - User has no Admin rights. HttpQueuePerformanceCounters initialization skipped
+2020-10-22 22:33:28,208 [1] INFO  Photon.Common.Authentication.Diagnostic.CustomAuthResultCounters - Start to initialize Photon: Custom Authentication Results performance counters
+2020-10-22 22:33:28,209 [1] INFO  Photon.Common.Authentication.Diagnostic.CustomAuthResultCounters - User has no Admin rights. CustomAuthResultCounters initialization skipped
+2020-10-22 22:33:28,216 [1] WARN  Photon.Common.LoadBalancer.LoadBalancer`1 - Could not initialize LoadBalancer from configuration: Invalid configuration file C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancer.config. Using default settings... (Could not find file 'C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancer.config'.)
+2020-10-22 22:33:28,247 [1] INFO  Photon.LoadBalancing.MasterServer.GameApplication - TokenCreator intialized with an expiration of 02:46:40
+2020-10-22 22:33:28,274 [1] INFO  Photon.LoadBalancing.MasterServer.GameApplication - Application {Default}/{Default} starts without Redis
+2020-10-22 22:33:28,302 [1] INFO  Photon.LoadBalancing.Common.NodesReader - Import nodes
+2020-10-22 22:33:28,303 [1] WARN  Photon.LoadBalancing.Common.NodesReader - C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Nodes.txt does not exist, CurrentNodeId = 0
+2020-10-22 22:33:28,303 [1] INFO  Photon.LoadBalancing.Common.NodesReader - Watching C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Nodes.txt
+2020-10-22 22:33:28,304 [1] INFO  Photon.LoadBalancing.MasterServer.MasterApplication - Current Node (nodeId=0) is the active master (leader)
+2020-10-22 22:33:28,304 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=Master; AppPath=C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancing\Master, Type=Photon.LoadBalancing.MasterServer.MasterApplication 
+2020-10-22 22:33:28,327 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher - CounterPublisher started publishing ExitGames.Diagnostics.Monitoring.CounterSamplePublisher to ExitGames.Diagnostics.Monitoring.CounterSampleSender
+2020-10-22 22:33:28,349 [11] INFO  Photon.LoadBalancing.MasterServer.GameServer.IncomingGameServerPeer - game server connection from 127.0.0.1:59307 established (id=2)
+2020-10-22 22:33:28,418 [11] WARN  Photon.LoadBalancing.Common.NodesReader - Internal address for node 0 unknown; using loop back
+2020-10-22 22:33:28,419 [11] INFO  Photon.LoadBalancing.Common.NodesReader - Node added: 0 = 127.0.0.1
+2020-10-22 23:14:07,846 [21] INFO  Photon.LoadBalancing.MasterServer.GameServer.IncomingGameServerPeer - OnDisconnect: game server connection closed (connectionId=2, serverId=fd049b50-5c46-4c92-91c1-859154f1cc1f, reason=ClientDisconnect)
+2020-10-22 23:14:07,849 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=Master
+2020-10-22 23:14:07,862 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=Master
+2020-10-22 23:14:11,978 [1] INFO  Photon.LoadBalancing.MasterServer.MasterApplication - TokenCreator intialized with an expiration of 02:46:40
+2020-10-22 23:14:12,002 [1] INFO  Photon.SocketServer.Diagnostics.HttpQueuePerformanceCounters - User has no Admin rights. HttpQueuePerformanceCounters initialization skipped
+2020-10-22 23:14:12,004 [1] INFO  Photon.Common.Authentication.Diagnostic.CustomAuthResultCounters - Start to initialize Photon: Custom Authentication Results performance counters
+2020-10-22 23:14:12,005 [1] INFO  Photon.Common.Authentication.Diagnostic.CustomAuthResultCounters - User has no Admin rights. CustomAuthResultCounters initialization skipped
+2020-10-22 23:14:12,012 [1] WARN  Photon.Common.LoadBalancer.LoadBalancer`1 - Could not initialize LoadBalancer from configuration: Invalid configuration file C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancer.config. Using default settings... (Could not find file 'C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancer.config'.)
+2020-10-22 23:14:12,042 [1] INFO  Photon.LoadBalancing.MasterServer.GameApplication - TokenCreator intialized with an expiration of 02:46:40
+2020-10-22 23:14:12,067 [1] INFO  Photon.LoadBalancing.MasterServer.GameApplication - Application {Default}/{Default} starts without Redis
+2020-10-22 23:14:12,095 [1] INFO  Photon.LoadBalancing.Common.NodesReader - Import nodes
+2020-10-22 23:14:12,096 [1] WARN  Photon.LoadBalancing.Common.NodesReader - C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Nodes.txt does not exist, CurrentNodeId = 0
+2020-10-22 23:14:12,096 [1] INFO  Photon.LoadBalancing.Common.NodesReader - Watching C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Nodes.txt
+2020-10-22 23:14:12,097 [1] INFO  Photon.LoadBalancing.MasterServer.MasterApplication - Current Node (nodeId=0) is the active master (leader)
+2020-10-22 23:14:12,097 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=Master; AppPath=C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancing\Master, Type=Photon.LoadBalancing.MasterServer.MasterApplication 
+2020-10-22 23:14:12,121 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher - CounterPublisher started publishing ExitGames.Diagnostics.Monitoring.CounterSamplePublisher to ExitGames.Diagnostics.Monitoring.CounterSampleSender
+2020-10-22 23:14:12,141 [10] INFO  Photon.LoadBalancing.MasterServer.GameServer.IncomingGameServerPeer - game server connection from 127.0.0.1:59667 established (id=2)
+2020-10-22 23:14:12,205 [12] WARN  Photon.LoadBalancing.Common.NodesReader - Internal address for node 0 unknown; using loop back
+2020-10-22 23:14:12,205 [12] INFO  Photon.LoadBalancing.Common.NodesReader - Node added: 0 = 127.0.0.1
+2020-10-22 23:16:55,494 [22] INFO  Photon.LoadBalancing.MasterServer.GameServer.IncomingGameServerPeer - OnDisconnect: game server connection closed (connectionId=2, serverId=c371fcdf-da9f-4f6b-804d-76a4b1aca394, reason=ClientDisconnect)
+2020-10-22 23:16:55,501 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=Master
+2020-10-22 23:16:55,521 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=Master
+2020-10-22 23:16:58,935 [1] INFO  Photon.LoadBalancing.MasterServer.MasterApplication - TokenCreator intialized with an expiration of 02:46:40
+2020-10-22 23:16:58,959 [1] INFO  Photon.SocketServer.Diagnostics.HttpQueuePerformanceCounters - User has no Admin rights. HttpQueuePerformanceCounters initialization skipped
+2020-10-22 23:16:58,961 [1] INFO  Photon.Common.Authentication.Diagnostic.CustomAuthResultCounters - Start to initialize Photon: Custom Authentication Results performance counters
+2020-10-22 23:16:58,961 [1] INFO  Photon.Common.Authentication.Diagnostic.CustomAuthResultCounters - User has no Admin rights. CustomAuthResultCounters initialization skipped
+2020-10-22 23:16:58,968 [1] WARN  Photon.Common.LoadBalancer.LoadBalancer`1 - Could not initialize LoadBalancer from configuration: Invalid configuration file C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancer.config. Using default settings... (Could not find file 'C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancer.config'.)
+2020-10-22 23:16:59,000 [1] INFO  Photon.LoadBalancing.MasterServer.GameApplication - TokenCreator intialized with an expiration of 02:46:40
+2020-10-22 23:16:59,028 [1] INFO  Photon.LoadBalancing.MasterServer.GameApplication - Application {Default}/{Default} starts without Redis
+2020-10-22 23:16:59,057 [1] INFO  Photon.LoadBalancing.Common.NodesReader - Import nodes
+2020-10-22 23:16:59,058 [1] WARN  Photon.LoadBalancing.Common.NodesReader - C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Nodes.txt does not exist, CurrentNodeId = 0
+2020-10-22 23:16:59,058 [1] INFO  Photon.LoadBalancing.Common.NodesReader - Watching C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Nodes.txt
+2020-10-22 23:16:59,059 [1] INFO  Photon.LoadBalancing.MasterServer.MasterApplication - Current Node (nodeId=0) is the active master (leader)
+2020-10-22 23:16:59,059 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=Master; AppPath=C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancing\Master, Type=Photon.LoadBalancing.MasterServer.MasterApplication 
+2020-10-22 23:16:59,084 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher - CounterPublisher started publishing ExitGames.Diagnostics.Monitoring.CounterSamplePublisher to ExitGames.Diagnostics.Monitoring.CounterSampleSender
+2020-10-22 23:16:59,107 [12] INFO  Photon.LoadBalancing.MasterServer.GameServer.IncomingGameServerPeer - game server connection from 127.0.0.1:59679 established (id=2)
+2020-10-22 23:16:59,166 [12] WARN  Photon.LoadBalancing.Common.NodesReader - Internal address for node 0 unknown; using loop back
+2020-10-22 23:16:59,167 [12] INFO  Photon.LoadBalancing.Common.NodesReader - Node added: 0 = 127.0.0.1
+2020-10-22 23:19:27,099 [22] INFO  Photon.LoadBalancing.MasterServer.GameServer.IncomingGameServerPeer - OnDisconnect: game server connection closed (connectionId=2, serverId=2b6efc4e-4562-4915-bd45-ccafbfcd7f2d, reason=ClientDisconnect)
+2020-10-22 23:19:27,105 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=Master
+2020-10-22 23:19:27,131 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=Master
+2020-10-22 23:19:30,625 [1] INFO  Photon.LoadBalancing.MasterServer.MasterApplication - TokenCreator intialized with an expiration of 02:46:40
+2020-10-22 23:19:30,649 [1] INFO  Photon.SocketServer.Diagnostics.HttpQueuePerformanceCounters - User has no Admin rights. HttpQueuePerformanceCounters initialization skipped
+2020-10-22 23:19:30,651 [1] INFO  Photon.Common.Authentication.Diagnostic.CustomAuthResultCounters - Start to initialize Photon: Custom Authentication Results performance counters
+2020-10-22 23:19:30,652 [1] INFO  Photon.Common.Authentication.Diagnostic.CustomAuthResultCounters - User has no Admin rights. CustomAuthResultCounters initialization skipped
+2020-10-22 23:19:30,659 [1] WARN  Photon.Common.LoadBalancer.LoadBalancer`1 - Could not initialize LoadBalancer from configuration: Invalid configuration file C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancer.config. Using default settings... (Could not find file 'C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancer.config'.)
+2020-10-22 23:19:30,689 [1] INFO  Photon.LoadBalancing.MasterServer.GameApplication - TokenCreator intialized with an expiration of 02:46:40
+2020-10-22 23:19:30,714 [1] INFO  Photon.LoadBalancing.MasterServer.GameApplication - Application {Default}/{Default} starts without Redis
+2020-10-22 23:19:30,743 [1] INFO  Photon.LoadBalancing.Common.NodesReader - Import nodes
+2020-10-22 23:19:30,744 [1] WARN  Photon.LoadBalancing.Common.NodesReader - C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Nodes.txt does not exist, CurrentNodeId = 0
+2020-10-22 23:19:30,744 [1] INFO  Photon.LoadBalancing.Common.NodesReader - Watching C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Nodes.txt
+2020-10-22 23:19:30,745 [1] INFO  Photon.LoadBalancing.MasterServer.MasterApplication - Current Node (nodeId=0) is the active master (leader)
+2020-10-22 23:19:30,745 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=Master; AppPath=C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancing\Master, Type=Photon.LoadBalancing.MasterServer.MasterApplication 
+2020-10-22 23:19:30,770 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher - CounterPublisher started publishing ExitGames.Diagnostics.Monitoring.CounterSamplePublisher to ExitGames.Diagnostics.Monitoring.CounterSampleSender
+2020-10-22 23:19:30,793 [11] INFO  Photon.LoadBalancing.MasterServer.GameServer.IncomingGameServerPeer - game server connection from 127.0.0.1:59698 established (id=2)
+2020-10-22 23:19:30,864 [10] WARN  Photon.LoadBalancing.Common.NodesReader - Internal address for node 0 unknown; using loop back
+2020-10-22 23:19:30,864 [10] INFO  Photon.LoadBalancing.Common.NodesReader - Node added: 0 = 127.0.0.1
+2020-10-25 16:07:07,402 [1] INFO  Photon.LoadBalancing.MasterServer.MasterApplication - TokenCreator intialized with an expiration of 02:46:40
+2020-10-25 16:07:07,524 [1] INFO  Photon.SocketServer.Diagnostics.HttpQueuePerformanceCounters - HTTP Queue performance counters successfully initialized
+2020-10-25 16:07:07,524 [1] INFO  Photon.SocketServer.Diagnostics.HttpQueuePerformanceCounters - Internal HTTP Queue performance counters successfully created
+2020-10-25 16:07:07,526 [1] INFO  Photon.Common.Authentication.Diagnostic.CustomAuthResultCounters - Start to initialize Photon: Custom Authentication Results performance counters
+2020-10-25 16:07:07,527 [1] INFO  Photon.Common.Authentication.Diagnostic.CustomAuthResultCounters - Photon: Custom Authentication Results performance counters successfully initialized
+2020-10-25 16:07:07,537 [1] WARN  Photon.Common.LoadBalancer.LoadBalancer`1 - Could not initialize LoadBalancer from configuration: Invalid configuration file C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancer.config. Using default settings... (Could not find file 'C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancer.config'.)
+2020-10-25 16:07:07,569 [1] INFO  Photon.LoadBalancing.MasterServer.GameApplication - TokenCreator intialized with an expiration of 02:46:40
+2020-10-25 16:07:07,595 [1] INFO  Photon.LoadBalancing.MasterServer.GameApplication - Application {Default}/{Default} starts without Redis
+2020-10-25 16:07:07,624 [1] INFO  Photon.LoadBalancing.Common.NodesReader - Import nodes
+2020-10-25 16:07:07,625 [1] WARN  Photon.LoadBalancing.Common.NodesReader - C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Nodes.txt does not exist, CurrentNodeId = 0
+2020-10-25 16:07:07,625 [1] INFO  Photon.LoadBalancing.Common.NodesReader - Watching C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Nodes.txt
+2020-10-25 16:07:07,625 [1] INFO  Photon.LoadBalancing.MasterServer.MasterApplication - Current Node (nodeId=0) is the active master (leader)
+2020-10-25 16:07:07,626 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=Master; AppPath=C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancing\Master, Type=Photon.LoadBalancing.MasterServer.MasterApplication 
+2020-10-25 16:07:07,650 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher - CounterPublisher started publishing ExitGames.Diagnostics.Monitoring.CounterSamplePublisher to ExitGames.Diagnostics.Monitoring.CounterSampleSender
+2020-10-25 16:07:07,673 [10] INFO  Photon.LoadBalancing.MasterServer.GameServer.IncomingGameServerPeer - game server connection from 127.0.0.1:61429 established (id=2)
+2020-10-25 16:07:07,744 [11] WARN  Photon.LoadBalancing.Common.NodesReader - Internal address for node 0 unknown; using loop back
+2020-10-25 16:07:07,745 [11] INFO  Photon.LoadBalancing.Common.NodesReader - Node added: 0 = 127.0.0.1
+2020-11-08 15:36:35,387 [1] INFO  Photon.LoadBalancing.MasterServer.MasterApplication - TokenCreator intialized with an expiration of 02:46:40
+2020-11-08 15:36:35,554 [1] INFO  Photon.SocketServer.Diagnostics.HttpQueuePerformanceCounters - HTTP Queue performance counters successfully initialized
+2020-11-08 15:36:35,554 [1] INFO  Photon.SocketServer.Diagnostics.HttpQueuePerformanceCounters - Internal HTTP Queue performance counters successfully created
+2020-11-08 15:36:35,556 [1] INFO  Photon.Common.Authentication.Diagnostic.CustomAuthResultCounters - Start to initialize Photon: Custom Authentication Results performance counters
+2020-11-08 15:36:35,558 [1] INFO  Photon.Common.Authentication.Diagnostic.CustomAuthResultCounters - Photon: Custom Authentication Results performance counters successfully initialized
+2020-11-08 15:36:35,569 [1] WARN  Photon.Common.LoadBalancer.LoadBalancer`1 - Could not initialize LoadBalancer from configuration: Invalid configuration file C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancer.config. Using default settings... (Could not find file 'C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancer.config'.)
+2020-11-08 15:36:35,599 [1] INFO  Photon.LoadBalancing.MasterServer.GameApplication - TokenCreator intialized with an expiration of 02:46:40
+2020-11-08 15:36:35,628 [1] INFO  Photon.LoadBalancing.MasterServer.GameApplication - Application {Default}/{Default} starts without Redis
+2020-11-08 15:36:35,659 [1] INFO  Photon.LoadBalancing.Common.NodesReader - Import nodes
+2020-11-08 15:36:35,660 [1] WARN  Photon.LoadBalancing.Common.NodesReader - C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Nodes.txt does not exist, CurrentNodeId = 0
+2020-11-08 15:36:35,660 [1] INFO  Photon.LoadBalancing.Common.NodesReader - Watching C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Nodes.txt
+2020-11-08 15:36:35,660 [1] INFO  Photon.LoadBalancing.MasterServer.MasterApplication - Current Node (nodeId=0) is the active master (leader)
+2020-11-08 15:36:35,661 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=Master; AppPath=C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancing\Master, Type=Photon.LoadBalancing.MasterServer.MasterApplication 
+2020-11-08 15:36:35,685 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher - CounterPublisher started publishing ExitGames.Diagnostics.Monitoring.CounterSamplePublisher to ExitGames.Diagnostics.Monitoring.CounterSampleSender
+2020-11-08 15:36:35,710 [11] INFO  Photon.LoadBalancing.MasterServer.GameServer.IncomingGameServerPeer - game server connection from 127.0.0.1:51452 established (id=2)
+2020-11-08 15:36:35,780 [13] WARN  Photon.LoadBalancing.Common.NodesReader - Internal address for node 0 unknown; using loop back
+2020-11-08 15:36:35,780 [13] INFO  Photon.LoadBalancing.Common.NodesReader - Node added: 0 = 127.0.0.1
+2020-11-27 12:15:29,003 [1] INFO  Photon.LoadBalancing.MasterServer.MasterApplication - TokenCreator intialized with an expiration of 02:46:40
+2020-11-27 12:15:29,144 [1] INFO  Photon.SocketServer.Diagnostics.HttpQueuePerformanceCounters - HTTP Queue performance counters successfully initialized
+2020-11-27 12:15:29,145 [1] INFO  Photon.SocketServer.Diagnostics.HttpQueuePerformanceCounters - Internal HTTP Queue performance counters successfully created
+2020-11-27 12:15:29,147 [1] INFO  Photon.Common.Authentication.Diagnostic.CustomAuthResultCounters - Start to initialize Photon: Custom Authentication Results performance counters
+2020-11-27 12:15:29,148 [1] INFO  Photon.Common.Authentication.Diagnostic.CustomAuthResultCounters - Photon: Custom Authentication Results performance counters successfully initialized
+2020-11-27 12:15:29,155 [1] WARN  Photon.Common.LoadBalancer.LoadBalancer`1 - Could not initialize LoadBalancer from configuration: Invalid configuration file C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancer.config. Using default settings... (Could not find file 'C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancer.config'.)
+2020-11-27 12:15:29,185 [1] INFO  Photon.LoadBalancing.MasterServer.GameApplication - TokenCreator intialized with an expiration of 02:46:40
+2020-11-27 12:15:29,211 [1] INFO  Photon.LoadBalancing.MasterServer.GameApplication - Application {Default}/{Default} starts without Redis
+2020-11-27 12:15:29,238 [1] INFO  Photon.LoadBalancing.Common.NodesReader - Import nodes
+2020-11-27 12:15:29,238 [1] WARN  Photon.LoadBalancing.Common.NodesReader - C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Nodes.txt does not exist, CurrentNodeId = 0
+2020-11-27 12:15:29,238 [1] INFO  Photon.LoadBalancing.Common.NodesReader - Watching C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Nodes.txt
+2020-11-27 12:15:29,239 [1] INFO  Photon.LoadBalancing.MasterServer.MasterApplication - Current Node (nodeId=0) is the active master (leader)
+2020-11-27 12:15:29,239 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=Master; AppPath=C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancing\Master, Type=Photon.LoadBalancing.MasterServer.MasterApplication 
+2020-11-27 12:15:29,262 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher - CounterPublisher started publishing ExitGames.Diagnostics.Monitoring.CounterSamplePublisher to ExitGames.Diagnostics.Monitoring.CounterSampleSender
+2020-11-27 12:15:29,284 [11] INFO  Photon.LoadBalancing.MasterServer.GameServer.IncomingGameServerPeer - game server connection from 127.0.0.1:64860 established (id=2)
+2020-11-27 12:15:29,347 [13] WARN  Photon.LoadBalancing.Common.NodesReader - Internal address for node 0 unknown; using loop back
+2020-11-27 12:15:29,347 [13] INFO  Photon.LoadBalancing.Common.NodesReader - Node added: 0 = 127.0.0.1
+2020-11-27 12:20:07,350 [4] INFO  Photon.LoadBalancing.MasterServer.GameServer.IncomingGameServerPeer - OnDisconnect: game server connection closed (connectionId=2, serverId=404d03cd-becc-4412-ad04-24ab7467ee54, reason=ClientDisconnect)
+2020-11-27 12:20:07,354 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=Master
+2020-11-27 12:20:07,377 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=Master
+2020-11-27 12:20:11,271 [1] INFO  Photon.LoadBalancing.MasterServer.MasterApplication - TokenCreator intialized with an expiration of 02:46:40
+2020-11-27 12:20:11,297 [1] INFO  Photon.SocketServer.Diagnostics.HttpQueuePerformanceCounters - User has no Admin rights. HttpQueuePerformanceCounters initialization skipped
+2020-11-27 12:20:11,298 [1] INFO  Photon.Common.Authentication.Diagnostic.CustomAuthResultCounters - Start to initialize Photon: Custom Authentication Results performance counters
+2020-11-27 12:20:11,299 [1] INFO  Photon.Common.Authentication.Diagnostic.CustomAuthResultCounters - User has no Admin rights. CustomAuthResultCounters initialization skipped
+2020-11-27 12:20:11,306 [1] WARN  Photon.Common.LoadBalancer.LoadBalancer`1 - Could not initialize LoadBalancer from configuration: Invalid configuration file C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancer.config. Using default settings... (Could not find file 'C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancer.config'.)
+2020-11-27 12:20:11,333 [1] INFO  Photon.LoadBalancing.MasterServer.GameApplication - TokenCreator intialized with an expiration of 02:46:40
+2020-11-27 12:20:11,358 [1] INFO  Photon.LoadBalancing.MasterServer.GameApplication - Application {Default}/{Default} starts without Redis
+2020-11-27 12:20:11,386 [1] INFO  Photon.LoadBalancing.Common.NodesReader - Import nodes
+2020-11-27 12:20:11,387 [1] WARN  Photon.LoadBalancing.Common.NodesReader - C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Nodes.txt does not exist, CurrentNodeId = 0
+2020-11-27 12:20:11,387 [1] INFO  Photon.LoadBalancing.Common.NodesReader - Watching C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Nodes.txt
+2020-11-27 12:20:11,387 [1] INFO  Photon.LoadBalancing.MasterServer.MasterApplication - Current Node (nodeId=0) is the active master (leader)
+2020-11-27 12:20:11,388 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=Master; AppPath=C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancing\Master, Type=Photon.LoadBalancing.MasterServer.MasterApplication 
+2020-11-27 12:20:11,412 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher - CounterPublisher started publishing ExitGames.Diagnostics.Monitoring.CounterSamplePublisher to ExitGames.Diagnostics.Monitoring.CounterSampleSender
+2020-11-27 12:20:11,433 [10] INFO  Photon.LoadBalancing.MasterServer.GameServer.IncomingGameServerPeer - game server connection from 127.0.0.1:64915 established (id=2)
+2020-11-27 12:20:11,488 [11] WARN  Photon.LoadBalancing.Common.NodesReader - Internal address for node 0 unknown; using loop back
+2020-11-27 12:20:11,488 [11] INFO  Photon.LoadBalancing.Common.NodesReader - Node added: 0 = 127.0.0.1
+2020-11-27 12:23:56,970 [19] INFO  Photon.LoadBalancing.MasterServer.GameServer.IncomingGameServerPeer - OnDisconnect: game server connection closed (connectionId=2, serverId=5d84e3fa-552c-4fb3-829a-7909dd161ca7, reason=ClientDisconnect)
+2020-11-27 12:23:56,976 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=Master
+2020-11-27 12:23:56,987 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=Master
+2020-11-27 12:23:59,264 [1] INFO  Photon.LoadBalancing.MasterServer.MasterApplication - TokenCreator intialized with an expiration of 02:46:40
+2020-11-27 12:23:59,289 [1] INFO  Photon.SocketServer.Diagnostics.HttpQueuePerformanceCounters - User has no Admin rights. HttpQueuePerformanceCounters initialization skipped
+2020-11-27 12:23:59,290 [1] INFO  Photon.Common.Authentication.Diagnostic.CustomAuthResultCounters - Start to initialize Photon: Custom Authentication Results performance counters
+2020-11-27 12:23:59,291 [1] INFO  Photon.Common.Authentication.Diagnostic.CustomAuthResultCounters - User has no Admin rights. CustomAuthResultCounters initialization skipped
+2020-11-27 12:23:59,298 [1] WARN  Photon.Common.LoadBalancer.LoadBalancer`1 - Could not initialize LoadBalancer from configuration: Invalid configuration file C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancer.config. Using default settings... (Could not find file 'C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancer.config'.)
+2020-11-27 12:23:59,328 [1] INFO  Photon.LoadBalancing.MasterServer.GameApplication - TokenCreator intialized with an expiration of 02:46:40
+2020-11-27 12:23:59,351 [1] INFO  Photon.LoadBalancing.MasterServer.GameApplication - Application {Default}/{Default} starts without Redis
+2020-11-27 12:23:59,378 [1] INFO  Photon.LoadBalancing.Common.NodesReader - Import nodes
+2020-11-27 12:23:59,379 [1] WARN  Photon.LoadBalancing.Common.NodesReader - C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Nodes.txt does not exist, CurrentNodeId = 0
+2020-11-27 12:23:59,379 [1] INFO  Photon.LoadBalancing.Common.NodesReader - Watching C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Nodes.txt
+2020-11-27 12:23:59,380 [1] INFO  Photon.LoadBalancing.MasterServer.MasterApplication - Current Node (nodeId=0) is the active master (leader)
+2020-11-27 12:23:59,380 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=Master; AppPath=C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancing\Master, Type=Photon.LoadBalancing.MasterServer.MasterApplication 
+2020-11-27 12:23:59,404 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher - CounterPublisher started publishing ExitGames.Diagnostics.Monitoring.CounterSamplePublisher to ExitGames.Diagnostics.Monitoring.CounterSampleSender
+2020-11-27 12:23:59,427 [14] INFO  Photon.LoadBalancing.MasterServer.GameServer.IncomingGameServerPeer - game server connection from 127.0.0.1:64930 established (id=2)
+2020-11-27 12:23:59,493 [10] WARN  Photon.LoadBalancing.Common.NodesReader - Internal address for node 0 unknown; using loop back
+2020-11-27 12:23:59,494 [10] INFO  Photon.LoadBalancing.Common.NodesReader - Node added: 0 = 127.0.0.1
+2020-11-27 12:54:10,942 [11] INFO  Photon.LoadBalancing.MasterServer.GameServer.IncomingGameServerPeer - OnDisconnect: game server connection closed (connectionId=2, serverId=8be863d5-85de-4a33-98de-6e5df1795352, reason=ClientDisconnect)
+2020-11-27 12:54:10,945 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=Master
+2020-11-27 12:54:10,967 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=Master
+2020-11-27 12:54:14,613 [1] INFO  Photon.LoadBalancing.MasterServer.MasterApplication - TokenCreator intialized with an expiration of 02:46:40
+2020-11-27 12:54:14,644 [1] INFO  Photon.SocketServer.Diagnostics.HttpQueuePerformanceCounters - User has no Admin rights. HttpQueuePerformanceCounters initialization skipped
+2020-11-27 12:54:14,646 [1] INFO  Photon.Common.Authentication.Diagnostic.CustomAuthResultCounters - Start to initialize Photon: Custom Authentication Results performance counters
+2020-11-27 12:54:14,646 [1] INFO  Photon.Common.Authentication.Diagnostic.CustomAuthResultCounters - User has no Admin rights. CustomAuthResultCounters initialization skipped
+2020-11-27 12:54:14,653 [1] WARN  Photon.Common.LoadBalancer.LoadBalancer`1 - Could not initialize LoadBalancer from configuration: Invalid configuration file C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancer.config. Using default settings... (Could not find file 'C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancer.config'.)
+2020-11-27 12:54:14,682 [1] INFO  Photon.LoadBalancing.MasterServer.GameApplication - TokenCreator intialized with an expiration of 02:46:40
+2020-11-27 12:54:14,706 [1] INFO  Photon.LoadBalancing.MasterServer.GameApplication - Application {Default}/{Default} starts without Redis
+2020-11-27 12:54:14,737 [1] INFO  Photon.LoadBalancing.Common.NodesReader - Import nodes
+2020-11-27 12:54:14,739 [1] WARN  Photon.LoadBalancing.Common.NodesReader - C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Nodes.txt does not exist, CurrentNodeId = 0
+2020-11-27 12:54:14,739 [1] INFO  Photon.LoadBalancing.Common.NodesReader - Watching C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Nodes.txt
+2020-11-27 12:54:14,740 [1] INFO  Photon.LoadBalancing.MasterServer.MasterApplication - Current Node (nodeId=0) is the active master (leader)
+2020-11-27 12:54:14,740 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=Master; AppPath=C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancing\Master, Type=Photon.LoadBalancing.MasterServer.MasterApplication 
+2020-11-27 12:54:14,766 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher - CounterPublisher started publishing ExitGames.Diagnostics.Monitoring.CounterSamplePublisher to ExitGames.Diagnostics.Monitoring.CounterSampleSender
+2020-11-27 12:54:14,797 [18] INFO  Photon.LoadBalancing.MasterServer.GameServer.IncomingGameServerPeer - game server connection from 127.0.0.1:65311 established (id=2)
+2020-11-27 12:54:14,894 [11] WARN  Photon.LoadBalancing.Common.NodesReader - Internal address for node 0 unknown; using loop back
+2020-11-27 12:54:14,895 [11] INFO  Photon.LoadBalancing.Common.NodesReader - Node added: 0 = 127.0.0.1
+2020-11-27 14:53:10,365 [10] INFO  Photon.LoadBalancing.MasterServer.GameServer.IncomingGameServerPeer - OnDisconnect: game server connection closed (connectionId=2, serverId=f9d61928-a376-4fc2-afef-9a5811f98152, reason=ClientDisconnect)
+2020-11-27 14:53:10,371 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=Master
+2020-11-27 14:53:10,385 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=Master
+2020-11-27 14:53:13,660 [1] INFO  Photon.LoadBalancing.MasterServer.MasterApplication - TokenCreator intialized with an expiration of 02:46:40
+2020-11-27 14:53:13,686 [1] INFO  Photon.SocketServer.Diagnostics.HttpQueuePerformanceCounters - User has no Admin rights. HttpQueuePerformanceCounters initialization skipped
+2020-11-27 14:53:13,688 [1] INFO  Photon.Common.Authentication.Diagnostic.CustomAuthResultCounters - Start to initialize Photon: Custom Authentication Results performance counters
+2020-11-27 14:53:13,689 [1] INFO  Photon.Common.Authentication.Diagnostic.CustomAuthResultCounters - User has no Admin rights. CustomAuthResultCounters initialization skipped
+2020-11-27 14:53:13,696 [1] WARN  Photon.Common.LoadBalancer.LoadBalancer`1 - Could not initialize LoadBalancer from configuration: Invalid configuration file C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancer.config. Using default settings... (Could not find file 'C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancer.config'.)
+2020-11-27 14:53:13,727 [1] INFO  Photon.LoadBalancing.MasterServer.GameApplication - TokenCreator intialized with an expiration of 02:46:40
+2020-11-27 14:53:13,758 [1] INFO  Photon.LoadBalancing.MasterServer.GameApplication - Application {Default}/{Default} starts without Redis
+2020-11-27 14:53:13,786 [1] INFO  Photon.LoadBalancing.Common.NodesReader - Import nodes
+2020-11-27 14:53:13,788 [1] WARN  Photon.LoadBalancing.Common.NodesReader - C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Nodes.txt does not exist, CurrentNodeId = 0
+2020-11-27 14:53:13,788 [1] INFO  Photon.LoadBalancing.Common.NodesReader - Watching C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Nodes.txt
+2020-11-27 14:53:13,789 [1] INFO  Photon.LoadBalancing.MasterServer.MasterApplication - Current Node (nodeId=0) is the active master (leader)
+2020-11-27 14:53:13,790 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=Master; AppPath=C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancing\Master, Type=Photon.LoadBalancing.MasterServer.MasterApplication 
+2020-11-27 14:53:13,815 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher - CounterPublisher started publishing ExitGames.Diagnostics.Monitoring.CounterSamplePublisher to ExitGames.Diagnostics.Monitoring.CounterSampleSender
+2020-11-27 14:53:13,835 [13] INFO  Photon.LoadBalancing.MasterServer.GameServer.IncomingGameServerPeer - game server connection from 127.0.0.1:49266 established (id=2)
+2020-11-27 14:53:13,897 [13] WARN  Photon.LoadBalancing.Common.NodesReader - Internal address for node 0 unknown; using loop back
+2020-11-27 14:53:13,898 [13] INFO  Photon.LoadBalancing.Common.NodesReader - Node added: 0 = 127.0.0.1
+2020-11-27 15:29:14,777 [23] INFO  Photon.LoadBalancing.MasterServer.GameServer.IncomingGameServerPeer - OnDisconnect: game server connection closed (connectionId=2, serverId=1b0cd332-8412-45ec-83d6-e4865ec6a9fe, reason=ClientDisconnect)
+2020-11-27 15:29:14,780 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=Master
+2020-11-27 15:29:14,802 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=Master
+2020-11-27 15:29:18,259 [1] INFO  Photon.LoadBalancing.MasterServer.MasterApplication - TokenCreator intialized with an expiration of 02:46:40
+2020-11-27 15:29:18,287 [1] INFO  Photon.SocketServer.Diagnostics.HttpQueuePerformanceCounters - User has no Admin rights. HttpQueuePerformanceCounters initialization skipped
+2020-11-27 15:29:18,288 [1] INFO  Photon.Common.Authentication.Diagnostic.CustomAuthResultCounters - Start to initialize Photon: Custom Authentication Results performance counters
+2020-11-27 15:29:18,289 [1] INFO  Photon.Common.Authentication.Diagnostic.CustomAuthResultCounters - User has no Admin rights. CustomAuthResultCounters initialization skipped
+2020-11-27 15:29:18,296 [1] WARN  Photon.Common.LoadBalancer.LoadBalancer`1 - Could not initialize LoadBalancer from configuration: Invalid configuration file C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancer.config. Using default settings... (Could not find file 'C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancer.config'.)
+2020-11-27 15:29:18,330 [1] INFO  Photon.LoadBalancing.MasterServer.GameApplication - TokenCreator intialized with an expiration of 02:46:40
+2020-11-27 15:29:18,362 [1] INFO  Photon.LoadBalancing.MasterServer.GameApplication - Application {Default}/{Default} starts without Redis
+2020-11-27 15:29:18,393 [1] INFO  Photon.LoadBalancing.Common.NodesReader - Import nodes
+2020-11-27 15:29:18,393 [1] WARN  Photon.LoadBalancing.Common.NodesReader - C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Nodes.txt does not exist, CurrentNodeId = 0
+2020-11-27 15:29:18,393 [1] INFO  Photon.LoadBalancing.Common.NodesReader - Watching C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Nodes.txt
+2020-11-27 15:29:18,394 [1] INFO  Photon.LoadBalancing.MasterServer.MasterApplication - Current Node (nodeId=0) is the active master (leader)
+2020-11-27 15:29:18,394 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=Master; AppPath=C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancing\Master, Type=Photon.LoadBalancing.MasterServer.MasterApplication 
+2020-11-27 15:29:18,421 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher - CounterPublisher started publishing ExitGames.Diagnostics.Monitoring.CounterSamplePublisher to ExitGames.Diagnostics.Monitoring.CounterSampleSender
+2020-11-27 15:29:18,443 [12] INFO  Photon.LoadBalancing.MasterServer.GameServer.IncomingGameServerPeer - game server connection from 127.0.0.1:49388 established (id=2)
+2020-11-27 15:29:18,523 [10] WARN  Photon.LoadBalancing.Common.NodesReader - Internal address for node 0 unknown; using loop back
+2020-11-27 15:29:18,524 [10] INFO  Photon.LoadBalancing.Common.NodesReader - Node added: 0 = 127.0.0.1
+2020-11-27 15:48:55,303 [17] INFO  Photon.LoadBalancing.MasterServer.GameServer.IncomingGameServerPeer - OnDisconnect: game server connection closed (connectionId=2, serverId=db0a5937-7754-4206-a2f3-3bd7dbd77af4, reason=ClientDisconnect)
+2020-11-27 15:48:55,307 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=Master
+2020-11-27 15:48:55,441 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=Master
+2020-11-27 15:48:59,405 [1] INFO  Photon.LoadBalancing.MasterServer.MasterApplication - TokenCreator intialized with an expiration of 02:46:40
+2020-11-27 15:48:59,442 [1] INFO  Photon.SocketServer.Diagnostics.HttpQueuePerformanceCounters - User has no Admin rights. HttpQueuePerformanceCounters initialization skipped
+2020-11-27 15:48:59,445 [1] INFO  Photon.Common.Authentication.Diagnostic.CustomAuthResultCounters - Start to initialize Photon: Custom Authentication Results performance counters
+2020-11-27 15:48:59,445 [1] INFO  Photon.Common.Authentication.Diagnostic.CustomAuthResultCounters - User has no Admin rights. CustomAuthResultCounters initialization skipped
+2020-11-27 15:48:59,454 [1] WARN  Photon.Common.LoadBalancer.LoadBalancer`1 - Could not initialize LoadBalancer from configuration: Invalid configuration file C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancer.config. Using default settings... (Could not find file 'C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancer.config'.)
+2020-11-27 15:48:59,488 [1] INFO  Photon.LoadBalancing.MasterServer.GameApplication - TokenCreator intialized with an expiration of 02:46:40
+2020-11-27 15:48:59,516 [1] INFO  Photon.LoadBalancing.MasterServer.GameApplication - Application {Default}/{Default} starts without Redis
+2020-11-27 15:48:59,548 [1] INFO  Photon.LoadBalancing.Common.NodesReader - Import nodes
+2020-11-27 15:48:59,549 [1] WARN  Photon.LoadBalancing.Common.NodesReader - C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Nodes.txt does not exist, CurrentNodeId = 0
+2020-11-27 15:48:59,550 [1] INFO  Photon.LoadBalancing.Common.NodesReader - Watching C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Nodes.txt
+2020-11-27 15:48:59,551 [1] INFO  Photon.LoadBalancing.MasterServer.MasterApplication - Current Node (nodeId=0) is the active master (leader)
+2020-11-27 15:48:59,551 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=Master; AppPath=C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancing\Master, Type=Photon.LoadBalancing.MasterServer.MasterApplication 
+2020-11-27 15:48:59,578 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher - CounterPublisher started publishing ExitGames.Diagnostics.Monitoring.CounterSamplePublisher to ExitGames.Diagnostics.Monitoring.CounterSampleSender
+2020-11-27 15:48:59,600 [11] INFO  Photon.LoadBalancing.MasterServer.GameServer.IncomingGameServerPeer - game server connection from 127.0.0.1:49759 established (id=2)
+2020-11-27 15:48:59,673 [16] WARN  Photon.LoadBalancing.Common.NodesReader - Internal address for node 0 unknown; using loop back
+2020-11-27 15:48:59,674 [16] INFO  Photon.LoadBalancing.Common.NodesReader - Node added: 0 = 127.0.0.1
+2020-11-27 16:15:54,469 [22] INFO  Photon.LoadBalancing.MasterServer.GameServer.IncomingGameServerPeer - OnDisconnect: game server connection closed (connectionId=2, serverId=242256de-eb4a-4fdb-8da6-674a6357c49d, reason=ClientDisconnect)
+2020-11-27 16:15:54,472 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=Master
+2020-11-27 16:15:54,489 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=Master
+2020-11-27 16:15:57,650 [1] INFO  Photon.LoadBalancing.MasterServer.MasterApplication - TokenCreator intialized with an expiration of 02:46:40
+2020-11-27 16:15:57,674 [1] INFO  Photon.SocketServer.Diagnostics.HttpQueuePerformanceCounters - User has no Admin rights. HttpQueuePerformanceCounters initialization skipped
+2020-11-27 16:15:57,676 [1] INFO  Photon.Common.Authentication.Diagnostic.CustomAuthResultCounters - Start to initialize Photon: Custom Authentication Results performance counters
+2020-11-27 16:15:57,676 [1] INFO  Photon.Common.Authentication.Diagnostic.CustomAuthResultCounters - User has no Admin rights. CustomAuthResultCounters initialization skipped
+2020-11-27 16:15:57,683 [1] WARN  Photon.Common.LoadBalancer.LoadBalancer`1 - Could not initialize LoadBalancer from configuration: Invalid configuration file C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancer.config. Using default settings... (Could not find file 'C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancer.config'.)
+2020-11-27 16:15:57,712 [1] INFO  Photon.LoadBalancing.MasterServer.GameApplication - TokenCreator intialized with an expiration of 02:46:40
+2020-11-27 16:15:57,738 [1] INFO  Photon.LoadBalancing.MasterServer.GameApplication - Application {Default}/{Default} starts without Redis
+2020-11-27 16:15:57,765 [1] INFO  Photon.LoadBalancing.Common.NodesReader - Import nodes
+2020-11-27 16:15:57,766 [1] WARN  Photon.LoadBalancing.Common.NodesReader - C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Nodes.txt does not exist, CurrentNodeId = 0
+2020-11-27 16:15:57,767 [1] INFO  Photon.LoadBalancing.Common.NodesReader - Watching C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Nodes.txt
+2020-11-27 16:15:57,768 [1] INFO  Photon.LoadBalancing.MasterServer.MasterApplication - Current Node (nodeId=0) is the active master (leader)
+2020-11-27 16:15:57,768 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=Master; AppPath=C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancing\Master, Type=Photon.LoadBalancing.MasterServer.MasterApplication 
+2020-11-27 16:15:57,792 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher - CounterPublisher started publishing ExitGames.Diagnostics.Monitoring.CounterSamplePublisher to ExitGames.Diagnostics.Monitoring.CounterSampleSender
+2020-11-27 16:15:57,814 [13] INFO  Photon.LoadBalancing.MasterServer.GameServer.IncomingGameServerPeer - game server connection from 127.0.0.1:50086 established (id=2)
+2020-11-27 16:15:57,883 [13] WARN  Photon.LoadBalancing.Common.NodesReader - Internal address for node 0 unknown; using loop back
+2020-11-27 16:15:57,883 [13] INFO  Photon.LoadBalancing.Common.NodesReader - Node added: 0 = 127.0.0.1
+2020-11-27 16:28:11,834 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=Master
+2020-11-27 16:28:11,835 [30] INFO  Photon.LoadBalancing.MasterServer.GameServer.IncomingGameServerPeer - OnDisconnect: game server connection closed (connectionId=2, serverId=bf2b9a90-30b7-44d0-bb19-dc6c1cb73baf, reason=ClientDisconnect)
+2020-11-27 16:28:11,854 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=Master
+2020-11-27 16:28:15,026 [1] INFO  Photon.LoadBalancing.MasterServer.MasterApplication - TokenCreator intialized with an expiration of 02:46:40
+2020-11-27 16:28:15,064 [1] INFO  Photon.SocketServer.Diagnostics.HttpQueuePerformanceCounters - User has no Admin rights. HttpQueuePerformanceCounters initialization skipped
+2020-11-27 16:28:15,067 [1] INFO  Photon.Common.Authentication.Diagnostic.CustomAuthResultCounters - Start to initialize Photon: Custom Authentication Results performance counters
+2020-11-27 16:28:15,068 [1] INFO  Photon.Common.Authentication.Diagnostic.CustomAuthResultCounters - User has no Admin rights. CustomAuthResultCounters initialization skipped
+2020-11-27 16:28:15,075 [1] WARN  Photon.Common.LoadBalancer.LoadBalancer`1 - Could not initialize LoadBalancer from configuration: Invalid configuration file C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancer.config. Using default settings... (Could not find file 'C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancer.config'.)
+2020-11-27 16:28:15,116 [1] INFO  Photon.LoadBalancing.MasterServer.GameApplication - TokenCreator intialized with an expiration of 02:46:40
+2020-11-27 16:28:15,149 [1] INFO  Photon.LoadBalancing.MasterServer.GameApplication - Application {Default}/{Default} starts without Redis
+2020-11-27 16:28:15,176 [1] INFO  Photon.LoadBalancing.Common.NodesReader - Import nodes
+2020-11-27 16:28:15,177 [1] WARN  Photon.LoadBalancing.Common.NodesReader - C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Nodes.txt does not exist, CurrentNodeId = 0
+2020-11-27 16:28:15,178 [1] INFO  Photon.LoadBalancing.Common.NodesReader - Watching C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Nodes.txt
+2020-11-27 16:28:15,178 [1] INFO  Photon.LoadBalancing.MasterServer.MasterApplication - Current Node (nodeId=0) is the active master (leader)
+2020-11-27 16:28:15,179 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=Master; AppPath=C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancing\Master, Type=Photon.LoadBalancing.MasterServer.MasterApplication 
+2020-11-27 16:28:15,208 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher - CounterPublisher started publishing ExitGames.Diagnostics.Monitoring.CounterSamplePublisher to ExitGames.Diagnostics.Monitoring.CounterSampleSender
+2020-11-27 16:28:15,230 [11] INFO  Photon.LoadBalancing.MasterServer.GameServer.IncomingGameServerPeer - game server connection from 127.0.0.1:50124 established (id=2)
+2020-11-27 16:28:15,289 [12] WARN  Photon.LoadBalancing.Common.NodesReader - Internal address for node 0 unknown; using loop back
+2020-11-27 16:28:15,290 [12] INFO  Photon.LoadBalancing.Common.NodesReader - Node added: 0 = 127.0.0.1
+2020-11-27 16:32:35,235 [13] INFO  Photon.LoadBalancing.MasterServer.GameServer.IncomingGameServerPeer - OnDisconnect: game server connection closed (connectionId=2, serverId=37a7d1ef-75c1-4ff3-87a3-a75b1975391a, reason=ClientDisconnect)
+2020-11-27 16:32:35,244 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=Master
+2020-11-27 16:32:35,263 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=Master
+2020-11-27 16:32:37,776 [1] INFO  Photon.LoadBalancing.MasterServer.MasterApplication - TokenCreator intialized with an expiration of 02:46:40
+2020-11-27 16:32:37,801 [1] INFO  Photon.SocketServer.Diagnostics.HttpQueuePerformanceCounters - User has no Admin rights. HttpQueuePerformanceCounters initialization skipped
+2020-11-27 16:32:37,803 [1] INFO  Photon.Common.Authentication.Diagnostic.CustomAuthResultCounters - Start to initialize Photon: Custom Authentication Results performance counters
+2020-11-27 16:32:37,803 [1] INFO  Photon.Common.Authentication.Diagnostic.CustomAuthResultCounters - User has no Admin rights. CustomAuthResultCounters initialization skipped
+2020-11-27 16:32:37,812 [1] WARN  Photon.Common.LoadBalancer.LoadBalancer`1 - Could not initialize LoadBalancer from configuration: Invalid configuration file C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancer.config. Using default settings... (Could not find file 'C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancer.config'.)
+2020-11-27 16:32:37,850 [1] INFO  Photon.LoadBalancing.MasterServer.GameApplication - TokenCreator intialized with an expiration of 02:46:40
+2020-11-27 16:32:37,878 [1] INFO  Photon.LoadBalancing.MasterServer.GameApplication - Application {Default}/{Default} starts without Redis
+2020-11-27 16:32:37,907 [1] INFO  Photon.LoadBalancing.Common.NodesReader - Import nodes
+2020-11-27 16:32:37,908 [1] WARN  Photon.LoadBalancing.Common.NodesReader - C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Nodes.txt does not exist, CurrentNodeId = 0
+2020-11-27 16:32:37,908 [1] INFO  Photon.LoadBalancing.Common.NodesReader - Watching C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Nodes.txt
+2020-11-27 16:32:37,909 [1] INFO  Photon.LoadBalancing.MasterServer.MasterApplication - Current Node (nodeId=0) is the active master (leader)
+2020-11-27 16:32:37,909 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=Master; AppPath=C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancing\Master, Type=Photon.LoadBalancing.MasterServer.MasterApplication 
+2020-11-27 16:32:37,933 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher - CounterPublisher started publishing ExitGames.Diagnostics.Monitoring.CounterSamplePublisher to ExitGames.Diagnostics.Monitoring.CounterSampleSender
+2020-11-27 16:32:37,957 [11] INFO  Photon.LoadBalancing.MasterServer.GameServer.IncomingGameServerPeer - game server connection from 127.0.0.1:50133 established (id=2)
+2020-11-27 16:32:38,030 [13] WARN  Photon.LoadBalancing.Common.NodesReader - Internal address for node 0 unknown; using loop back
+2020-11-27 16:32:38,031 [13] INFO  Photon.LoadBalancing.Common.NodesReader - Node added: 0 = 127.0.0.1

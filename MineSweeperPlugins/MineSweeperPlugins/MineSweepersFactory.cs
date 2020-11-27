@@ -18,9 +18,7 @@ namespace MineSweepersPlugins
 
             switch (pluginName)
             {
-               /* case "MineSweepersPlugin":
-                    plugin = new MineSweepersPlugin();
-                    break;*/
+               
                 case "MineSweepersCoop":
                     plugin = new MineSweepersCoop();
                     break;

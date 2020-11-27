@@ -7,13 +7,18 @@ namespace MineSweepersPlugins
     {
 
         public override string Name { get { return "MineSweepersCoop"; } }
-
+        /// <summary>
+        /// Called when game is started
+        /// </summary>
         public override void StartGame()
         {
             BroadcastEvent((byte)Event.GameStart, new Dictionary<byte, object>() { { (byte)0, board.Hight }, { (byte)1, board.Width }, { 2, board.MineCount } });
             IsGameStarted = true;
         }
-
+        /// <summary>
+        /// Called when tile is opened
+        /// </summary>
+        /// <param name="info"></param>
         protected override void OnOpen(IRaiseEventCallInfo info)
         {
             Dictionary<byte, object> data = info.Request.Data as Dictionary<byte, object>;
@@ -35,24 +40,10 @@ namespace MineSweepersPlugins
                 BroadcastEvent((byte)Event.GameEnd, null);
         }
 
-        protected void OpenTile(int y, int x, int val)
-        {
-            if (!board.IsFlag(y, x))
-            {
-                if (val != 0)
-                {
-                    if (board.RevealdCount < 1 && firstSafe)
-                        val = board.SwapMine(y, x);
-                    board.Reveal(y, x);
-                    BroadcastEvent((byte)Event.ReceiveMove, new Dictionary<byte, object>() { { (byte)0, y }, { (byte)1, x }, { (byte)2, val } });
-                    if (val == 10 && endOnExpload)
-                        BroadcastEvent((byte)Event.GameEnd, null);
-                }
-                else
-                    Expand(y, x);
-            }
-        }
-
+        /// <summary>
+        /// Called when flag is toggled
+        /// </summary>
+        /// <param name="info"></param>
         protected override void OnToggleFlag(IRaiseEventCallInfo info)
         {
             PluginHost.LogError("SetFlag");
@@ -67,6 +58,13 @@ namespace MineSweepersPlugins
             BroadcastEvent((byte)Event.ReceiveToggleFlag, new Dictionary<byte, object>() { { (byte)0, y }, { (byte)1, x }, { (byte)2, board.IsFlag(y, x) } });
 
 
+        }
+        /// <summary>
+        /// Called when games is ended
+        /// </summary>
+        public override void EndGame()
+        {
+            BroadcastEvent((byte)Event.GameEnd, null);
         }
     }
 }
