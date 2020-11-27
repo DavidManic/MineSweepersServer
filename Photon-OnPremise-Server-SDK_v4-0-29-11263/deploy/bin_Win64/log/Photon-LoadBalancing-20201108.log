@@ -1,0 +1,158 @@
+4956: 15:36:31.979 - ---
+4956: 15:36:31.979 - Service: "Photon Socket Server" starting
+4956: 15:36:31.980 - Config File: C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\bin_Win64\PhotonServer.config
+4956: 15:36:31.981 - Will produce at most: 10 crash dumps
+4956: 15:36:31.981 - Existing dump file: PhotonSocketServer.exe-20200205-154020-5524-4800-1.dmp
+4956: 15:36:31.981 - Existing dump file: PhotonSocketServer.exe-20200205-154021-5524-4800-2.dmp
+4956: 15:36:31.981 - Existing dump file: PhotonSocketServer.exe-20200205-154324-5352-5536-1.dmp
+4956: 15:36:31.981 - Existing dump file: PhotonSocketServer.exe-20200205-154324-5352-5536-2.dmp
+4956: 15:36:31.981 - Max dumps to produce reduced to 6 due to 4 existing dump files
+4956: 15:36:31.981 - Action: run as exe
+4956: 15:36:31.982 - Server Starting...
+4956: 15:36:31.982 -    Tick count: 2424437875 (wraps in: 21.6496 days)
+4956: 15:36:31.982 - Tick count 64: 2424437875
+4956: 15:36:31.982 - Photon Version: 4.0.28.2962
+4956: 15:36:31.982 - PID: 7860
+4956: 15:36:31.982 - Config File: C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\bin_Win64\PhotonServer.config
+4956: 15:36:31.983 - Will NOT log unimportant exceptions
+4956: 15:36:31.987 - Not using performance counters as they are not currently installed. Run the service with /InstallCounters to install them.
+4956: 15:36:31.987 - Shutdown timeout enabled: 30000ms
+4956: 15:36:31.988 - Starting I/O thread pool with 2 threads
+4956: 15:36:31.988 - Using Standard allocator
+4956: 15:36:31.988 - Max message size: 512000
+4956: 15:36:31.989 - Starting business logic thread pool with the following settings
+4956: 15:36:31.989 - InitialThreads: 4 threads
+4956: 15:36:31.989 - MinThreads: 4 threads
+4956: 15:36:31.989 - Thread pool is fixed size
+4956: 15:36:31.989 - Starting ENet thread pool with the following settings
+4956: 15:36:31.989 - InitialThreads: 2 threads
+4956: 15:36:31.989 - MinThreads: 2 threads
+4956: 15:36:31.989 - Thread pool is fixed size
+4956: 15:36:31.989 - OnlyDispatchTimers: False
+4956: 15:36:31.989 - S2S: flow control: Max pending writes: 50
+4956: 15:36:31.989 - S2S: flow control: Max queued buffers: 200
+4956: 15:36:31.989 - S2S: flow control: Max pending writes MUX: 500
+4956: 15:36:31.989 - S2S: flow control: Max queued buffers MUX: 2000
+4956: 15:36:31.989 - S2S: MaxInboundMessageSize: 512000
+4956: 15:36:31.989 - S2S: MaxOutboundMessageSize: 512000
+4956: 15:36:31.989 - S2S: No inactivity timeout
+4956: 15:36:31.992 - WebSocket S2S: MaxInboundMessageSize: 512000
+4956: 15:36:31.992 - WebSocket S2S: MaxOutboundMessageSize: 512000
+4956: 15:36:31.992 - WebSocket S2S: No inactivity timeout
+4956: 15:36:31.992 - Max Reliable Data In Transit (awaiting ACKs) per peer : 51200 bytes
+4956: 15:36:31.992 - Per peer bandwidth limit
+4956: 15:36:31.992 - Transmit Rate Limit: 256 KB/Sec
+4956: 15:36:31.992 - Limit period: 200ms
+4956: 15:36:31.992 - Limit per period: 52428 bytes
+4956: 15:36:31.993 - Max queued data for transmission per peer: 512000 bytes
+4956: 15:36:31.993 - Minimum retransmit timeout: 200
+4956: 15:36:31.993 - No Maximum retransmit timeout
+4956: 15:36:31.993 - Minimum ENet timeout: 5000ms
+4956: 15:36:31.993 - Maximum ENet timeout: 30000ms
+4956: 15:36:31.993 - Max Inbound Reliable Data Queued (awaiting resends of earlier sequence numbers) per peer : 163840 bytes
+4956: 15:36:31.993 - No RTT ACK adjustment timeout
+4956: 15:36:31.993 - Outbound ENet: MaxInboundMessageSize: 512000
+4956: 15:36:31.993 - Outbound ENet: MaxOutboundMessageSize: 512000
+4956: 15:36:31.997 - GetRuntime - About to load CLR - versions available:
+4956: 15:36:31.997 - v2.0.50727
+4956: 15:36:31.997 - v4.0.30319
+4956: 15:36:31.997 - Configuration requests: "v2.0.50727"
+4956: 15:36:31.997 - About to load version: "v2.0.50727"
+4956: 15:36:32.026 - About to load runtime: PhotonHostRuntime.PhotonDomainManager from PhotonHostRuntime, Culture=neutral, PublicKeyToken=02C301B61B060C4D
+4956: 15:36:32.026 - CLRBaseDirectory set to "C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy"
+4956: 15:36:32.026 - Optimising event broadcast for 20 or more peers
+4956: 15:36:32.027 - Start: About to load CLR - versions available:
+4956: 15:36:32.027 - v2.0.50727
+4956: 15:36:32.027 - v4.0.30319
+4956: 15:36:32.027 - No preference in configuration file, will load latest.
+4956: 15:36:32.027 - About to load version: "v4.0.30319"
+4956: 15:36:32.029 - Loaded version: "v4.0.30319"
+4956: 15:36:32.193 - Photon host runtime loaded
+4956: 15:36:33.677 - LICENSE: No license file was found. Starting with Bootstrap License.
+4956: 15:36:33.678 - License is valid.
+4956: 15:36:33.678 - Licensed for 20 concurrent connections.
+4956: 15:36:33.678 - ENet: Max Reliable Data In Transit (awaiting ACKs) per peer : 51200 bytes
+4956: 15:36:33.678 - ENet: Per peer bandwidth limit
+4956: 15:36:33.678 - ENet: Transmit Rate Limit: 256 KB/Sec
+4956: 15:36:33.678 - ENet: Limit period: 200ms
+4956: 15:36:33.678 - ENet: Limit per period: 52428 bytes
+4956: 15:36:33.678 - ENet: Max queued data for transmission per peer: 512000 bytes
+4956: 15:36:33.678 - ENet: Minimum retransmit timeout: 200
+4956: 15:36:33.678 - No Maximum retransmit timeout
+4956: 15:36:33.678 - ENet: Minimum timeout: 5000ms
+4956: 15:36:33.678 - ENet: Maximum timeout: 30000ms
+4956: 15:36:33.678 - ENet: Max Inbound Reliable Data Queued (awaiting resends of earlier sequence numbers) per peer : 163840 bytes
+4956: 15:36:33.678 - No RTT ACK adjustment timeout
+4956: 15:36:33.678 - About to load application: Master from Photon.LoadBalancing
+4956: 15:36:33.678 - Auto restart is enabled for application, existing connections will be terminated during restart
+4956: 15:36:33.678 - Application will restart 1000ms after the last change detected
+4956: 15:36:33.678 - Application will restart if files matching the following are changed: "dll;config"
+4956: 15:36:33.678 - Application will NOT restart if files matching the following are changed: "log4net.config"
+4956: 15:36:33.789 - Taking reference on default app domain
+4956: 15:36:33.854 - Application: "Master" started in app domain: 2
+4956: 15:36:33.854 - About to load application: Game from Photon.LoadBalancing
+4956: 15:36:33.854 - Auto restart is enabled for application, existing connections will be terminated during restart
+4956: 15:36:33.854 - Application will restart 1000ms after the last change detected
+4956: 15:36:33.854 - Application will restart if files matching the following are changed: "dll;config"
+4956: 15:36:33.854 - Application will NOT restart if files matching the following are changed: "log4net.config"
+4956: 15:36:33.918 - Taking reference on default app domain
+4956: 15:36:34.016 - Application: "Game" started in app domain: 3
+4956: 15:36:34.016 - About to load application: CounterPublisher from CounterPublisher
+4956: 15:36:34.016 - Auto restart is enabled for application, existing connections will be terminated during restart
+4956: 15:36:34.016 - Application will restart 1000ms after the last change detected
+4956: 15:36:34.016 - Application will restart if files matching the following are changed: "dll;config"
+4956: 15:36:34.016 - Application will NOT restart if files matching the following are changed: "log4net.config"
+4956: 15:36:34.085 - Taking reference on default app domain
+4956: 15:36:34.125 - Application: "CounterPublisher" started in app domain: 4
+4956: 15:36:34.125 - Adding TCP listener on: 0.0.0.0: 4530 with a listen backlog of: 150
+4956: 15:36:34.125 - TCP inactivity timeout: 10000ms
+4956: 15:36:34.125 - TCP disconnect timeout: 120000ms
+4956: 15:36:34.125 - MaxInboundMessageSize: 512000
+4956: 15:36:34.125 - MaxOutboundMessageSize: 512000
+4956: 15:36:34.125 - Forcing all applications ids to: "Master"
+4956: 15:36:34.126 - Serving policy file requests from: "C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Policy\assets\socket-policy.xml"
+4956: 15:36:34.126 - Adding TCP listener on: 0.0.0.0: 4531 with a listen backlog of: 150
+4956: 15:36:34.126 - TCP inactivity timeout: 10000ms
+4956: 15:36:34.126 - TCP disconnect timeout: 120000ms
+4956: 15:36:34.126 - MaxInboundMessageSize: 512000
+4956: 15:36:34.126 - MaxOutboundMessageSize: 512000
+4956: 15:36:34.126 - Forcing all applications ids to: "Game"
+4956: 15:36:34.126 - Serving policy file requests from: "C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Policy\assets\socket-policy.xml"
+4956: 15:36:34.126 - Adding TCP listener on: 0.0.0.0: 4520 with a listen backlog of: 150
+4956: 15:36:34.126 - TCP inactivity timeout: 5000ms
+4956: 15:36:34.126 - TCP disconnect timeout: 120000ms
+4956: 15:36:34.126 - MaxInboundMessageSize: 512000
+4956: 15:36:34.126 - MaxOutboundMessageSize: 512000
+4956: 15:36:34.126 - Forcing all applications ids to: "Master"
+4956: 15:36:34.126 - MaxInboundMessageSize: 512000
+4956: 15:36:34.126 - MaxOutboundMessageSize: 512000
+4956: 15:36:34.126 - UDP address specified as: "0.0.0.0" adding listener to each available IPv4 address
+4956: 15:36:34.127 - Adding UDP listener on: 192.168.0.12: 5055 with a listen backlog of: 500
+4956: 15:36:34.127 - Adding UDP listener on: 127.0.0.1: 5055 with a listen backlog of: 500
+4956: 15:36:34.127 - Forcing all applications ids to: "Game"
+4956: 15:36:34.127 - MaxInboundMessageSize: 512000
+4956: 15:36:34.127 - MaxOutboundMessageSize: 512000
+4956: 15:36:34.127 - UDP address specified as: "0.0.0.0" adding listener to each available IPv4 address
+4956: 15:36:34.127 - Adding UDP listener on: 192.168.0.12: 5056 with a listen backlog of: 500
+4956: 15:36:34.127 - Adding UDP listener on: 127.0.0.1: 5056 with a listen backlog of: 500
+4956: 15:36:34.127 - Adding WebSocket TCP listener on: 0.0.0.0: 9090 with a listen backlog of: 150
+4956: 15:36:34.127 - Nagle disabled
+4956: 15:36:34.127 - TCP inactivity timeout: 10000ms
+4956: 15:36:34.127 - MaxInboundMessageSize: 512000
+4956: 15:36:34.127 - MaxOutboundMessageSize: 512000
+4956: 15:36:34.127 - Forcing all applications ids to: "Master"
+4956: 15:36:34.127 - Will accept ANY sub-protocols from the client
+4956: 15:36:34.127 - No automatic WebSocket ping
+4956: 15:36:34.128 - Adding WebSocket TCP listener on: 0.0.0.0: 9091 with a listen backlog of: 150
+4956: 15:36:34.128 - Nagle disabled
+4956: 15:36:34.128 - TCP inactivity timeout: 10000ms
+4956: 15:36:34.128 - MaxInboundMessageSize: 512000
+4956: 15:36:34.128 - MaxOutboundMessageSize: 512000
+4956: 15:36:34.128 - Forcing all applications ids to: "Game"
+4956: 15:36:34.128 - Will accept ANY sub-protocols from the client
+4956: 15:36:34.128 - No automatic WebSocket ping
+4956: 15:36:34.128 - Adding Policy File listener on: 0.0.0.0: 843 with a listen backlog of: 150 and serving Policy File: "C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Policy\assets\socket-policy.xml"
+4956: 15:36:34.128 - TCP inactivity timeout: 1000ms
+4956: 15:36:34.128 - Adding Policy File listener on: 0.0.0.0: 943 with a listen backlog of: 150 and serving Policy File: "C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Policy\assets\socket-policy-silverlight.xml"
+4956: 15:36:34.128 - TCP inactivity timeout: 1000ms
+4956: 15:36:34.176 - Service is running...
