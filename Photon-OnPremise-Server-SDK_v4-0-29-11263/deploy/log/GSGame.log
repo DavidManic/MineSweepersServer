@@ -11571,3 +11571,960 @@ Exception System.IO.FileNotFoundException: The system cannot find the file speci
 2020-11-27 16:32:59,593 [12] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
 2020-11-27 16:33:00,226 [19] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
 2020-11-27 16:33:07,969 [10] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - Sync player3
+2020-11-27 17:12:23,760 [25] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - Name
+2020-11-27 17:12:23,760 [25] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-11-27 17:12:23,761 [25] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-11-27 17:12:23,761 [25] INFO  Photon.Hive.Plugin.PluginManager - Plugin successfully created:Type:MineSweepersPlugins.MineSweepersFactory, path:C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Plugins\MineSweepersPlugins\1.0.0\bin\MineSweepersPlugins.dll
+2020-11-27 17:12:24,334 [23] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - Name
+2020-11-27 17:12:24,335 [23] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-11-27 17:12:24,335 [23] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-11-27 17:12:24,336 [23] INFO  Photon.Hive.Plugin.PluginManager - Plugin successfully created:Type:MineSweepersPlugins.MineSweepersFactory, path:C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Plugins\MineSweepersPlugins\1.0.0\bin\MineSweepersPlugins.dll
+2020-11-27 17:12:24,853 [25] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - Name
+2020-11-27 17:12:24,854 [25] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-11-27 17:12:24,854 [25] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-11-27 17:12:24,855 [25] INFO  Photon.Hive.Plugin.PluginManager - Plugin successfully created:Type:MineSweepersPlugins.MineSweepersFactory, path:C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Plugins\MineSweepersPlugins\1.0.0\bin\MineSweepersPlugins.dll
+2020-11-27 17:12:25,334 [13] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - Name
+2020-11-27 17:12:25,335 [13] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-11-27 17:12:25,336 [13] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-11-27 17:12:25,337 [13] INFO  Photon.Hive.Plugin.PluginManager - Plugin successfully created:Type:MineSweepersPlugins.MineSweepersFactory, path:C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Plugins\MineSweepersPlugins\1.0.0\bin\MineSweepersPlugins.dll
+2020-11-27 17:12:25,977 [10] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - Name
+2020-11-27 17:12:25,978 [10] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-11-27 17:12:25,979 [10] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-11-27 17:12:25,980 [10] INFO  Photon.Hive.Plugin.PluginManager - Plugin successfully created:Type:MineSweepersPlugins.MineSweepersFactory, path:C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Plugins\MineSweepersPlugins\1.0.0\bin\MineSweepersPlugins.dll
+2020-11-27 18:23:07,838 [12] INFO  Photon.Common.LoadBalancer.LoadShedding.FeedbackController - Transit CpuUsage from Lowest to Low with input 35
+2020-11-27 18:23:07,840 [12] INFO  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - FeedbackLevel changed: old=Lowest, new=Low
+2020-11-27 18:23:26,901 [11] INFO  Photon.Common.LoadBalancer.LoadShedding.FeedbackController - Transit CpuUsage from Low to Normal with input 50
+2020-11-27 18:23:27,070 [11] INFO  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - FeedbackLevel changed: old=Low, new=Normal
+2020-11-27 18:25:19,933 [15] INFO  Photon.Common.LoadBalancer.LoadShedding.FeedbackController - Transit CpuUsage from Normal to Low with input 35
+2020-11-27 18:25:19,944 [15] INFO  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - FeedbackLevel changed: old=Normal, new=Low
+2020-11-27 18:35:15,391 [6] INFO  Photon.Common.LoadBalancer.LoadShedding.FeedbackController - Transit CpuUsage from Low to Normal with input 50
+2020-11-27 18:35:15,393 [6] INFO  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - FeedbackLevel changed: old=Low, new=Normal
+2020-11-27 18:37:45,662 [6] INFO  Photon.Common.LoadBalancer.LoadShedding.FeedbackController - Transit CpuUsage from Normal to Low with input 35
+2020-11-27 18:37:45,662 [6] INFO  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - FeedbackLevel changed: old=Normal, new=Low
+2020-11-27 19:12:55,926 [12] INFO  Photon.Common.LoadBalancer.LoadShedding.FeedbackController - Transit CpuUsage from Low to Lowest with input 20
+2020-11-27 19:12:55,926 [12] INFO  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - FeedbackLevel changed: old=Low, new=Lowest
+2020-11-27 20:22:12,474 [17] WARN  ExitGames.Diagnostics.Monitoring.Protocol.PhotonBinaryWriterBase - SendData: Publishing counter data failed for the 0 time: An invalid argument was supplied
+2020-11-27 20:22:12,480 [17] WARN  Photon.SocketServer.Diagnostics.CounterPublisher - CounterPublisher stopped working because of a network loss
+2020-11-27 20:27:26,761 [10] INFO  Photon.Common.LoadBalancer.LoadShedding.FeedbackController - Transit CpuUsage from Lowest to Low with input 35
+2020-11-27 20:27:26,762 [10] INFO  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - FeedbackLevel changed: old=Lowest, new=Low
+2020-11-27 20:27:48,617 [22] INFO  Photon.Common.LoadBalancer.LoadShedding.FeedbackController - Transit CpuUsage from Low to Normal with input 50
+2020-11-27 20:27:48,617 [22] INFO  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - FeedbackLevel changed: old=Low, new=Normal
+2020-11-27 20:32:11,679 [26] INFO  Photon.Common.LoadBalancer.LoadShedding.FeedbackController - Transit CpuUsage from Normal to Low with input 35
+2020-11-27 20:32:11,679 [26] INFO  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - FeedbackLevel changed: old=Normal, new=Low
+2020-11-27 20:36:30,650 [21] INFO  Photon.Common.LoadBalancer.LoadShedding.FeedbackController - Transit CpuUsage from Low to Normal with input 50
+2020-11-27 20:36:30,650 [21] INFO  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - FeedbackLevel changed: old=Low, new=Normal
+2020-11-27 20:46:54,381 [26] INFO  Photon.Common.LoadBalancer.LoadShedding.FeedbackController - Transit CpuUsage from Normal to Low with input 35
+2020-11-27 20:46:54,382 [26] INFO  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - FeedbackLevel changed: old=Normal, new=Low
+2020-11-27 20:58:17,821 [9] INFO  Photon.Common.LoadBalancer.LoadShedding.FeedbackController - Transit CpuUsage from Low to Normal with input 50
+2020-11-27 20:58:17,821 [9] INFO  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - FeedbackLevel changed: old=Low, new=Normal
+2020-11-27 21:00:30,786 [24] INFO  Photon.Common.LoadBalancer.LoadShedding.FeedbackController - Transit CpuUsage from Normal to Low with input 35
+2020-11-27 21:00:30,786 [24] INFO  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - FeedbackLevel changed: old=Normal, new=Low
+2020-11-28 17:21:11,787 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - Setup: serverId=83e6421b-3b68-415f-9c08-ed1bbb0e3640
+2020-11-28 17:21:11,812 [1] INFO  Photon.Hive.Plugin.PluginManager - Plugin configured: name=MineSweepersPlugins
+2020-11-28 17:21:11,830 [1] INFO  Photon.Hive.Plugin.PluginManager - Loaded Assembly Name=MineSweepersPlugins, Version=1.0.0.0, Culture=, PublicKey token=, Path=C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Plugins\MineSweepersPlugins\1.0.0\bin\MineSweepersPlugins.dll
+2020-11-28 17:21:11,831 [1] INFO  Photon.Hive.Plugin.PluginManager - Referenced Assembly Name=mscorlib, Version=4.0.0.0, Culture=, PublicKey token=B7-7A-5C-56-19-34-E0-89, Path=
+2020-11-28 17:21:11,831 [1] INFO  Photon.Hive.Plugin.PluginManager - Referenced Assembly Name=PhotonHivePlugin, Version=1.0.15.11060, Culture=, PublicKey token=, Path=
+2020-11-28 17:21:11,832 [1] INFO  Photon.Hive.Plugin.PluginManager - Referenced Assembly Name=ExitGamesLibs, Version=1.0.4.0, Culture=, PublicKey token=EA-C0-ED-D9-74-6A-4A-A0, Path=
+2020-11-28 17:21:11,832 [1] INFO  Photon.Hive.Plugin.PluginManager - Referenced Assembly Name=System.Core, Version=4.0.0.0, Culture=, PublicKey token=B7-7A-5C-56-19-34-E0-89, Path=
+2020-11-28 17:21:11,833 [1] INFO  Photon.Hive.Plugin.PluginManager - Plugin Type MineSweepersPlugins.MineSweepersFactory from assembly MineSweepersPlugins, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null was successfuly created
+2020-11-28 17:21:11,834 [1] INFO  Photon.Hive.Plugin.PluginManager - Plugin manager (version=1.0.15.11060) is setup. type=MineSweepersPlugins.MineSweepersFactory;path=C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Plugins\MineSweepersPlugins\1.0.0\bin\MineSweepersPlugins.dll;version=1.0.15.11060
+2020-11-28 17:21:11,838 [1] INFO  Photon.SocketServer.Diagnostics.HttpQueuePerformanceCounters - User has no Admin rights. HttpQueuePerformanceCounters initialization skipped
+2020-11-28 17:21:11,843 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - TokenCreator intialized with an expiration of 02:46:40
+2020-11-28 17:21:11,937 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter Business Logic Queue
+2020-11-28 17:21:11,937 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter ENet Queue
+2020-11-28 17:21:11,938 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter bytes in/sec
+2020-11-28 17:21:11,938 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter bytes out/sec
+2020-11-28 17:21:11,939 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter ENet Threads Processing
+2020-11-28 17:21:11,939 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter ENet Threads Active
+2020-11-28 17:21:11,940 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter Time Spent In Server: In (ms)
+2020-11-28 17:21:11,940 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter Time Spent In Server: Out (ms)
+2020-11-28 17:21:11,940 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter TCP: Disconnected Peers +/sec
+2020-11-28 17:21:11,941 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter TCP: Disconnected Peers (C) +/sec
+2020-11-28 17:21:11,941 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter TCP: Peers
+2020-11-28 17:21:11,942 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter UDP: Disconnected Peers +/sec
+2020-11-28 17:21:11,942 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter UDP: Disconnected Peers (C) +/sec
+2020-11-28 17:21:11,942 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter UDP: Peers
+2020-11-28 17:21:11,952 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.FeedbackControlSystem - Could not initialize Feedback Control System from configuration: Invalid configuration file C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Workload.config. Using default settings... (Could not find file 'C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Workload.config'.)
+2020-11-28 17:21:11,962 [1] INFO  Photon.Common.LoadBalancer.ServerStateManager - Watching for application state file in C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\ServerState.txt
+2020-11-28 17:21:11,965 [1] INFO  Photon.Common.LoadBalancer.ServerStateManager - Server state is set to online
+2020-11-28 17:21:11,966 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - Initializing master server connection ...
+2020-11-28 17:21:11,977 [1] INFO  Photon.LoadBalancing.GameServer.MasterServerConnectionBase - Connecting to master at 127.0.0.1:4520, serverId=83e6421b-3b68-415f-9c08-ed1bbb0e3640
+2020-11-28 17:21:12,000 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=Game; AppPath=C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancing\GameServer, Type=Photon.LoadBalancing.GameServer.GameApplication 
+2020-11-28 17:21:12,006 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher - CounterPublisher started publishing ExitGames.Diagnostics.Monitoring.CounterSamplePublisher to ExitGames.Diagnostics.Monitoring.CounterSampleSender
+2020-11-28 17:21:12,305 [12] INFO  Photon.LoadBalancing.GameServer.MasterServerConnectionBase - Master connection established: address:127.0.0.1
+2020-11-28 17:21:12,306 [12] INFO  Photon.Common.LoadBalancer.ServerStateManager - Server state is set to online
+2020-11-28 17:21:12,310 [13] INFO  Photon.LoadBalancing.GameServer.OutgoingMasterServerPeer - Registering game server with address 192.168.0.12, TCP 4531, UDP 5056, WebSocket 9091, Secure WebSocket 19091, HTTP 80, ServerID 83e6421b-3b68-415f-9c08-ed1bbb0e3640, Hostname localhost, IPv6Address 
+2020-11-28 17:21:12,393 [11] INFO  Photon.LoadBalancing.GameServer.OutgoingMasterServerPeer - Successfully registered at master server: serverId=83e6421b-3b68-415f-9c08-ed1bbb0e3640
+2020-11-28 17:22:40,632 [10] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - NameMineSweepersVersus
+2020-11-28 17:22:40,633 [10] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-11-28 17:22:40,634 [10] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-11-28 17:22:40,635 [10] INFO  Photon.Hive.Plugin.PluginManager - Plugin successfully created:Type:MineSweepersPlugins.MineSweepersFactory, path:C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Plugins\MineSweepersPlugins\1.0.0\bin\MineSweepersPlugins.dll
+2020-11-28 17:22:40,653 [10] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - OnCreateGame dsd by user f70376d6-9d82-4f30-9439-ddd1dd866f1b
+2020-11-28 17:22:40,703 [10] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - GameCreated 11 by 9 with 9 mines. FirstSafe False, endOnExpload False, JoinAfterStart True
+2020-11-28 17:22:52,542 [12] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 4 , x: 4 , val: 1 , IsIsReveald: False 
+2020-11-28 17:22:53,233 [15] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 8 , x: 3 , val: 1 , IsIsReveald: False 
+2020-11-28 17:22:53,901 [10] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 17:22:55,334 [10] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 5 , x: 7 , val: 1 , IsIsReveald: False 
+2020-11-28 17:22:56,100 [15] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 8 , x: 7 , val: 1 , IsIsReveald: False 
+2020-11-28 17:22:57,000 [12] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 10 , x: 8 , val: 0 , IsIsReveald: False 
+2020-11-28 17:22:58,134 [11] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 17:22:59,101 [15] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 17:23:03,913 [15] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - Sync player3
+2020-11-28 17:23:56,632 [15] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 2 , x: 7 , val: 1 , IsIsReveald: False 
+2020-11-28 17:23:57,429 [16] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 1 , x: 3 , val: 2 , IsIsReveald: False 
+2020-11-28 17:31:22,055 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - OnStopRequested: serverid=83e6421b-3b68-415f-9c08-ed1bbb0e3640
+2020-11-28 17:31:22,058 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=Game
+2020-11-28 17:31:22,068 [15] INFO  Photon.LoadBalancing.GameServer.OutgoingMasterServerPeer - connection to master closed (id=2, reason=ManagedDisconnect, detail=), serverId=83e6421b-3b68-415f-9c08-ed1bbb0e3640
+2020-11-28 17:31:22,075 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - TearDown: serverId=83e6421b-3b68-415f-9c08-ed1bbb0e3640
+2020-11-28 17:31:22,080 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=Game
+2020-11-28 17:31:24,812 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - Setup: serverId=232806c2-f1eb-4338-ba57-599aa77180b3
+2020-11-28 17:31:24,841 [1] INFO  Photon.Hive.Plugin.PluginManager - Plugin configured: name=MineSweepersPlugins
+2020-11-28 17:31:24,861 [1] INFO  Photon.Hive.Plugin.PluginManager - Loaded Assembly Name=MineSweepersPlugins, Version=1.0.0.0, Culture=, PublicKey token=, Path=C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Plugins\MineSweepersPlugins\1.0.0\bin\MineSweepersPlugins.dll
+2020-11-28 17:31:24,861 [1] INFO  Photon.Hive.Plugin.PluginManager - Referenced Assembly Name=mscorlib, Version=4.0.0.0, Culture=, PublicKey token=B7-7A-5C-56-19-34-E0-89, Path=
+2020-11-28 17:31:24,862 [1] INFO  Photon.Hive.Plugin.PluginManager - Referenced Assembly Name=PhotonHivePlugin, Version=1.0.15.11060, Culture=, PublicKey token=, Path=
+2020-11-28 17:31:24,862 [1] INFO  Photon.Hive.Plugin.PluginManager - Referenced Assembly Name=ExitGamesLibs, Version=1.0.4.0, Culture=, PublicKey token=EA-C0-ED-D9-74-6A-4A-A0, Path=
+2020-11-28 17:31:24,863 [1] INFO  Photon.Hive.Plugin.PluginManager - Referenced Assembly Name=System.Core, Version=4.0.0.0, Culture=, PublicKey token=B7-7A-5C-56-19-34-E0-89, Path=
+2020-11-28 17:31:24,864 [1] INFO  Photon.Hive.Plugin.PluginManager - Plugin Type MineSweepersPlugins.MineSweepersFactory from assembly MineSweepersPlugins, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null was successfuly created
+2020-11-28 17:31:24,864 [1] INFO  Photon.Hive.Plugin.PluginManager - Plugin manager (version=1.0.15.11060) is setup. type=MineSweepersPlugins.MineSweepersFactory;path=C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Plugins\MineSweepersPlugins\1.0.0\bin\MineSweepersPlugins.dll;version=1.0.15.11060
+2020-11-28 17:31:24,869 [1] INFO  Photon.SocketServer.Diagnostics.HttpQueuePerformanceCounters - User has no Admin rights. HttpQueuePerformanceCounters initialization skipped
+2020-11-28 17:31:24,874 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - TokenCreator intialized with an expiration of 02:46:40
+2020-11-28 17:31:24,971 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter Business Logic Queue
+2020-11-28 17:31:24,971 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter ENet Queue
+2020-11-28 17:31:24,971 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter bytes in/sec
+2020-11-28 17:31:24,972 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter bytes out/sec
+2020-11-28 17:31:24,972 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter ENet Threads Processing
+2020-11-28 17:31:24,973 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter ENet Threads Active
+2020-11-28 17:31:24,973 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter Time Spent In Server: In (ms)
+2020-11-28 17:31:24,973 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter Time Spent In Server: Out (ms)
+2020-11-28 17:31:24,974 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter TCP: Disconnected Peers +/sec
+2020-11-28 17:31:24,974 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter TCP: Disconnected Peers (C) +/sec
+2020-11-28 17:31:24,974 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter TCP: Peers
+2020-11-28 17:31:24,975 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter UDP: Disconnected Peers +/sec
+2020-11-28 17:31:24,975 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter UDP: Disconnected Peers (C) +/sec
+2020-11-28 17:31:24,976 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter UDP: Peers
+2020-11-28 17:31:24,985 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.FeedbackControlSystem - Could not initialize Feedback Control System from configuration: Invalid configuration file C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Workload.config. Using default settings... (Could not find file 'C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Workload.config'.)
+2020-11-28 17:31:24,997 [1] INFO  Photon.Common.LoadBalancer.ServerStateManager - Watching for application state file in C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\ServerState.txt
+2020-11-28 17:31:25,000 [1] INFO  Photon.Common.LoadBalancer.ServerStateManager - Server state is set to online
+2020-11-28 17:31:25,001 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - Initializing master server connection ...
+2020-11-28 17:31:25,013 [1] INFO  Photon.LoadBalancing.GameServer.MasterServerConnectionBase - Connecting to master at 127.0.0.1:4520, serverId=232806c2-f1eb-4338-ba57-599aa77180b3
+2020-11-28 17:31:25,035 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=Game; AppPath=C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancing\GameServer, Type=Photon.LoadBalancing.GameServer.GameApplication 
+2020-11-28 17:31:25,041 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher - CounterPublisher started publishing ExitGames.Diagnostics.Monitoring.CounterSamplePublisher to ExitGames.Diagnostics.Monitoring.CounterSampleSender
+2020-11-28 17:31:25,341 [10] INFO  Photon.LoadBalancing.GameServer.MasterServerConnectionBase - Master connection established: address:127.0.0.1
+2020-11-28 17:31:25,342 [10] INFO  Photon.Common.LoadBalancer.ServerStateManager - Server state is set to online
+2020-11-28 17:31:25,346 [10] INFO  Photon.LoadBalancing.GameServer.OutgoingMasterServerPeer - Registering game server with address 192.168.0.12, TCP 4531, UDP 5056, WebSocket 9091, Secure WebSocket 19091, HTTP 80, ServerID 232806c2-f1eb-4338-ba57-599aa77180b3, Hostname localhost, IPv6Address 
+2020-11-28 17:31:25,418 [13] INFO  Photon.LoadBalancing.GameServer.OutgoingMasterServerPeer - Successfully registered at master server: serverId=232806c2-f1eb-4338-ba57-599aa77180b3
+2020-11-28 17:32:10,432 [16] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - NameMineSweepersVersus
+2020-11-28 17:32:10,435 [16] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-11-28 17:32:10,436 [16] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-11-28 17:32:10,437 [16] INFO  Photon.Hive.Plugin.PluginManager - Plugin successfully created:Type:MineSweepersPlugins.MineSweepersFactory, path:C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Plugins\MineSweepersPlugins\1.0.0\bin\MineSweepersPlugins.dll
+2020-11-28 17:32:10,457 [16] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - OnCreateGame dsds by user 884595f0-1cbc-4364-ae7d-b3f49573be1c
+2020-11-28 17:32:10,515 [16] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - GameCreated 11 by 9 with 9 mines. FirstSafe False, endOnExpload False, JoinAfterStart True
+2020-11-28 17:32:18,300 [10] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 4 , x: 6 , val: 10 , IsIsReveald: False 
+2020-11-28 17:32:19,275 [16] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 8 , x: 7 , val: 0 , IsIsReveald: False 
+2020-11-28 17:32:20,292 [11] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 17:32:35,725 [17] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - Sync player3
+2020-11-28 17:32:43,947 [17] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 17:32:43,964 [17] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - UnhandledException:'Name:MineSweepersVersus, Version:1.0 AppId:827A-68F6-0482-0D25-3728-48B8, AppVersion:'. Exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at MineSweepersPlugins.ScoreManager.AddPoints(IActor actor, Int32 points) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\Resources\Score.cs:line 53
+   at MineSweepersPlugins.MineSweepersVersus.OnToggleFlag(IRaiseEventCallInfo info) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\MineSweepersVersus.cs:line 80
+   at MineSweepersPlugins.MineSweepersPlugin.OnRaiseEvent(IRaiseEventCallInfo info) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\MineSweepersPlugin.cs:line 132
+   at Photon.Hive.Plugin.PluginBase.Photon.Hive.Plugin.IGamePlugin.OnRaiseEvent(IRaiseEventCallInfo info)
+2020-11-28 17:32:45,075 [17] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 17:32:45,837 [10] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 9 , x: 3 , val: 1 , IsIsReveald: True 
+2020-11-28 17:32:45,843 [10] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - UnhandledException:'Name:MineSweepersVersus, Version:1.0 AppId:827A-68F6-0482-0D25-3728-48B8, AppVersion:'. Exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at MineSweepersPlugins.ScoreManager.AddPoints(IActor actor, Int32 points) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\Resources\Score.cs:line 53
+   at MineSweepersPlugins.MineSweepersVersus.OnOpen(IRaiseEventCallInfo info) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\MineSweepersVersus.cs:line 55
+   at MineSweepersPlugins.MineSweepersPlugin.OnRaiseEvent(IRaiseEventCallInfo info) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\MineSweepersPlugin.cs:line 128
+   at Photon.Hive.Plugin.PluginBase.Photon.Hive.Plugin.IGamePlugin.OnRaiseEvent(IRaiseEventCallInfo info)
+2020-11-28 17:32:48,405 [10] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 9 , x: 6 , val: 1 , IsIsReveald: True 
+2020-11-28 17:32:48,406 [10] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - UnhandledException:'Name:MineSweepersVersus, Version:1.0 AppId:827A-68F6-0482-0D25-3728-48B8, AppVersion:'. Exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at MineSweepersPlugins.ScoreManager.AddPoints(IActor actor, Int32 points) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\Resources\Score.cs:line 53
+   at MineSweepersPlugins.MineSweepersVersus.OnOpen(IRaiseEventCallInfo info) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\MineSweepersVersus.cs:line 55
+   at MineSweepersPlugins.MineSweepersPlugin.OnRaiseEvent(IRaiseEventCallInfo info) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\MineSweepersPlugin.cs:line 128
+   at Photon.Hive.Plugin.PluginBase.Photon.Hive.Plugin.IGamePlugin.OnRaiseEvent(IRaiseEventCallInfo info)
+2020-11-28 17:32:49,414 [17] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 17:32:49,415 [17] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - UnhandledException:'Name:MineSweepersVersus, Version:1.0 AppId:827A-68F6-0482-0D25-3728-48B8, AppVersion:'. Exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at MineSweepersPlugins.ScoreManager.AddPoints(IActor actor, Int32 points) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\Resources\Score.cs:line 53
+   at MineSweepersPlugins.MineSweepersVersus.OnToggleFlag(IRaiseEventCallInfo info) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\MineSweepersVersus.cs:line 80
+   at MineSweepersPlugins.MineSweepersPlugin.OnRaiseEvent(IRaiseEventCallInfo info) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\MineSweepersPlugin.cs:line 132
+   at Photon.Hive.Plugin.PluginBase.Photon.Hive.Plugin.IGamePlugin.OnRaiseEvent(IRaiseEventCallInfo info)
+2020-11-28 17:32:51,503 [17] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 17:32:51,504 [17] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - UnhandledException:'Name:MineSweepersVersus, Version:1.0 AppId:827A-68F6-0482-0D25-3728-48B8, AppVersion:'. Exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at MineSweepersPlugins.ScoreManager.AddPoints(IActor actor, Int32 points) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\Resources\Score.cs:line 53
+   at MineSweepersPlugins.MineSweepersVersus.OnToggleFlag(IRaiseEventCallInfo info) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\MineSweepersVersus.cs:line 80
+   at MineSweepersPlugins.MineSweepersPlugin.OnRaiseEvent(IRaiseEventCallInfo info) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\MineSweepersPlugin.cs:line 132
+   at Photon.Hive.Plugin.PluginBase.Photon.Hive.Plugin.IGamePlugin.OnRaiseEvent(IRaiseEventCallInfo info)
+2020-11-28 17:32:51,801 [12] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 17:32:52,035 [18] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 17:32:52,298 [10] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 17:32:56,506 [18] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 7 , x: 1 , val: 1 , IsIsReveald: True 
+2020-11-28 17:32:56,507 [18] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - UnhandledException:'Name:MineSweepersVersus, Version:1.0 AppId:827A-68F6-0482-0D25-3728-48B8, AppVersion:'. Exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at MineSweepersPlugins.ScoreManager.AddPoints(IActor actor, Int32 points) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\Resources\Score.cs:line 53
+   at MineSweepersPlugins.MineSweepersVersus.OnOpen(IRaiseEventCallInfo info) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\MineSweepersVersus.cs:line 55
+   at MineSweepersPlugins.MineSweepersPlugin.OnRaiseEvent(IRaiseEventCallInfo info) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\MineSweepersPlugin.cs:line 128
+   at Photon.Hive.Plugin.PluginBase.Photon.Hive.Plugin.IGamePlugin.OnRaiseEvent(IRaiseEventCallInfo info)
+2020-11-28 17:33:01,737 [16] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 17:33:03,705 [21] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 17:33:07,637 [21] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 5 , x: 5 , val: 1 , IsIsReveald: True 
+2020-11-28 17:33:09,738 [17] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 4 , x: 5 , val: 1 , IsIsReveald: False 
+2020-11-28 17:33:11,609 [21] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 4 , x: 4 , val: 1 , IsIsReveald: False 
+2020-11-28 17:33:12,588 [17] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 17:33:13,703 [17] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 4 , x: 4 , val: 1 , IsIsReveald: True 
+2020-11-28 17:33:15,038 [15] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 3 , x: 3 , val: 1 , IsIsReveald: True 
+2020-11-28 17:33:17,943 [16] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 17:33:17,944 [16] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - UnhandledException:'Name:MineSweepersVersus, Version:1.0 AppId:827A-68F6-0482-0D25-3728-48B8, AppVersion:'. Exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at MineSweepersPlugins.ScoreManager.AddPoints(IActor actor, Int32 points) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\Resources\Score.cs:line 53
+   at MineSweepersPlugins.MineSweepersVersus.OnToggleFlag(IRaiseEventCallInfo info) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\MineSweepersVersus.cs:line 80
+   at MineSweepersPlugins.MineSweepersPlugin.OnRaiseEvent(IRaiseEventCallInfo info) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\MineSweepersPlugin.cs:line 132
+   at Photon.Hive.Plugin.PluginBase.Photon.Hive.Plugin.IGamePlugin.OnRaiseEvent(IRaiseEventCallInfo info)
+2020-11-28 17:33:20,412 [12] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 17:33:21,057 [11] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 17:33:30,765 [12] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 17:33:33,753 [12] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 17:33:33,983 [18] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 17:33:34,183 [15] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 17:33:34,381 [12] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 17:33:37,336 [11] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 17:33:43,902 [16] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 17:33:45,121 [16] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 17:33:54,990 [16] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 17:33:56,484 [12] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 17:34:04,101 [15] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 17:34:05,084 [15] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 17:34:08,817 [18] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 17:34:09,850 [12] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 17:34:10,620 [10] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 17:34:11,248 [12] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 17:34:12,051 [10] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 17:34:14,600 [21] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 17:34:14,898 [21] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 17:34:17,399 [12] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 17:34:19,399 [17] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 5 , x: 8 , val: 1 , IsIsReveald: True 
+2020-11-28 17:34:21,287 [4] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 17:34:22,331 [12] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 6 , x: 0 , val: 1 , IsIsReveald: True 
+2020-11-28 17:37:23,502 [18] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - NameMineSweepersVersus
+2020-11-28 17:37:23,503 [18] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-11-28 17:37:23,504 [18] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-11-28 17:37:23,505 [18] INFO  Photon.Hive.Plugin.PluginManager - Plugin successfully created:Type:MineSweepersPlugins.MineSweepersFactory, path:C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Plugins\MineSweepersPlugins\1.0.0\bin\MineSweepersPlugins.dll
+2020-11-28 17:37:23,506 [18] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - OnCreateGame fdfd by user f70376d6-9d82-4f30-9439-ddd1dd866f1b
+2020-11-28 17:37:23,507 [18] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - GameCreated 14 by 17 with 23 mines. FirstSafe False, endOnExpload False, JoinAfterStart True
+2020-11-28 17:37:30,534 [10] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 5 , x: 6 , val: 0 , IsIsReveald: False 
+2020-11-28 17:37:31,535 [17] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 17:37:32,268 [17] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 17:37:33,169 [12] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 17:37:37,974 [15] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - Sync player3
+2020-11-28 17:37:39,786 [15] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 17:37:39,787 [15] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - UnhandledException:'Name:MineSweepersVersus, Version:1.0 AppId:827A-68F6-0482-0D25-3728-48B8, AppVersion:'. Exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at MineSweepersPlugins.ScoreManager.AddPoints(IActor actor, Int32 points) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\Resources\Score.cs:line 53
+   at MineSweepersPlugins.MineSweepersVersus.OnToggleFlag(IRaiseEventCallInfo info) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\MineSweepersVersus.cs:line 80
+   at MineSweepersPlugins.MineSweepersPlugin.OnRaiseEvent(IRaiseEventCallInfo info) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\MineSweepersPlugin.cs:line 132
+   at Photon.Hive.Plugin.PluginBase.Photon.Hive.Plugin.IGamePlugin.OnRaiseEvent(IRaiseEventCallInfo info)
+2020-11-28 17:37:40,681 [16] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 7 , x: 8 , val: 1 , IsIsReveald: True 
+2020-11-28 17:37:40,682 [16] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - UnhandledException:'Name:MineSweepersVersus, Version:1.0 AppId:827A-68F6-0482-0D25-3728-48B8, AppVersion:'. Exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at MineSweepersPlugins.ScoreManager.AddPoints(IActor actor, Int32 points) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\Resources\Score.cs:line 53
+   at MineSweepersPlugins.MineSweepersVersus.OnOpen(IRaiseEventCallInfo info) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\MineSweepersVersus.cs:line 55
+   at MineSweepersPlugins.MineSweepersPlugin.OnRaiseEvent(IRaiseEventCallInfo info) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\MineSweepersPlugin.cs:line 128
+   at Photon.Hive.Plugin.PluginBase.Photon.Hive.Plugin.IGamePlugin.OnRaiseEvent(IRaiseEventCallInfo info)
+2020-11-28 17:37:43,234 [25] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 17:37:43,236 [25] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - UnhandledException:'Name:MineSweepersVersus, Version:1.0 AppId:827A-68F6-0482-0D25-3728-48B8, AppVersion:'. Exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at MineSweepersPlugins.ScoreManager.AddPoints(IActor actor, Int32 points) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\Resources\Score.cs:line 53
+   at MineSweepersPlugins.MineSweepersVersus.OnToggleFlag(IRaiseEventCallInfo info) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\MineSweepersVersus.cs:line 80
+   at MineSweepersPlugins.MineSweepersPlugin.OnRaiseEvent(IRaiseEventCallInfo info) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\MineSweepersPlugin.cs:line 132
+   at Photon.Hive.Plugin.PluginBase.Photon.Hive.Plugin.IGamePlugin.OnRaiseEvent(IRaiseEventCallInfo info)
+2020-11-28 17:37:43,763 [12] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 8 , x: 9 , val: 2 , IsIsReveald: True 
+2020-11-28 17:37:43,763 [12] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - UnhandledException:'Name:MineSweepersVersus, Version:1.0 AppId:827A-68F6-0482-0D25-3728-48B8, AppVersion:'. Exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at MineSweepersPlugins.ScoreManager.AddPoints(IActor actor, Int32 points) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\Resources\Score.cs:line 53
+   at MineSweepersPlugins.MineSweepersVersus.OnOpen(IRaiseEventCallInfo info) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\MineSweepersVersus.cs:line 55
+   at MineSweepersPlugins.MineSweepersPlugin.OnRaiseEvent(IRaiseEventCallInfo info) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\MineSweepersPlugin.cs:line 128
+   at Photon.Hive.Plugin.PluginBase.Photon.Hive.Plugin.IGamePlugin.OnRaiseEvent(IRaiseEventCallInfo info)
+2020-11-28 17:37:46,413 [16] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 17:37:46,415 [16] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - UnhandledException:'Name:MineSweepersVersus, Version:1.0 AppId:827A-68F6-0482-0D25-3728-48B8, AppVersion:'. Exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at MineSweepersPlugins.ScoreManager.AddPoints(IActor actor, Int32 points) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\Resources\Score.cs:line 53
+   at MineSweepersPlugins.MineSweepersVersus.OnToggleFlag(IRaiseEventCallInfo info) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\MineSweepersVersus.cs:line 80
+   at MineSweepersPlugins.MineSweepersPlugin.OnRaiseEvent(IRaiseEventCallInfo info) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\MineSweepersPlugin.cs:line 132
+   at Photon.Hive.Plugin.PluginBase.Photon.Hive.Plugin.IGamePlugin.OnRaiseEvent(IRaiseEventCallInfo info)
+2020-11-28 17:37:47,093 [4] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 9 , x: 6 , val: 1 , IsIsReveald: True 
+2020-11-28 17:37:47,094 [4] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - UnhandledException:'Name:MineSweepersVersus, Version:1.0 AppId:827A-68F6-0482-0D25-3728-48B8, AppVersion:'. Exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at MineSweepersPlugins.ScoreManager.AddPoints(IActor actor, Int32 points) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\Resources\Score.cs:line 53
+   at MineSweepersPlugins.MineSweepersVersus.OnOpen(IRaiseEventCallInfo info) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\MineSweepersVersus.cs:line 55
+   at MineSweepersPlugins.MineSweepersPlugin.OnRaiseEvent(IRaiseEventCallInfo info) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\MineSweepersPlugin.cs:line 128
+   at Photon.Hive.Plugin.PluginBase.Photon.Hive.Plugin.IGamePlugin.OnRaiseEvent(IRaiseEventCallInfo info)
+2020-11-28 17:37:54,600 [15] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 17:37:54,602 [15] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - UnhandledException:'Name:MineSweepersVersus, Version:1.0 AppId:827A-68F6-0482-0D25-3728-48B8, AppVersion:'. Exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at MineSweepersPlugins.ScoreManager.AddPoints(IActor actor, Int32 points) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\Resources\Score.cs:line 53
+   at MineSweepersPlugins.MineSweepersVersus.OnToggleFlag(IRaiseEventCallInfo info) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\MineSweepersVersus.cs:line 80
+   at MineSweepersPlugins.MineSweepersPlugin.OnRaiseEvent(IRaiseEventCallInfo info) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\MineSweepersPlugin.cs:line 132
+   at Photon.Hive.Plugin.PluginBase.Photon.Hive.Plugin.IGamePlugin.OnRaiseEvent(IRaiseEventCallInfo info)
+2020-11-28 17:37:55,445 [15] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 10 , x: 4 , val: 1 , IsIsReveald: True 
+2020-11-28 17:37:55,446 [15] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - UnhandledException:'Name:MineSweepersVersus, Version:1.0 AppId:827A-68F6-0482-0D25-3728-48B8, AppVersion:'. Exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at MineSweepersPlugins.ScoreManager.AddPoints(IActor actor, Int32 points) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\Resources\Score.cs:line 53
+   at MineSweepersPlugins.MineSweepersVersus.OnOpen(IRaiseEventCallInfo info) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\MineSweepersVersus.cs:line 55
+   at MineSweepersPlugins.MineSweepersPlugin.OnRaiseEvent(IRaiseEventCallInfo info) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\MineSweepersPlugin.cs:line 128
+   at Photon.Hive.Plugin.PluginBase.Photon.Hive.Plugin.IGamePlugin.OnRaiseEvent(IRaiseEventCallInfo info)
+2020-11-28 17:37:57,349 [15] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 17:37:57,350 [15] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - UnhandledException:'Name:MineSweepersVersus, Version:1.0 AppId:827A-68F6-0482-0D25-3728-48B8, AppVersion:'. Exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at MineSweepersPlugins.ScoreManager.AddPoints(IActor actor, Int32 points) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\Resources\Score.cs:line 53
+   at MineSweepersPlugins.MineSweepersVersus.OnToggleFlag(IRaiseEventCallInfo info) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\MineSweepersVersus.cs:line 80
+   at MineSweepersPlugins.MineSweepersPlugin.OnRaiseEvent(IRaiseEventCallInfo info) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\MineSweepersPlugin.cs:line 132
+   at Photon.Hive.Plugin.PluginBase.Photon.Hive.Plugin.IGamePlugin.OnRaiseEvent(IRaiseEventCallInfo info)
+2020-11-28 17:37:57,880 [15] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 11 , x: 5 , val: 3 , IsIsReveald: True 
+2020-11-28 17:37:57,881 [15] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - UnhandledException:'Name:MineSweepersVersus, Version:1.0 AppId:827A-68F6-0482-0D25-3728-48B8, AppVersion:'. Exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at MineSweepersPlugins.ScoreManager.AddPoints(IActor actor, Int32 points) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\Resources\Score.cs:line 53
+   at MineSweepersPlugins.MineSweepersVersus.OnOpen(IRaiseEventCallInfo info) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\MineSweepersVersus.cs:line 55
+   at MineSweepersPlugins.MineSweepersPlugin.OnRaiseEvent(IRaiseEventCallInfo info) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\MineSweepersPlugin.cs:line 128
+   at Photon.Hive.Plugin.PluginBase.Photon.Hive.Plugin.IGamePlugin.OnRaiseEvent(IRaiseEventCallInfo info)
+2020-11-28 17:38:00,762 [16] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 17:38:00,764 [16] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - UnhandledException:'Name:MineSweepersVersus, Version:1.0 AppId:827A-68F6-0482-0D25-3728-48B8, AppVersion:'. Exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at MineSweepersPlugins.ScoreManager.AddPoints(IActor actor, Int32 points) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\Resources\Score.cs:line 53
+   at MineSweepersPlugins.MineSweepersVersus.OnToggleFlag(IRaiseEventCallInfo info) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\MineSweepersVersus.cs:line 80
+   at MineSweepersPlugins.MineSweepersPlugin.OnRaiseEvent(IRaiseEventCallInfo info) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\MineSweepersPlugin.cs:line 132
+   at Photon.Hive.Plugin.PluginBase.Photon.Hive.Plugin.IGamePlugin.OnRaiseEvent(IRaiseEventCallInfo info)
+2020-11-28 17:38:01,226 [17] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 17:38:01,227 [17] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - UnhandledException:'Name:MineSweepersVersus, Version:1.0 AppId:827A-68F6-0482-0D25-3728-48B8, AppVersion:'. Exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at MineSweepersPlugins.ScoreManager.AddPoints(IActor actor, Int32 points) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\Resources\Score.cs:line 53
+   at MineSweepersPlugins.MineSweepersVersus.OnToggleFlag(IRaiseEventCallInfo info) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\MineSweepersVersus.cs:line 80
+   at MineSweepersPlugins.MineSweepersPlugin.OnRaiseEvent(IRaiseEventCallInfo info) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\MineSweepersPlugin.cs:line 132
+   at Photon.Hive.Plugin.PluginBase.Photon.Hive.Plugin.IGamePlugin.OnRaiseEvent(IRaiseEventCallInfo info)
+2020-11-28 17:38:01,723 [10] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 17:38:01,724 [10] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - UnhandledException:'Name:MineSweepersVersus, Version:1.0 AppId:827A-68F6-0482-0D25-3728-48B8, AppVersion:'. Exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at MineSweepersPlugins.ScoreManager.AddPoints(IActor actor, Int32 points) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\Resources\Score.cs:line 53
+   at MineSweepersPlugins.MineSweepersVersus.OnToggleFlag(IRaiseEventCallInfo info) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\MineSweepersVersus.cs:line 80
+   at MineSweepersPlugins.MineSweepersPlugin.OnRaiseEvent(IRaiseEventCallInfo info) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\MineSweepersPlugin.cs:line 132
+   at Photon.Hive.Plugin.PluginBase.Photon.Hive.Plugin.IGamePlugin.OnRaiseEvent(IRaiseEventCallInfo info)
+2020-11-28 17:38:04,342 [21] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 17:38:04,907 [17] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 17:38:05,701 [17] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 12 , x: 6 , val: 3 , IsIsReveald: True 
+2020-11-28 17:38:05,702 [17] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - UnhandledException:'Name:MineSweepersVersus, Version:1.0 AppId:827A-68F6-0482-0D25-3728-48B8, AppVersion:'. Exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at MineSweepersPlugins.ScoreManager.AddPoints(IActor actor, Int32 points) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\Resources\Score.cs:line 53
+   at MineSweepersPlugins.MineSweepersVersus.OnOpen(IRaiseEventCallInfo info) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\MineSweepersVersus.cs:line 55
+   at MineSweepersPlugins.MineSweepersPlugin.OnRaiseEvent(IRaiseEventCallInfo info) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\MineSweepersPlugin.cs:line 128
+   at Photon.Hive.Plugin.PluginBase.Photon.Hive.Plugin.IGamePlugin.OnRaiseEvent(IRaiseEventCallInfo info)
+2020-11-28 17:38:06,695 [10] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 12 , x: 7 , val: 2 , IsIsReveald: True 
+2020-11-28 17:38:06,696 [10] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - UnhandledException:'Name:MineSweepersVersus, Version:1.0 AppId:827A-68F6-0482-0D25-3728-48B8, AppVersion:'. Exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at MineSweepersPlugins.ScoreManager.AddPoints(IActor actor, Int32 points) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\Resources\Score.cs:line 53
+   at MineSweepersPlugins.MineSweepersVersus.OnOpen(IRaiseEventCallInfo info) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\MineSweepersVersus.cs:line 55
+   at MineSweepersPlugins.MineSweepersPlugin.OnRaiseEvent(IRaiseEventCallInfo info) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\MineSweepersPlugin.cs:line 128
+   at Photon.Hive.Plugin.PluginBase.Photon.Hive.Plugin.IGamePlugin.OnRaiseEvent(IRaiseEventCallInfo info)
+2020-11-28 17:38:07,823 [16] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 17:38:07,823 [16] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - UnhandledException:'Name:MineSweepersVersus, Version:1.0 AppId:827A-68F6-0482-0D25-3728-48B8, AppVersion:'. Exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at MineSweepersPlugins.ScoreManager.AddPoints(IActor actor, Int32 points) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\Resources\Score.cs:line 53
+   at MineSweepersPlugins.MineSweepersVersus.OnToggleFlag(IRaiseEventCallInfo info) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\MineSweepersVersus.cs:line 80
+   at MineSweepersPlugins.MineSweepersPlugin.OnRaiseEvent(IRaiseEventCallInfo info) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\MineSweepersPlugin.cs:line 132
+   at Photon.Hive.Plugin.PluginBase.Photon.Hive.Plugin.IGamePlugin.OnRaiseEvent(IRaiseEventCallInfo info)
+2020-11-28 17:38:08,320 [12] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 11 , x: 8 , val: 1 , IsIsReveald: True 
+2020-11-28 17:38:08,320 [12] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - UnhandledException:'Name:MineSweepersVersus, Version:1.0 AppId:827A-68F6-0482-0D25-3728-48B8, AppVersion:'. Exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at MineSweepersPlugins.ScoreManager.AddPoints(IActor actor, Int32 points) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\Resources\Score.cs:line 53
+   at MineSweepersPlugins.MineSweepersVersus.OnOpen(IRaiseEventCallInfo info) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\MineSweepersVersus.cs:line 55
+   at MineSweepersPlugins.MineSweepersPlugin.OnRaiseEvent(IRaiseEventCallInfo info) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\MineSweepersPlugin.cs:line 128
+   at Photon.Hive.Plugin.PluginBase.Photon.Hive.Plugin.IGamePlugin.OnRaiseEvent(IRaiseEventCallInfo info)
+2020-11-28 17:38:08,983 [4] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 12 , x: 9 , val: 1 , IsIsReveald: True 
+2020-11-28 17:38:08,984 [4] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - UnhandledException:'Name:MineSweepersVersus, Version:1.0 AppId:827A-68F6-0482-0D25-3728-48B8, AppVersion:'. Exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at MineSweepersPlugins.ScoreManager.AddPoints(IActor actor, Int32 points) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\Resources\Score.cs:line 53
+   at MineSweepersPlugins.MineSweepersVersus.OnOpen(IRaiseEventCallInfo info) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\MineSweepersVersus.cs:line 55
+   at MineSweepersPlugins.MineSweepersPlugin.OnRaiseEvent(IRaiseEventCallInfo info) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\MineSweepersPlugin.cs:line 128
+   at Photon.Hive.Plugin.PluginBase.Photon.Hive.Plugin.IGamePlugin.OnRaiseEvent(IRaiseEventCallInfo info)
+2020-11-28 17:38:09,578 [21] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 10 , x: 9 , val: 1 , IsIsReveald: True 
+2020-11-28 17:38:09,579 [21] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - UnhandledException:'Name:MineSweepersVersus, Version:1.0 AppId:827A-68F6-0482-0D25-3728-48B8, AppVersion:'. Exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at MineSweepersPlugins.ScoreManager.AddPoints(IActor actor, Int32 points) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\Resources\Score.cs:line 53
+   at MineSweepersPlugins.MineSweepersVersus.OnOpen(IRaiseEventCallInfo info) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\MineSweepersVersus.cs:line 55
+   at MineSweepersPlugins.MineSweepersPlugin.OnRaiseEvent(IRaiseEventCallInfo info) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\MineSweepersPlugin.cs:line 128
+   at Photon.Hive.Plugin.PluginBase.Photon.Hive.Plugin.IGamePlugin.OnRaiseEvent(IRaiseEventCallInfo info)
+2020-11-28 17:38:10,473 [4] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 10 , x: 10 , val: 1 , IsIsReveald: True 
+2020-11-28 17:38:10,474 [4] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - UnhandledException:'Name:MineSweepersVersus, Version:1.0 AppId:827A-68F6-0482-0D25-3728-48B8, AppVersion:'. Exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at MineSweepersPlugins.ScoreManager.AddPoints(IActor actor, Int32 points) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\Resources\Score.cs:line 53
+   at MineSweepersPlugins.MineSweepersVersus.OnOpen(IRaiseEventCallInfo info) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\MineSweepersVersus.cs:line 55
+   at MineSweepersPlugins.MineSweepersPlugin.OnRaiseEvent(IRaiseEventCallInfo info) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\MineSweepersPlugin.cs:line 128
+   at Photon.Hive.Plugin.PluginBase.Photon.Hive.Plugin.IGamePlugin.OnRaiseEvent(IRaiseEventCallInfo info)
+2020-11-28 17:38:12,395 [18] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 17:38:13,092 [16] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 9 , x: 11 , val: 1 , IsIsReveald: True 
+2020-11-28 17:38:13,094 [16] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - UnhandledException:'Name:MineSweepersVersus, Version:1.0 AppId:827A-68F6-0482-0D25-3728-48B8, AppVersion:'. Exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at MineSweepersPlugins.ScoreManager.AddPoints(IActor actor, Int32 points) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\Resources\Score.cs:line 53
+   at MineSweepersPlugins.MineSweepersVersus.OnOpen(IRaiseEventCallInfo info) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\MineSweepersVersus.cs:line 55
+   at MineSweepersPlugins.MineSweepersPlugin.OnRaiseEvent(IRaiseEventCallInfo info) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\MineSweepersPlugin.cs:line 128
+   at Photon.Hive.Plugin.PluginBase.Photon.Hive.Plugin.IGamePlugin.OnRaiseEvent(IRaiseEventCallInfo info)
+2020-11-28 17:38:14,253 [10] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 17:38:14,254 [10] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - UnhandledException:'Name:MineSweepersVersus, Version:1.0 AppId:827A-68F6-0482-0D25-3728-48B8, AppVersion:'. Exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at MineSweepersPlugins.ScoreManager.AddPoints(IActor actor, Int32 points) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\Resources\Score.cs:line 53
+   at MineSweepersPlugins.MineSweepersVersus.OnToggleFlag(IRaiseEventCallInfo info) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\MineSweepersVersus.cs:line 80
+   at MineSweepersPlugins.MineSweepersPlugin.OnRaiseEvent(IRaiseEventCallInfo info) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\MineSweepersPlugin.cs:line 132
+   at Photon.Hive.Plugin.PluginBase.Photon.Hive.Plugin.IGamePlugin.OnRaiseEvent(IRaiseEventCallInfo info)
+2020-11-28 17:38:18,432 [18] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 17:38:19,330 [16] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 4 , x: 13 , val: 1 , IsIsReveald: True 
+2020-11-28 17:38:21,514 [4] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 17:38:22,230 [10] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 5 , x: 14 , val: 1 , IsIsReveald: True 
+2020-11-28 17:38:22,964 [12] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 4 , x: 15 , val: 1 , IsIsReveald: True 
+2020-11-28 17:38:24,431 [25] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 17:38:25,130 [16] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 1 , x: 13 , val: 1 , IsIsReveald: True 
+2020-11-28 17:38:25,831 [25] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 17:38:30,147 [21] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 17:38:31,179 [17] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 0 , x: 4 , val: 1 , IsIsReveald: True 
+2020-11-28 17:38:32,246 [18] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 17:38:32,736 [15] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 0 , x: 9 , val: 1 , IsIsReveald: True 
+2020-11-28 17:38:35,779 [4] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 17:38:36,696 [25] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 12 , x: 2 , val: 1 , IsIsReveald: True 
+2020-11-28 17:38:39,025 [25] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 17:38:39,820 [12] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 17:38:40,417 [25] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 12 , x: 4 , val: 3 , IsIsReveald: True 
+2020-11-28 17:38:41,808 [25] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 17:38:42,306 [4] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 17:38:43,200 [4] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 13 , x: 7 , val: 1 , IsIsReveald: True 
+2020-11-28 17:38:47,508 [18] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 17:38:48,269 [21] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 17:38:48,270 [21] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - UnhandledException:'Name:MineSweepersVersus, Version:1.0 AppId:827A-68F6-0482-0D25-3728-48B8, AppVersion:'. Exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at MineSweepersPlugins.ScoreManager.AddPoints(IActor actor, Int32 points) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\Resources\Score.cs:line 53
+   at MineSweepersPlugins.MineSweepersVersus.OnToggleFlag(IRaiseEventCallInfo info) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\MineSweepersVersus.cs:line 80
+   at MineSweepersPlugins.MineSweepersPlugin.OnRaiseEvent(IRaiseEventCallInfo info) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\MineSweepersPlugin.cs:line 132
+   at Photon.Hive.Plugin.PluginBase.Photon.Hive.Plugin.IGamePlugin.OnRaiseEvent(IRaiseEventCallInfo info)
+2020-11-28 17:38:49,197 [21] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 12 , x: 12 , val: 1 , IsIsReveald: True 
+2020-11-28 17:38:49,198 [21] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - UnhandledException:'Name:MineSweepersVersus, Version:1.0 AppId:827A-68F6-0482-0D25-3728-48B8, AppVersion:'. Exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at MineSweepersPlugins.ScoreManager.AddPoints(IActor actor, Int32 points) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\Resources\Score.cs:line 53
+   at MineSweepersPlugins.MineSweepersVersus.OnOpen(IRaiseEventCallInfo info) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\MineSweepersVersus.cs:line 55
+   at MineSweepersPlugins.MineSweepersPlugin.OnRaiseEvent(IRaiseEventCallInfo info) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\MineSweepersPlugin.cs:line 128
+   at Photon.Hive.Plugin.PluginBase.Photon.Hive.Plugin.IGamePlugin.OnRaiseEvent(IRaiseEventCallInfo info)
+2020-11-28 17:38:50,258 [21] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 17:38:50,259 [21] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - UnhandledException:'Name:MineSweepersVersus, Version:1.0 AppId:827A-68F6-0482-0D25-3728-48B8, AppVersion:'. Exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at MineSweepersPlugins.ScoreManager.AddPoints(IActor actor, Int32 points) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\Resources\Score.cs:line 53
+   at MineSweepersPlugins.MineSweepersVersus.OnToggleFlag(IRaiseEventCallInfo info) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\MineSweepersVersus.cs:line 80
+   at MineSweepersPlugins.MineSweepersPlugin.OnRaiseEvent(IRaiseEventCallInfo info) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\MineSweepersPlugin.cs:line 132
+   at Photon.Hive.Plugin.PluginBase.Photon.Hive.Plugin.IGamePlugin.OnRaiseEvent(IRaiseEventCallInfo info)
+2020-11-28 17:43:24,915 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - OnStopRequested: serverid=232806c2-f1eb-4338-ba57-599aa77180b3
+2020-11-28 17:43:24,917 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=Game
+2020-11-28 17:43:24,928 [15] INFO  Photon.LoadBalancing.GameServer.OutgoingMasterServerPeer - connection to master closed (id=2, reason=ManagedDisconnect, detail=), serverId=232806c2-f1eb-4338-ba57-599aa77180b3
+2020-11-28 17:43:24,937 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - TearDown: serverId=232806c2-f1eb-4338-ba57-599aa77180b3
+2020-11-28 17:43:24,938 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=Game
+2020-11-28 17:43:27,704 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - Setup: serverId=3623f8b2-eeb2-459b-9623-87e7a1af32ed
+2020-11-28 17:43:27,731 [1] INFO  Photon.Hive.Plugin.PluginManager - Plugin configured: name=MineSweepersPlugins
+2020-11-28 17:43:27,751 [1] INFO  Photon.Hive.Plugin.PluginManager - Loaded Assembly Name=MineSweepersPlugins, Version=1.0.0.0, Culture=, PublicKey token=, Path=C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Plugins\MineSweepersPlugins\1.0.0\bin\MineSweepersPlugins.dll
+2020-11-28 17:43:27,751 [1] INFO  Photon.Hive.Plugin.PluginManager - Referenced Assembly Name=mscorlib, Version=4.0.0.0, Culture=, PublicKey token=B7-7A-5C-56-19-34-E0-89, Path=
+2020-11-28 17:43:27,752 [1] INFO  Photon.Hive.Plugin.PluginManager - Referenced Assembly Name=PhotonHivePlugin, Version=1.0.15.11060, Culture=, PublicKey token=, Path=
+2020-11-28 17:43:27,752 [1] INFO  Photon.Hive.Plugin.PluginManager - Referenced Assembly Name=ExitGamesLibs, Version=1.0.4.0, Culture=, PublicKey token=EA-C0-ED-D9-74-6A-4A-A0, Path=
+2020-11-28 17:43:27,752 [1] INFO  Photon.Hive.Plugin.PluginManager - Referenced Assembly Name=System.Core, Version=4.0.0.0, Culture=, PublicKey token=B7-7A-5C-56-19-34-E0-89, Path=
+2020-11-28 17:43:27,753 [1] INFO  Photon.Hive.Plugin.PluginManager - Plugin Type MineSweepersPlugins.MineSweepersFactory from assembly MineSweepersPlugins, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null was successfuly created
+2020-11-28 17:43:27,754 [1] INFO  Photon.Hive.Plugin.PluginManager - Plugin manager (version=1.0.15.11060) is setup. type=MineSweepersPlugins.MineSweepersFactory;path=C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Plugins\MineSweepersPlugins\1.0.0\bin\MineSweepersPlugins.dll;version=1.0.15.11060
+2020-11-28 17:43:27,759 [1] INFO  Photon.SocketServer.Diagnostics.HttpQueuePerformanceCounters - User has no Admin rights. HttpQueuePerformanceCounters initialization skipped
+2020-11-28 17:43:27,764 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - TokenCreator intialized with an expiration of 02:46:40
+2020-11-28 17:43:27,863 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter Business Logic Queue
+2020-11-28 17:43:27,864 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter ENet Queue
+2020-11-28 17:43:27,864 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter bytes in/sec
+2020-11-28 17:43:27,865 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter bytes out/sec
+2020-11-28 17:43:27,865 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter ENet Threads Processing
+2020-11-28 17:43:27,866 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter ENet Threads Active
+2020-11-28 17:43:27,866 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter Time Spent In Server: In (ms)
+2020-11-28 17:43:27,867 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter Time Spent In Server: Out (ms)
+2020-11-28 17:43:27,867 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter TCP: Disconnected Peers +/sec
+2020-11-28 17:43:27,867 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter TCP: Disconnected Peers (C) +/sec
+2020-11-28 17:43:27,868 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter TCP: Peers
+2020-11-28 17:43:27,868 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter UDP: Disconnected Peers +/sec
+2020-11-28 17:43:27,869 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter UDP: Disconnected Peers (C) +/sec
+2020-11-28 17:43:27,869 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter UDP: Peers
+2020-11-28 17:43:27,879 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.FeedbackControlSystem - Could not initialize Feedback Control System from configuration: Invalid configuration file C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Workload.config. Using default settings... (Could not find file 'C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Workload.config'.)
+2020-11-28 17:43:27,889 [1] INFO  Photon.Common.LoadBalancer.ServerStateManager - Watching for application state file in C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\ServerState.txt
+2020-11-28 17:43:27,892 [1] INFO  Photon.Common.LoadBalancer.ServerStateManager - Server state is set to online
+2020-11-28 17:43:27,894 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - Initializing master server connection ...
+2020-11-28 17:43:27,905 [1] INFO  Photon.LoadBalancing.GameServer.MasterServerConnectionBase - Connecting to master at 127.0.0.1:4520, serverId=3623f8b2-eeb2-459b-9623-87e7a1af32ed
+2020-11-28 17:43:27,930 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=Game; AppPath=C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancing\GameServer, Type=Photon.LoadBalancing.GameServer.GameApplication 
+2020-11-28 17:43:27,936 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher - CounterPublisher started publishing ExitGames.Diagnostics.Monitoring.CounterSamplePublisher to ExitGames.Diagnostics.Monitoring.CounterSampleSender
+2020-11-28 17:43:28,241 [12] INFO  Photon.LoadBalancing.GameServer.MasterServerConnectionBase - Master connection established: address:127.0.0.1
+2020-11-28 17:43:28,242 [12] INFO  Photon.Common.LoadBalancer.ServerStateManager - Server state is set to online
+2020-11-28 17:43:28,248 [12] INFO  Photon.LoadBalancing.GameServer.OutgoingMasterServerPeer - Registering game server with address 192.168.0.12, TCP 4531, UDP 5056, WebSocket 9091, Secure WebSocket 19091, HTTP 80, ServerID 3623f8b2-eeb2-459b-9623-87e7a1af32ed, Hostname localhost, IPv6Address 
+2020-11-28 17:43:28,310 [13] INFO  Photon.LoadBalancing.GameServer.OutgoingMasterServerPeer - Successfully registered at master server: serverId=3623f8b2-eeb2-459b-9623-87e7a1af32ed
+2020-11-28 17:44:05,686 [14] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - NameMineSweepersVersus
+2020-11-28 17:44:05,689 [14] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-11-28 17:44:05,690 [14] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-11-28 17:44:05,690 [14] INFO  Photon.Hive.Plugin.PluginManager - Plugin successfully created:Type:MineSweepersPlugins.MineSweepersFactory, path:C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Plugins\MineSweepersPlugins\1.0.0\bin\MineSweepersPlugins.dll
+2020-11-28 17:44:05,713 [14] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - OnCreateGame asd by user 884595f0-1cbc-4364-ae7d-b3f49573be1c
+2020-11-28 17:44:05,766 [14] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - GameCreated 11 by 12 with 13 mines. FirstSafe False, endOnExpload False, JoinAfterStart True
+2020-11-28 17:44:12,528 [19] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 5 , x: 6 , val: 0 , IsIsReveald: False 
+2020-11-28 17:44:13,622 [12] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 17:44:14,621 [11] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 17:44:24,406 [12] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - Sync player3
+2020-11-28 17:44:28,353 [8] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 17:44:28,358 [8] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - UnhandledException:'Name:MineSweepersVersus, Version:1.0 AppId:827A-68F6-0482-0D25-3728-48B8, AppVersion:'. Exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at MineSweepersPlugins.ScoreManager.AddPoints(IActor actor, Int32 points) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\Resources\Score.cs:line 53
+   at MineSweepersPlugins.MineSweepersVersus.OnToggleFlag(IRaiseEventCallInfo info) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\MineSweepersVersus.cs:line 85
+   at MineSweepersPlugins.MineSweepersPlugin.OnRaiseEvent(IRaiseEventCallInfo info) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\MineSweepersPlugin.cs:line 132
+   at Photon.Hive.Plugin.PluginBase.Photon.Hive.Plugin.IGamePlugin.OnRaiseEvent(IRaiseEventCallInfo info)
+2020-11-28 17:44:47,813 [17] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 17:44:47,814 [17] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - UnhandledException:'Name:MineSweepersVersus, Version:1.0 AppId:827A-68F6-0482-0D25-3728-48B8, AppVersion:'. Exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at MineSweepersPlugins.ScoreManager.AddPoints(IActor actor, Int32 points) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\Resources\Score.cs:line 53
+   at MineSweepersPlugins.MineSweepersVersus.OnToggleFlag(IRaiseEventCallInfo info) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\MineSweepersVersus.cs:line 85
+   at MineSweepersPlugins.MineSweepersPlugin.OnRaiseEvent(IRaiseEventCallInfo info) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\MineSweepersPlugin.cs:line 132
+   at Photon.Hive.Plugin.PluginBase.Photon.Hive.Plugin.IGamePlugin.OnRaiseEvent(IRaiseEventCallInfo info)
+2020-11-28 17:44:50,695 [12] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 3 , x: 9 , val: 1 , IsIsReveald: True 
+2020-11-28 17:44:50,697 [12] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - UnhandledException:'Name:MineSweepersVersus, Version:1.0 AppId:827A-68F6-0482-0D25-3728-48B8, AppVersion:'. Exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at MineSweepersPlugins.ScoreManager.AddPoints(IActor actor, Int32 points) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\Resources\Score.cs:line 53
+   at MineSweepersPlugins.MineSweepersVersus.OnOpen(IRaiseEventCallInfo info) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\MineSweepersVersus.cs:line 55
+   at MineSweepersPlugins.MineSweepersPlugin.OnRaiseEvent(IRaiseEventCallInfo info) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\MineSweepersPlugin.cs:line 128
+   at Photon.Hive.Plugin.PluginBase.Photon.Hive.Plugin.IGamePlugin.OnRaiseEvent(IRaiseEventCallInfo info)
+2020-11-28 17:44:51,473 [16] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 4 , x: 9 , val: 1 , IsIsReveald: True 
+2020-11-28 17:44:51,474 [16] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - UnhandledException:'Name:MineSweepersVersus, Version:1.0 AppId:827A-68F6-0482-0D25-3728-48B8, AppVersion:'. Exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at MineSweepersPlugins.ScoreManager.AddPoints(IActor actor, Int32 points) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\Resources\Score.cs:line 53
+   at MineSweepersPlugins.MineSweepersVersus.OnOpen(IRaiseEventCallInfo info) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\MineSweepersVersus.cs:line 55
+   at MineSweepersPlugins.MineSweepersPlugin.OnRaiseEvent(IRaiseEventCallInfo info) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\MineSweepersPlugin.cs:line 128
+   at Photon.Hive.Plugin.PluginBase.Photon.Hive.Plugin.IGamePlugin.OnRaiseEvent(IRaiseEventCallInfo info)
+2020-11-28 17:44:52,518 [12] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 17:44:52,520 [12] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - UnhandledException:'Name:MineSweepersVersus, Version:1.0 AppId:827A-68F6-0482-0D25-3728-48B8, AppVersion:'. Exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at MineSweepersPlugins.ScoreManager.AddPoints(IActor actor, Int32 points) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\Resources\Score.cs:line 53
+   at MineSweepersPlugins.MineSweepersVersus.OnToggleFlag(IRaiseEventCallInfo info) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\MineSweepersVersus.cs:line 85
+   at MineSweepersPlugins.MineSweepersPlugin.OnRaiseEvent(IRaiseEventCallInfo info) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\MineSweepersPlugin.cs:line 132
+   at Photon.Hive.Plugin.PluginBase.Photon.Hive.Plugin.IGamePlugin.OnRaiseEvent(IRaiseEventCallInfo info)
+2020-11-28 17:44:53,179 [11] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 5 , x: 9 , val: 2 , IsIsReveald: True 
+2020-11-28 17:44:53,182 [11] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - UnhandledException:'Name:MineSweepersVersus, Version:1.0 AppId:827A-68F6-0482-0D25-3728-48B8, AppVersion:'. Exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at MineSweepersPlugins.ScoreManager.AddPoints(IActor actor, Int32 points) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\Resources\Score.cs:line 53
+   at MineSweepersPlugins.MineSweepersVersus.OnOpen(IRaiseEventCallInfo info) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\MineSweepersVersus.cs:line 55
+   at MineSweepersPlugins.MineSweepersPlugin.OnRaiseEvent(IRaiseEventCallInfo info) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\MineSweepersPlugin.cs:line 128
+   at Photon.Hive.Plugin.PluginBase.Photon.Hive.Plugin.IGamePlugin.OnRaiseEvent(IRaiseEventCallInfo info)
+2020-11-28 17:44:58,385 [17] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 17:44:59,416 [27] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 4 , x: 10 , val: 1 , IsIsReveald: True 
+2020-11-28 17:45:00,117 [27] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 17:45:00,767 [23] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 2 , x: 10 , val: 1 , IsIsReveald: True 
+2020-11-28 17:45:04,568 [27] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 17:45:05,466 [12] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 1 , x: 10 , val: 2 , IsIsReveald: True 
+2020-11-28 17:45:07,700 [19] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 8 , x: 6 , val: 1 , IsIsReveald: True 
+2020-11-28 17:45:08,600 [23] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 17:45:09,367 [14] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 17:45:09,800 [23] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 7 , x: 4 , val: 0 , IsIsReveald: True 
+2020-11-28 17:45:10,199 [12] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 8 , x: 4 , val: 1 , IsIsReveald: True 
+2020-11-28 17:45:10,867 [19] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 17:45:11,599 [24] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 8 , x: 2 , val: 1 , IsIsReveald: True 
+2020-11-28 17:45:12,266 [17] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 9 , x: 1 , val: 2 , IsIsReveald: True 
+2020-11-28 17:45:13,156 [27] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 10 , x: 2 , val: 1 , IsIsReveald: True 
+2020-11-28 17:45:13,866 [27] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 10 , x: 3 , val: 2 , IsIsReveald: True 
+2020-11-28 17:45:14,666 [24] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 10 , x: 4 , val: 1 , IsIsReveald: True 
+2020-11-28 17:45:15,866 [23] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 17:45:17,098 [12] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 1 , x: 4 , val: 1 , IsIsReveald: True 
+2020-11-28 17:55:45,664 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - OnStopRequested: serverid=3623f8b2-eeb2-459b-9623-87e7a1af32ed
+2020-11-28 17:55:45,665 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=Game
+2020-11-28 17:55:45,672 [30] INFO  Photon.LoadBalancing.GameServer.OutgoingMasterServerPeer - connection to master closed (id=2, reason=ManagedDisconnect, detail=), serverId=3623f8b2-eeb2-459b-9623-87e7a1af32ed
+2020-11-28 17:55:45,688 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - TearDown: serverId=3623f8b2-eeb2-459b-9623-87e7a1af32ed
+2020-11-28 17:55:45,691 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=Game
+2020-11-28 17:55:48,363 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - Setup: serverId=9b1672d1-f3af-4a04-8f8b-99c6d0729bf3
+2020-11-28 17:55:48,397 [1] INFO  Photon.Hive.Plugin.PluginManager - Plugin configured: name=MineSweepersPlugins
+2020-11-28 17:55:48,424 [1] INFO  Photon.Hive.Plugin.PluginManager - Loaded Assembly Name=MineSweepersPlugins, Version=1.0.0.0, Culture=, PublicKey token=, Path=C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Plugins\MineSweepersPlugins\1.0.0\bin\MineSweepersPlugins.dll
+2020-11-28 17:55:48,425 [1] INFO  Photon.Hive.Plugin.PluginManager - Referenced Assembly Name=mscorlib, Version=4.0.0.0, Culture=, PublicKey token=B7-7A-5C-56-19-34-E0-89, Path=
+2020-11-28 17:55:48,426 [1] INFO  Photon.Hive.Plugin.PluginManager - Referenced Assembly Name=PhotonHivePlugin, Version=1.0.15.11060, Culture=, PublicKey token=, Path=
+2020-11-28 17:55:48,426 [1] INFO  Photon.Hive.Plugin.PluginManager - Referenced Assembly Name=ExitGamesLibs, Version=1.0.4.0, Culture=, PublicKey token=EA-C0-ED-D9-74-6A-4A-A0, Path=
+2020-11-28 17:55:48,427 [1] INFO  Photon.Hive.Plugin.PluginManager - Referenced Assembly Name=System.Core, Version=4.0.0.0, Culture=, PublicKey token=B7-7A-5C-56-19-34-E0-89, Path=
+2020-11-28 17:55:48,428 [1] INFO  Photon.Hive.Plugin.PluginManager - Plugin Type MineSweepersPlugins.MineSweepersFactory from assembly MineSweepersPlugins, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null was successfuly created
+2020-11-28 17:55:48,428 [1] INFO  Photon.Hive.Plugin.PluginManager - Plugin manager (version=1.0.15.11060) is setup. type=MineSweepersPlugins.MineSweepersFactory;path=C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Plugins\MineSweepersPlugins\1.0.0\bin\MineSweepersPlugins.dll;version=1.0.15.11060
+2020-11-28 17:55:48,433 [1] INFO  Photon.SocketServer.Diagnostics.HttpQueuePerformanceCounters - User has no Admin rights. HttpQueuePerformanceCounters initialization skipped
+2020-11-28 17:55:48,441 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - TokenCreator intialized with an expiration of 02:46:40
+2020-11-28 17:55:48,549 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter Business Logic Queue
+2020-11-28 17:55:48,550 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter ENet Queue
+2020-11-28 17:55:48,550 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter bytes in/sec
+2020-11-28 17:55:48,551 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter bytes out/sec
+2020-11-28 17:55:48,551 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter ENet Threads Processing
+2020-11-28 17:55:48,552 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter ENet Threads Active
+2020-11-28 17:55:48,552 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter Time Spent In Server: In (ms)
+2020-11-28 17:55:48,552 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter Time Spent In Server: Out (ms)
+2020-11-28 17:55:48,553 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter TCP: Disconnected Peers +/sec
+2020-11-28 17:55:48,553 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter TCP: Disconnected Peers (C) +/sec
+2020-11-28 17:55:48,553 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter TCP: Peers
+2020-11-28 17:55:48,554 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter UDP: Disconnected Peers +/sec
+2020-11-28 17:55:48,554 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter UDP: Disconnected Peers (C) +/sec
+2020-11-28 17:55:48,555 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter UDP: Peers
+2020-11-28 17:55:48,566 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.FeedbackControlSystem - Could not initialize Feedback Control System from configuration: Invalid configuration file C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Workload.config. Using default settings... (Could not find file 'C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Workload.config'.)
+2020-11-28 17:55:48,578 [1] INFO  Photon.Common.LoadBalancer.ServerStateManager - Watching for application state file in C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\ServerState.txt
+2020-11-28 17:55:48,581 [1] INFO  Photon.Common.LoadBalancer.ServerStateManager - Server state is set to online
+2020-11-28 17:55:48,582 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - Initializing master server connection ...
+2020-11-28 17:55:48,593 [1] INFO  Photon.LoadBalancing.GameServer.MasterServerConnectionBase - Connecting to master at 127.0.0.1:4520, serverId=9b1672d1-f3af-4a04-8f8b-99c6d0729bf3
+2020-11-28 17:55:48,616 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=Game; AppPath=C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancing\GameServer, Type=Photon.LoadBalancing.GameServer.GameApplication 
+2020-11-28 17:55:48,623 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher - CounterPublisher started publishing ExitGames.Diagnostics.Monitoring.CounterSamplePublisher to ExitGames.Diagnostics.Monitoring.CounterSampleSender
+2020-11-28 17:55:48,945 [10] INFO  Photon.LoadBalancing.GameServer.MasterServerConnectionBase - Master connection established: address:127.0.0.1
+2020-11-28 17:55:48,946 [10] INFO  Photon.Common.LoadBalancer.ServerStateManager - Server state is set to online
+2020-11-28 17:55:48,952 [10] INFO  Photon.LoadBalancing.GameServer.OutgoingMasterServerPeer - Registering game server with address 192.168.0.12, TCP 4531, UDP 5056, WebSocket 9091, Secure WebSocket 19091, HTTP 80, ServerID 9b1672d1-f3af-4a04-8f8b-99c6d0729bf3, Hostname localhost, IPv6Address 
+2020-11-28 17:55:49,037 [10] INFO  Photon.LoadBalancing.GameServer.OutgoingMasterServerPeer - Successfully registered at master server: serverId=9b1672d1-f3af-4a04-8f8b-99c6d0729bf3
+2020-11-28 17:58:44,410 [17] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - NameMineSweepersVersus
+2020-11-28 17:58:44,412 [17] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-11-28 17:58:44,412 [17] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-11-28 17:58:44,413 [17] INFO  Photon.Hive.Plugin.PluginManager - Plugin successfully created:Type:MineSweepersPlugins.MineSweepersFactory, path:C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Plugins\MineSweepersPlugins\1.0.0\bin\MineSweepersPlugins.dll
+2020-11-28 17:58:44,431 [21] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - OnCreateGame dsd by user 884595f0-1cbc-4364-ae7d-b3f49573be1c
+2020-11-28 17:58:44,482 [21] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - GameCreated 19 by 22 with 41 mines. FirstSafe False, endOnExpload False, JoinAfterStart True
+2020-11-28 17:58:49,545 [17] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 8 , x: 10 , val: 0 , IsIsReveald: False 
+2020-11-28 17:58:50,540 [21] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 17:58:51,339 [18] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 7 , x: 10 , val: 1 , IsIsReveald: True 
+2020-11-28 17:58:54,886 [12] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - Sync player3
+2020-11-28 17:59:00,463 [18] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 17:59:11,436 [16] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 17:59:12,470 [15] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 17:59:13,573 [12] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 4 , x: 10 , val: 1 , IsIsReveald: True 
+2020-11-28 18:09:34,053 [22] INFO  Photon.Common.LoadBalancer.LoadShedding.FeedbackController - Transit CpuUsage from Lowest to Low with input 35
+2020-11-28 18:09:34,055 [22] INFO  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - FeedbackLevel changed: old=Lowest, new=Low
+2020-11-28 18:11:27,918 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - OnStopRequested: serverid=9b1672d1-f3af-4a04-8f8b-99c6d0729bf3
+2020-11-28 18:11:27,921 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=Game
+2020-11-28 18:11:27,932 [17] INFO  Photon.LoadBalancing.GameServer.OutgoingMasterServerPeer - connection to master closed (id=2, reason=ManagedDisconnect, detail=), serverId=9b1672d1-f3af-4a04-8f8b-99c6d0729bf3
+2020-11-28 18:11:27,942 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - TearDown: serverId=9b1672d1-f3af-4a04-8f8b-99c6d0729bf3
+2020-11-28 18:11:27,944 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=Game
+2020-11-28 18:11:30,987 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - Setup: serverId=93e64318-3882-49e2-9697-9b803d496eb4
+2020-11-28 18:11:31,023 [1] INFO  Photon.Hive.Plugin.PluginManager - Plugin configured: name=MineSweepersPlugins
+2020-11-28 18:11:31,044 [1] INFO  Photon.Hive.Plugin.PluginManager - Loaded Assembly Name=MineSweepersPlugins, Version=1.0.0.0, Culture=, PublicKey token=, Path=C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Plugins\MineSweepersPlugins\1.0.0\bin\MineSweepersPlugins.dll
+2020-11-28 18:11:31,047 [1] INFO  Photon.Hive.Plugin.PluginManager - Referenced Assembly Name=mscorlib, Version=4.0.0.0, Culture=, PublicKey token=B7-7A-5C-56-19-34-E0-89, Path=
+2020-11-28 18:11:31,048 [1] INFO  Photon.Hive.Plugin.PluginManager - Referenced Assembly Name=PhotonHivePlugin, Version=1.0.15.11060, Culture=, PublicKey token=, Path=
+2020-11-28 18:11:31,048 [1] INFO  Photon.Hive.Plugin.PluginManager - Referenced Assembly Name=ExitGamesLibs, Version=1.0.4.0, Culture=, PublicKey token=EA-C0-ED-D9-74-6A-4A-A0, Path=
+2020-11-28 18:11:31,048 [1] INFO  Photon.Hive.Plugin.PluginManager - Referenced Assembly Name=System.Core, Version=4.0.0.0, Culture=, PublicKey token=B7-7A-5C-56-19-34-E0-89, Path=
+2020-11-28 18:11:31,049 [1] INFO  Photon.Hive.Plugin.PluginManager - Plugin Type MineSweepersPlugins.MineSweepersFactory from assembly MineSweepersPlugins, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null was successfuly created
+2020-11-28 18:11:31,050 [1] INFO  Photon.Hive.Plugin.PluginManager - Plugin manager (version=1.0.15.11060) is setup. type=MineSweepersPlugins.MineSweepersFactory;path=C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Plugins\MineSweepersPlugins\1.0.0\bin\MineSweepersPlugins.dll;version=1.0.15.11060
+2020-11-28 18:11:31,055 [1] INFO  Photon.SocketServer.Diagnostics.HttpQueuePerformanceCounters - User has no Admin rights. HttpQueuePerformanceCounters initialization skipped
+2020-11-28 18:11:31,065 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - TokenCreator intialized with an expiration of 02:46:40
+2020-11-28 18:11:31,170 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter Business Logic Queue
+2020-11-28 18:11:31,170 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter ENet Queue
+2020-11-28 18:11:31,171 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter bytes in/sec
+2020-11-28 18:11:31,171 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter bytes out/sec
+2020-11-28 18:11:31,172 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter ENet Threads Processing
+2020-11-28 18:11:31,172 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter ENet Threads Active
+2020-11-28 18:11:31,172 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter Time Spent In Server: In (ms)
+2020-11-28 18:11:31,175 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter Time Spent In Server: Out (ms)
+2020-11-28 18:11:31,176 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter TCP: Disconnected Peers +/sec
+2020-11-28 18:11:31,177 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter TCP: Disconnected Peers (C) +/sec
+2020-11-28 18:11:31,177 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter TCP: Peers
+2020-11-28 18:11:31,177 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter UDP: Disconnected Peers +/sec
+2020-11-28 18:11:31,178 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter UDP: Disconnected Peers (C) +/sec
+2020-11-28 18:11:31,179 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter UDP: Peers
+2020-11-28 18:11:31,189 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.FeedbackControlSystem - Could not initialize Feedback Control System from configuration: Invalid configuration file C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Workload.config. Using default settings... (Could not find file 'C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Workload.config'.)
+2020-11-28 18:11:31,201 [1] INFO  Photon.Common.LoadBalancer.ServerStateManager - Watching for application state file in C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\ServerState.txt
+2020-11-28 18:11:31,203 [1] INFO  Photon.Common.LoadBalancer.ServerStateManager - Server state is set to online
+2020-11-28 18:11:31,204 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - Initializing master server connection ...
+2020-11-28 18:11:31,215 [1] INFO  Photon.LoadBalancing.GameServer.MasterServerConnectionBase - Connecting to master at 127.0.0.1:4520, serverId=93e64318-3882-49e2-9697-9b803d496eb4
+2020-11-28 18:11:31,240 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=Game; AppPath=C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancing\GameServer, Type=Photon.LoadBalancing.GameServer.GameApplication 
+2020-11-28 18:11:31,246 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher - CounterPublisher started publishing ExitGames.Diagnostics.Monitoring.CounterSamplePublisher to ExitGames.Diagnostics.Monitoring.CounterSampleSender
+2020-11-28 18:11:31,605 [16] INFO  Photon.LoadBalancing.GameServer.MasterServerConnectionBase - Master connection established: address:127.0.0.1
+2020-11-28 18:11:31,606 [16] INFO  Photon.Common.LoadBalancer.ServerStateManager - Server state is set to online
+2020-11-28 18:11:31,617 [16] INFO  Photon.LoadBalancing.GameServer.OutgoingMasterServerPeer - Registering game server with address 192.168.0.12, TCP 4531, UDP 5056, WebSocket 9091, Secure WebSocket 19091, HTTP 80, ServerID 93e64318-3882-49e2-9697-9b803d496eb4, Hostname localhost, IPv6Address 
+2020-11-28 18:11:31,687 [12] INFO  Photon.LoadBalancing.GameServer.OutgoingMasterServerPeer - Successfully registered at master server: serverId=93e64318-3882-49e2-9697-9b803d496eb4
+2020-11-28 18:11:35,349 [13] INFO  Photon.Common.LoadBalancer.LoadShedding.FeedbackController - Transit CpuUsage from Lowest to Low with input 41
+2020-11-28 18:11:35,349 [13] INFO  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - FeedbackLevel changed: old=Lowest, new=Low
+2020-11-28 18:14:19,780 [11] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - NameMineSweepersVersus
+2020-11-28 18:14:19,787 [11] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-11-28 18:14:19,787 [11] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-11-28 18:14:19,788 [11] INFO  Photon.Hive.Plugin.PluginManager - Plugin successfully created:Type:MineSweepersPlugins.MineSweepersFactory, path:C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Plugins\MineSweepersPlugins\1.0.0\bin\MineSweepersPlugins.dll
+2020-11-28 18:14:19,807 [11] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - OnCreateGame dsds by user 884595f0-1cbc-4364-ae7d-b3f49573be1c
+2020-11-28 18:14:19,864 [11] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - GameCreated 10 by 10 with 10 mines. FirstSafe False, endOnExpload False, JoinAfterStart True
+2020-11-28 18:14:26,123 [13] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 4 , x: 4 , val: 3 , IsIsReveald: False 
+2020-11-28 18:14:27,455 [22] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 3 , x: 6 , val: 0 , IsIsReveald: False 
+2020-11-28 18:14:28,435 [25] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 18:14:36,509 [22] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - Sync player3
+2020-11-28 18:14:38,134 [21] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 18:15:56,334 [23] INFO  Photon.Common.LoadBalancer.LoadShedding.FeedbackController - Transit CpuUsage from Low to Lowest with input 20
+2020-11-28 18:15:56,352 [23] INFO  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - FeedbackLevel changed: old=Low, new=Lowest
+2020-11-28 18:22:08,584 [8] INFO  Photon.Common.LoadBalancer.LoadShedding.FeedbackController - Transit CpuUsage from Lowest to Low with input 35
+2020-11-28 18:22:08,584 [8] INFO  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - FeedbackLevel changed: old=Lowest, new=Low
+2020-11-28 18:28:21,038 [19] INFO  Photon.Common.LoadBalancer.LoadShedding.FeedbackController - Transit CpuUsage from Low to Lowest with input 20
+2020-11-28 18:28:21,040 [19] INFO  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - FeedbackLevel changed: old=Low, new=Lowest
+2020-11-28 18:34:56,037 [21] INFO  Photon.Common.LoadBalancer.LoadShedding.FeedbackController - Transit CpuUsage from Lowest to Low with input 35
+2020-11-28 18:34:56,037 [21] INFO  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - FeedbackLevel changed: old=Lowest, new=Low
+2020-11-28 18:35:15,209 [21] INFO  Photon.Common.LoadBalancer.LoadShedding.FeedbackController - Transit CpuUsage from Low to Normal with input 50
+2020-11-28 18:35:15,210 [21] INFO  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - FeedbackLevel changed: old=Low, new=Normal
+2020-11-28 18:35:51,475 [22] INFO  Photon.Common.LoadBalancer.LoadShedding.FeedbackController - Transit CpuUsage from Normal to High with input 70
+2020-11-28 18:35:51,475 [22] INFO  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - FeedbackLevel changed: old=Normal, new=High
+2020-11-28 18:37:00,024 [19] INFO  Photon.Common.LoadBalancer.LoadShedding.FeedbackController - Transit CpuUsage from High to Normal with input 50
+2020-11-28 18:37:00,025 [19] INFO  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - FeedbackLevel changed: old=High, new=Normal
+2020-11-28 18:37:29,224 [25] INFO  Photon.Common.LoadBalancer.LoadShedding.FeedbackController - Transit CpuUsage from Normal to Low with input 35
+2020-11-28 18:37:29,224 [25] INFO  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - FeedbackLevel changed: old=Normal, new=Low
+2020-11-28 18:39:54,287 [8] INFO  Photon.Common.LoadBalancer.LoadShedding.FeedbackController - Transit CpuUsage from Low to Lowest with input 20
+2020-11-28 18:39:54,288 [8] INFO  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - FeedbackLevel changed: old=Low, new=Lowest
+2020-11-28 18:48:05,880 [8] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - NameMineSweepersVersus
+2020-11-28 18:48:05,881 [8] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-11-28 18:48:05,882 [8] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-11-28 18:48:05,883 [8] INFO  Photon.Hive.Plugin.PluginManager - Plugin successfully created:Type:MineSweepersPlugins.MineSweepersFactory, path:C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Plugins\MineSweepersPlugins\1.0.0\bin\MineSweepersPlugins.dll
+2020-11-28 18:48:05,884 [8] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - OnCreateGame dsds by user c673ae3a-5ec4-48a9-a6dd-b2207d8876e5
+2020-11-28 18:48:05,885 [8] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - GameCreated 12 by 11 with 13 mines. FirstSafe False, endOnExpload False, JoinAfterStart True
+2020-11-28 18:48:10,478 [23] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 5 , x: 3 , val: 0 , IsIsReveald: False 
+2020-11-28 18:48:11,579 [12] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 18:48:27,665 [8] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - Sync player3
+2020-11-28 18:50:37,135 [23] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - NameMineSweepersVersus
+2020-11-28 18:50:37,136 [23] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-11-28 18:50:37,136 [23] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-11-28 18:50:37,137 [23] INFO  Photon.Hive.Plugin.PluginManager - Plugin successfully created:Type:MineSweepersPlugins.MineSweepersFactory, path:C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Plugins\MineSweepersPlugins\1.0.0\bin\MineSweepersPlugins.dll
+2020-11-28 18:50:37,140 [23] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - OnCreateGame ds by user 769b2e4e-1070-4a07-b9c9-8ab980b80258
+2020-11-28 18:50:37,142 [23] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - GameCreated 11 by 9 with 9 mines. FirstSafe False, endOnExpload False, JoinAfterStart True
+2020-11-28 18:50:39,988 [21] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 3 , x: 2 , val: 0 , IsIsReveald: False 
+2020-11-28 18:50:48,224 [10] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - Sync player3
+2020-11-28 18:50:51,623 [21] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 18:50:52,750 [8] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 2 , x: 1 , val: 1 , IsIsReveald: True 
+2020-11-28 18:50:53,611 [12] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 18:50:54,209 [12] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 1 , x: 0 , val: 1 , IsIsReveald: True 
+2020-11-28 18:50:54,903 [25] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 18:52:20,611 [13] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - NameMineSweepersVersus
+2020-11-28 18:52:20,612 [13] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-11-28 18:52:20,612 [13] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-11-28 18:52:20,613 [13] INFO  Photon.Hive.Plugin.PluginManager - Plugin successfully created:Type:MineSweepersPlugins.MineSweepersFactory, path:C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Plugins\MineSweepersPlugins\1.0.0\bin\MineSweepersPlugins.dll
+2020-11-28 18:52:20,614 [13] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - OnCreateGame dsds by user f025b72c-e33e-4d5b-9233-102f1ca4ce0c
+2020-11-28 18:52:20,616 [13] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - GameCreated 8 by 11 with 8 mines. FirstSafe False, endOnExpload False, JoinAfterStart True
+2020-11-28 18:52:24,425 [16] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 3 , x: 5 , val: 0 , IsIsReveald: False 
+2020-11-28 18:52:25,593 [8] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 18:52:26,693 [16] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 18:52:27,293 [25] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 18:52:28,196 [22] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 4 , x: 5 , val: 1 , IsIsReveald: True 
+2020-11-28 18:52:35,424 [21] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - Sync player3
+2020-11-28 18:52:41,146 [10] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 6 , x: 6 , val: 1 , IsIsReveald: True 
+2020-11-28 18:52:42,392 [11] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 5 , x: 6 , val: 1 , IsIsReveald: True 
+2020-11-28 18:52:43,257 [25] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 18:52:43,790 [8] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 5 , x: 7 , val: 1 , IsIsReveald: True 
+2020-11-28 18:52:47,031 [13] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 18:52:47,626 [12] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 2 , x: 6 , val: 1 , IsIsReveald: True 
+2020-11-28 18:52:59,588 [10] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - Sync player4
+2020-11-28 18:53:02,978 [13] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 18:53:03,824 [13] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 2 , x: 2 , val: 1 , IsIsReveald: True 
+2020-11-28 18:53:14,571 [12] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - Sync player5
+2020-11-28 18:53:20,738 [13] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 18:53:21,455 [17] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 1 , x: 5 , val: 1 , IsIsReveald: True 
+2020-11-28 18:53:22,188 [17] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 18:53:29,155 [11] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 18:53:31,053 [17] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 6 , x: 10 , val: 1 , IsIsReveald: True 
+2020-11-28 18:53:33,987 [16] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 4 , x: 0 , val: 1 , IsIsReveald: True 
+2020-11-28 19:13:38,568 [10] INFO  Photon.Common.LoadBalancer.LoadShedding.FeedbackController - Transit CpuUsage from Lowest to Low with input 35
+2020-11-28 19:13:38,569 [10] INFO  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - FeedbackLevel changed: old=Lowest, new=Low
+2020-11-28 19:22:06,647 [23] INFO  Photon.Common.LoadBalancer.LoadShedding.FeedbackController - Transit CpuUsage from Low to Normal with input 50
+2020-11-28 19:22:06,647 [23] INFO  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - FeedbackLevel changed: old=Low, new=Normal
+2020-11-28 19:28:03,459 [10] INFO  Photon.Common.LoadBalancer.LoadShedding.FeedbackController - Transit CpuUsage from Normal to Low with input 35
+2020-11-28 19:28:03,459 [10] INFO  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - FeedbackLevel changed: old=Normal, new=Low
+2020-11-28 19:44:32,688 [22] INFO  Photon.Common.LoadBalancer.LoadShedding.FeedbackController - Transit CpuUsage from Low to Lowest with input 20
+2020-11-28 19:44:32,689 [22] INFO  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - FeedbackLevel changed: old=Low, new=Lowest
+2020-11-28 20:45:16,647 [28] INFO  Photon.Common.LoadBalancer.LoadShedding.FeedbackController - Transit CpuUsage from Lowest to Low with input 35
+2020-11-28 20:45:16,649 [28] INFO  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - FeedbackLevel changed: old=Lowest, new=Low
+2020-11-28 20:56:28,782 [27] INFO  Photon.Common.LoadBalancer.LoadShedding.FeedbackController - Transit CpuUsage from Low to Lowest with input 20
+2020-11-28 20:56:28,783 [27] INFO  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - FeedbackLevel changed: old=Low, new=Lowest
+2020-11-28 21:03:20,410 [17] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - NameMineSweepersVersus
+2020-11-28 21:03:20,412 [17] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-11-28 21:03:20,413 [17] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-11-28 21:03:20,414 [17] INFO  Photon.Hive.Plugin.PluginManager - Plugin successfully created:Type:MineSweepersPlugins.MineSweepersFactory, path:C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Plugins\MineSweepersPlugins\1.0.0\bin\MineSweepersPlugins.dll
+2020-11-28 21:03:20,416 [17] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - OnCreateGame fdfd by user f025b72c-e33e-4d5b-9233-102f1ca4ce0c
+2020-11-28 21:03:20,417 [17] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - GameCreated 9 by 10 with 9 mines. FirstSafe False, endOnExpload False, JoinAfterStart True
+2020-11-28 21:03:27,942 [17] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 4 , x: 4 , val: 0 , IsIsReveald: False 
+2020-11-28 21:03:29,343 [16] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 21:03:30,877 [16] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 21:08:04,602 [29] INFO  Photon.Common.LoadBalancer.LoadShedding.FeedbackController - Transit CpuUsage from Lowest to Low with input 35
+2020-11-28 21:08:04,602 [29] INFO  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - FeedbackLevel changed: old=Lowest, new=Low
+2020-11-28 21:10:04,596 [9] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - Sync player3
+2020-11-28 21:10:14,767 [9] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - Sync player4
+2020-11-28 21:10:16,261 [19] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 21:10:17,260 [11] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 3 , x: 6 , val: 1 , IsIsReveald: True 
+2020-11-28 21:10:22,084 [24] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - Sync player5
+2020-11-28 21:11:40,851 [25] INFO  Photon.Common.LoadBalancer.LoadShedding.FeedbackController - Transit CpuUsage from Low to Lowest with input 20
+2020-11-28 21:11:40,852 [25] INFO  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - FeedbackLevel changed: old=Low, new=Lowest
+2020-11-28 21:23:19,880 [11] INFO  Photon.Common.LoadBalancer.LoadShedding.FeedbackController - Transit CpuUsage from Lowest to Low with input 35
+2020-11-28 21:23:19,881 [11] INFO  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - FeedbackLevel changed: old=Lowest, new=Low
+2020-11-28 21:27:17,902 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - OnStopRequested: serverid=93e64318-3882-49e2-9697-9b803d496eb4
+2020-11-28 21:27:17,904 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=Game
+2020-11-28 21:27:17,912 [11] INFO  Photon.LoadBalancing.GameServer.OutgoingMasterServerPeer - connection to master closed (id=2, reason=ManagedDisconnect, detail=), serverId=93e64318-3882-49e2-9697-9b803d496eb4
+2020-11-28 21:27:17,922 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - TearDown: serverId=93e64318-3882-49e2-9697-9b803d496eb4
+2020-11-28 21:27:17,924 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=Game
+2020-11-28 21:27:21,442 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - Setup: serverId=4aa0c2d8-08d9-455a-8d15-9268a5f3faa4
+2020-11-28 21:27:21,468 [1] INFO  Photon.Hive.Plugin.PluginManager - Plugin configured: name=MineSweepersPlugins
+2020-11-28 21:27:21,488 [1] INFO  Photon.Hive.Plugin.PluginManager - Loaded Assembly Name=MineSweepersPlugins, Version=1.0.0.0, Culture=, PublicKey token=, Path=C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Plugins\MineSweepersPlugins\1.0.0\bin\MineSweepersPlugins.dll
+2020-11-28 21:27:21,488 [1] INFO  Photon.Hive.Plugin.PluginManager - Referenced Assembly Name=mscorlib, Version=4.0.0.0, Culture=, PublicKey token=B7-7A-5C-56-19-34-E0-89, Path=
+2020-11-28 21:27:21,489 [1] INFO  Photon.Hive.Plugin.PluginManager - Referenced Assembly Name=PhotonHivePlugin, Version=1.0.15.11060, Culture=, PublicKey token=, Path=
+2020-11-28 21:27:21,489 [1] INFO  Photon.Hive.Plugin.PluginManager - Referenced Assembly Name=ExitGamesLibs, Version=1.0.4.0, Culture=, PublicKey token=EA-C0-ED-D9-74-6A-4A-A0, Path=
+2020-11-28 21:27:21,490 [1] INFO  Photon.Hive.Plugin.PluginManager - Referenced Assembly Name=System.Core, Version=4.0.0.0, Culture=, PublicKey token=B7-7A-5C-56-19-34-E0-89, Path=
+2020-11-28 21:27:21,491 [1] INFO  Photon.Hive.Plugin.PluginManager - Plugin Type MineSweepersPlugins.MineSweepersFactory from assembly MineSweepersPlugins, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null was successfuly created
+2020-11-28 21:27:21,491 [1] INFO  Photon.Hive.Plugin.PluginManager - Plugin manager (version=1.0.15.11060) is setup. type=MineSweepersPlugins.MineSweepersFactory;path=C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Plugins\MineSweepersPlugins\1.0.0\bin\MineSweepersPlugins.dll;version=1.0.15.11060
+2020-11-28 21:27:21,497 [1] INFO  Photon.SocketServer.Diagnostics.HttpQueuePerformanceCounters - User has no Admin rights. HttpQueuePerformanceCounters initialization skipped
+2020-11-28 21:27:21,502 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - TokenCreator intialized with an expiration of 02:46:40
+2020-11-28 21:27:21,615 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter Business Logic Queue
+2020-11-28 21:27:21,616 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter ENet Queue
+2020-11-28 21:27:21,616 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter bytes in/sec
+2020-11-28 21:27:21,617 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter bytes out/sec
+2020-11-28 21:27:21,617 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter ENet Threads Processing
+2020-11-28 21:27:21,618 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter ENet Threads Active
+2020-11-28 21:27:21,618 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter Time Spent In Server: In (ms)
+2020-11-28 21:27:21,619 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter Time Spent In Server: Out (ms)
+2020-11-28 21:27:21,619 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter TCP: Disconnected Peers +/sec
+2020-11-28 21:27:21,620 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter TCP: Disconnected Peers (C) +/sec
+2020-11-28 21:27:21,620 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter TCP: Peers
+2020-11-28 21:27:21,622 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter UDP: Disconnected Peers +/sec
+2020-11-28 21:27:21,623 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter UDP: Disconnected Peers (C) +/sec
+2020-11-28 21:27:21,624 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter UDP: Peers
+2020-11-28 21:27:21,635 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.FeedbackControlSystem - Could not initialize Feedback Control System from configuration: Invalid configuration file C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Workload.config. Using default settings... (Could not find file 'C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Workload.config'.)
+2020-11-28 21:27:21,645 [1] INFO  Photon.Common.LoadBalancer.ServerStateManager - Watching for application state file in C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\ServerState.txt
+2020-11-28 21:27:21,648 [1] INFO  Photon.Common.LoadBalancer.ServerStateManager - Server state is set to online
+2020-11-28 21:27:21,649 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - Initializing master server connection ...
+2020-11-28 21:27:21,660 [1] INFO  Photon.LoadBalancing.GameServer.MasterServerConnectionBase - Connecting to master at 127.0.0.1:4520, serverId=4aa0c2d8-08d9-455a-8d15-9268a5f3faa4
+2020-11-28 21:27:21,682 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=Game; AppPath=C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancing\GameServer, Type=Photon.LoadBalancing.GameServer.GameApplication 
+2020-11-28 21:27:21,689 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher - CounterPublisher started publishing ExitGames.Diagnostics.Monitoring.CounterSamplePublisher to ExitGames.Diagnostics.Monitoring.CounterSampleSender
+2020-11-28 21:27:22,032 [13] INFO  Photon.LoadBalancing.GameServer.MasterServerConnectionBase - Master connection established: address:127.0.0.1
+2020-11-28 21:27:22,033 [13] INFO  Photon.Common.LoadBalancer.ServerStateManager - Server state is set to online
+2020-11-28 21:27:22,038 [13] INFO  Photon.LoadBalancing.GameServer.OutgoingMasterServerPeer - Registering game server with address 192.168.0.12, TCP 4531, UDP 5056, WebSocket 9091, Secure WebSocket 19091, HTTP 80, ServerID 4aa0c2d8-08d9-455a-8d15-9268a5f3faa4, Hostname localhost, IPv6Address 
+2020-11-28 21:27:22,098 [17] INFO  Photon.LoadBalancing.GameServer.OutgoingMasterServerPeer - Successfully registered at master server: serverId=4aa0c2d8-08d9-455a-8d15-9268a5f3faa4
+2020-11-28 21:32:05,849 [8] INFO  Photon.Common.LoadBalancer.LoadShedding.FeedbackController - Transit CpuUsage from Lowest to Low with input 35
+2020-11-28 21:32:05,849 [8] INFO  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - FeedbackLevel changed: old=Lowest, new=Low
+2020-11-28 21:40:02,272 [26] INFO  Photon.Common.LoadBalancer.LoadShedding.FeedbackController - Transit CpuUsage from Low to Lowest with input 20
+2020-11-28 21:40:02,281 [26] INFO  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - FeedbackLevel changed: old=Low, new=Lowest
+2020-11-28 21:46:03,991 [29] INFO  Photon.Common.LoadBalancer.LoadShedding.FeedbackController - Transit CpuUsage from Lowest to Low with input 35
+2020-11-28 21:46:03,991 [29] INFO  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - FeedbackLevel changed: old=Lowest, new=Low
+2020-11-28 21:49:53,453 [27] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - NameMineSweepersVersus
+2020-11-28 21:49:53,455 [27] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-11-28 21:49:53,455 [27] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-11-28 21:49:53,457 [27] INFO  Photon.Hive.Plugin.PluginManager - Plugin successfully created:Type:MineSweepersPlugins.MineSweepersFactory, path:C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Plugins\MineSweepersPlugins\1.0.0\bin\MineSweepersPlugins.dll
+2020-11-28 21:49:53,476 [20] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - OnCreateGame dsd by user f025b72c-e33e-4d5b-9233-102f1ca4ce0c
+2020-11-28 21:49:53,533 [20] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - GameCreated 13 by 9 with 11 mines. FirstSafe False, endOnExpload False, JoinAfterStart True
+2020-11-28 21:49:59,215 [26] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 7 , x: 5 , val: 1 , IsIsReveald: False 
+2020-11-28 21:50:00,124 [29] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 5 , x: 2 , val: 2 , IsIsReveald: False 
+2020-11-28 21:50:05,230 [20] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - Sync player3
+2020-11-28 21:50:06,601 [29] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 11 , x: 3 , val: 10 , IsIsReveald: False 
+2020-11-28 21:50:12,617 [25] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - UnhandledException:'Name:MineSweepersVersus, Version:1.0 AppId:827A-68F6-0482-0D25-3728-48B8, AppVersion:'. Exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at MineSweepersPlugins.ScoreManager.RemovePlayer(Int32 actorNr) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\Resources\Score.cs:line 43
+   at MineSweepersPlugins.MineSweepersVersus.OnLeave(ILeaveGameCallInfo info) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\MineSweepersVersus.cs:line 110
+   at Photon.Hive.Plugin.PluginBase.Photon.Hive.Plugin.IGamePlugin.OnLeave(ILeaveGameCallInfo info)
+2020-11-28 21:50:14,559 [29] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - Sync player4
+2020-11-28 21:50:22,405 [27] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 10 , x: 6 , val: 0 , IsIsReveald: False 
+2020-11-28 21:50:24,039 [25] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 21:51:30,537 [25] INFO  Photon.Common.LoadBalancer.LoadShedding.FeedbackController - Transit CpuUsage from Low to Lowest with input 20
+2020-11-28 21:51:30,538 [25] INFO  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - FeedbackLevel changed: old=Low, new=Lowest
+2020-11-28 21:55:09,599 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - OnStopRequested: serverid=4aa0c2d8-08d9-455a-8d15-9268a5f3faa4
+2020-11-28 21:55:09,602 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=Game
+2020-11-28 21:55:09,607 [21] INFO  Photon.LoadBalancing.GameServer.OutgoingMasterServerPeer - connection to master closed (id=2, reason=ManagedDisconnect, detail=), serverId=4aa0c2d8-08d9-455a-8d15-9268a5f3faa4
+2020-11-28 21:55:09,618 [25] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - UnhandledException:'Name:MineSweepersVersus, Version:1.0 AppId:827A-68F6-0482-0D25-3728-48B8, AppVersion:'. Exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at MineSweepersPlugins.ScoreManager.RemovePlayer(Int32 actorNr) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\Resources\Score.cs:line 43
+   at MineSweepersPlugins.MineSweepersVersus.OnLeave(ILeaveGameCallInfo info) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\MineSweepersVersus.cs:line 110
+   at Photon.Hive.Plugin.PluginBase.Photon.Hive.Plugin.IGamePlugin.OnLeave(ILeaveGameCallInfo info)
+2020-11-28 21:55:09,618 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - TearDown: serverId=4aa0c2d8-08d9-455a-8d15-9268a5f3faa4
+2020-11-28 21:55:09,621 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=Game
+2020-11-28 21:55:09,619 [25] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - UnhandledException:'Name:MineSweepersVersus, Version:1.0 AppId:827A-68F6-0482-0D25-3728-48B8, AppVersion:'. Exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at MineSweepersPlugins.ScoreManager.RemovePlayer(Int32 actorNr) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\Resources\Score.cs:line 43
+   at MineSweepersPlugins.MineSweepersVersus.OnLeave(ILeaveGameCallInfo info) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\MineSweepersVersus.cs:line 110
+   at Photon.Hive.Plugin.PluginBase.Photon.Hive.Plugin.IGamePlugin.OnLeave(ILeaveGameCallInfo info)
+2020-11-28 21:55:09,625 [25] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - UnhandledException:'Name:MineSweepersVersus, Version:1.0 AppId:827A-68F6-0482-0D25-3728-48B8, AppVersion:'. Exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at MineSweepersPlugins.ScoreManager.RemovePlayer(Int32 actorNr) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\Resources\Score.cs:line 43
+   at MineSweepersPlugins.MineSweepersVersus.OnLeave(ILeaveGameCallInfo info) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\MineSweepersVersus.cs:line 110
+   at Photon.Hive.Plugin.PluginBase.Photon.Hive.Plugin.IGamePlugin.OnLeave(ILeaveGameCallInfo info)
+2020-11-28 21:55:12,712 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - Setup: serverId=ddc7510b-2a09-4645-97df-1934af98a97f
+2020-11-28 21:55:12,741 [1] INFO  Photon.Hive.Plugin.PluginManager - Plugin configured: name=MineSweepersPlugins
+2020-11-28 21:55:12,759 [1] INFO  Photon.Hive.Plugin.PluginManager - Loaded Assembly Name=MineSweepersPlugins, Version=1.0.0.0, Culture=, PublicKey token=, Path=C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Plugins\MineSweepersPlugins\1.0.0\bin\MineSweepersPlugins.dll
+2020-11-28 21:55:12,759 [1] INFO  Photon.Hive.Plugin.PluginManager - Referenced Assembly Name=mscorlib, Version=4.0.0.0, Culture=, PublicKey token=B7-7A-5C-56-19-34-E0-89, Path=
+2020-11-28 21:55:12,760 [1] INFO  Photon.Hive.Plugin.PluginManager - Referenced Assembly Name=PhotonHivePlugin, Version=1.0.15.11060, Culture=, PublicKey token=, Path=
+2020-11-28 21:55:12,760 [1] INFO  Photon.Hive.Plugin.PluginManager - Referenced Assembly Name=ExitGamesLibs, Version=1.0.4.0, Culture=, PublicKey token=EA-C0-ED-D9-74-6A-4A-A0, Path=
+2020-11-28 21:55:12,761 [1] INFO  Photon.Hive.Plugin.PluginManager - Referenced Assembly Name=System.Core, Version=4.0.0.0, Culture=, PublicKey token=B7-7A-5C-56-19-34-E0-89, Path=
+2020-11-28 21:55:12,761 [1] INFO  Photon.Hive.Plugin.PluginManager - Plugin Type MineSweepersPlugins.MineSweepersFactory from assembly MineSweepersPlugins, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null was successfuly created
+2020-11-28 21:55:12,762 [1] INFO  Photon.Hive.Plugin.PluginManager - Plugin manager (version=1.0.15.11060) is setup. type=MineSweepersPlugins.MineSweepersFactory;path=C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Plugins\MineSweepersPlugins\1.0.0\bin\MineSweepersPlugins.dll;version=1.0.15.11060
+2020-11-28 21:55:12,767 [1] INFO  Photon.SocketServer.Diagnostics.HttpQueuePerformanceCounters - User has no Admin rights. HttpQueuePerformanceCounters initialization skipped
+2020-11-28 21:55:12,772 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - TokenCreator intialized with an expiration of 02:46:40
+2020-11-28 21:55:12,893 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter Business Logic Queue
+2020-11-28 21:55:12,893 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter ENet Queue
+2020-11-28 21:55:12,894 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter bytes in/sec
+2020-11-28 21:55:12,895 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter bytes out/sec
+2020-11-28 21:55:12,896 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter ENet Threads Processing
+2020-11-28 21:55:12,898 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter ENet Threads Active
+2020-11-28 21:55:12,898 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter Time Spent In Server: In (ms)
+2020-11-28 21:55:12,899 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter Time Spent In Server: Out (ms)
+2020-11-28 21:55:12,899 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter TCP: Disconnected Peers +/sec
+2020-11-28 21:55:12,900 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter TCP: Disconnected Peers (C) +/sec
+2020-11-28 21:55:12,901 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter TCP: Peers
+2020-11-28 21:55:12,901 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter UDP: Disconnected Peers +/sec
+2020-11-28 21:55:12,902 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter UDP: Disconnected Peers (C) +/sec
+2020-11-28 21:55:12,902 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter UDP: Peers
+2020-11-28 21:55:12,913 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.FeedbackControlSystem - Could not initialize Feedback Control System from configuration: Invalid configuration file C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Workload.config. Using default settings... (Could not find file 'C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Workload.config'.)
+2020-11-28 21:55:12,924 [1] INFO  Photon.Common.LoadBalancer.ServerStateManager - Watching for application state file in C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\ServerState.txt
+2020-11-28 21:55:12,927 [1] INFO  Photon.Common.LoadBalancer.ServerStateManager - Server state is set to online
+2020-11-28 21:55:12,928 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - Initializing master server connection ...
+2020-11-28 21:55:12,940 [1] INFO  Photon.LoadBalancing.GameServer.MasterServerConnectionBase - Connecting to master at 127.0.0.1:4520, serverId=ddc7510b-2a09-4645-97df-1934af98a97f
+2020-11-28 21:55:12,966 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=Game; AppPath=C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancing\GameServer, Type=Photon.LoadBalancing.GameServer.GameApplication 
+2020-11-28 21:55:12,974 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher - CounterPublisher started publishing ExitGames.Diagnostics.Monitoring.CounterSamplePublisher to ExitGames.Diagnostics.Monitoring.CounterSampleSender
+2020-11-28 21:55:13,321 [13] INFO  Photon.LoadBalancing.GameServer.MasterServerConnectionBase - Master connection established: address:127.0.0.1
+2020-11-28 21:55:13,321 [13] INFO  Photon.Common.LoadBalancer.ServerStateManager - Server state is set to online
+2020-11-28 21:55:13,327 [13] INFO  Photon.LoadBalancing.GameServer.OutgoingMasterServerPeer - Registering game server with address 192.168.0.12, TCP 4531, UDP 5056, WebSocket 9091, Secure WebSocket 19091, HTTP 80, ServerID ddc7510b-2a09-4645-97df-1934af98a97f, Hostname localhost, IPv6Address 
+2020-11-28 21:55:13,395 [13] INFO  Photon.LoadBalancing.GameServer.OutgoingMasterServerPeer - Successfully registered at master server: serverId=ddc7510b-2a09-4645-97df-1934af98a97f
+2020-11-28 22:00:36,238 [16] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - NameMineSweepersVersus
+2020-11-28 22:00:36,241 [16] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-11-28 22:00:36,242 [16] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-11-28 22:00:36,242 [16] INFO  Photon.Hive.Plugin.PluginManager - Plugin successfully created:Type:MineSweepersPlugins.MineSweepersFactory, path:C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Plugins\MineSweepersPlugins\1.0.0\bin\MineSweepersPlugins.dll
+2020-11-28 22:00:36,261 [16] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - OnCreateGame dsds by user e865cb62-c559-47a3-bc2e-5dbeb275ada0
+2020-11-28 22:00:36,329 [16] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - GameCreated 12 by 10 with 12 mines. FirstSafe False, endOnExpload False, JoinAfterStart True
+2020-11-28 22:00:45,540 [17] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - Sync player3
+2020-11-28 22:00:46,363 [19] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 5 , x: 7 , val: 0 , IsIsReveald: False 
+2020-11-28 22:00:52,974 [18] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - Sync player4
+2020-11-28 22:00:57,055 [18] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 22:00:57,788 [17] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 5 , x: 3 , val: 1 , IsIsReveald: True 
+2020-11-28 22:00:58,888 [20] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 7 , x: 2 , val: 1 , IsIsReveald: True 
+2020-11-28 22:01:00,359 [9] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 22:01:01,699 [20] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - UnhandledException:'Name:MineSweepersVersus, Version:1.0 AppId:827A-68F6-0482-0D25-3728-48B8, AppVersion:'. Exception: System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at MineSweepersPlugins.ScoreManager.RemovePlayer(Int32 actorNr, String userId) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\Resources\Score.cs:line 43
+   at MineSweepersPlugins.MineSweepersVersus.OnLeave(ILeaveGameCallInfo info) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\MineSweepersVersus.cs:line 110
+   at Photon.Hive.Plugin.PluginBase.Photon.Hive.Plugin.IGamePlugin.OnLeave(ILeaveGameCallInfo info)
+2020-11-28 22:01:03,500 [16] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - Sync player5
+2020-11-28 22:01:07,086 [17] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 7 , x: 1 , val: 1 , IsIsReveald: True 
+2020-11-28 22:01:10,321 [19] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 22:01:10,779 [19] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 22:01:11,774 [22] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 0 , x: 5 , val: 1 , IsIsReveald: True 
+2020-11-28 22:01:12,621 [18] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 0 , x: 6 , val: 2 , IsIsReveald: True 
+2020-11-28 22:01:13,587 [23] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 0 , x: 7 , val: 3 , IsIsReveald: True 
+2020-11-28 22:01:15,086 [25] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 22:01:15,520 [23] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 22:02:22,012 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - OnStopRequested: serverid=ddc7510b-2a09-4645-97df-1934af98a97f
+2020-11-28 22:02:22,019 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=Game
+2020-11-28 22:02:22,024 [20] INFO  Photon.LoadBalancing.GameServer.OutgoingMasterServerPeer - connection to master closed (id=2, reason=ManagedDisconnect, detail=), serverId=ddc7510b-2a09-4645-97df-1934af98a97f
+2020-11-28 22:02:22,041 [24] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - UnhandledException:'Name:MineSweepersVersus, Version:1.0 AppId:827A-68F6-0482-0D25-3728-48B8, AppVersion:'. Exception: System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at MineSweepersPlugins.ScoreManager.RemovePlayer(Int32 actorNr, String userId) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\Resources\Score.cs:line 43
+   at MineSweepersPlugins.MineSweepersVersus.OnLeave(ILeaveGameCallInfo info) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\MineSweepersVersus.cs:line 110
+   at Photon.Hive.Plugin.PluginBase.Photon.Hive.Plugin.IGamePlugin.OnLeave(ILeaveGameCallInfo info)
+2020-11-28 22:02:22,044 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - TearDown: serverId=ddc7510b-2a09-4645-97df-1934af98a97f
+2020-11-28 22:02:22,049 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=Game
+2020-11-28 22:02:24,146 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - Setup: serverId=be73edf7-d1d3-4de1-99c8-9dadd342e0d3
+2020-11-28 22:02:24,174 [1] INFO  Photon.Hive.Plugin.PluginManager - Plugin configured: name=MineSweepersPlugins
+2020-11-28 22:02:24,194 [1] INFO  Photon.Hive.Plugin.PluginManager - Loaded Assembly Name=MineSweepersPlugins, Version=1.0.0.0, Culture=, PublicKey token=, Path=C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Plugins\MineSweepersPlugins\1.0.0\bin\MineSweepersPlugins.dll
+2020-11-28 22:02:24,194 [1] INFO  Photon.Hive.Plugin.PluginManager - Referenced Assembly Name=mscorlib, Version=4.0.0.0, Culture=, PublicKey token=B7-7A-5C-56-19-34-E0-89, Path=
+2020-11-28 22:02:24,195 [1] INFO  Photon.Hive.Plugin.PluginManager - Referenced Assembly Name=PhotonHivePlugin, Version=1.0.15.11060, Culture=, PublicKey token=, Path=
+2020-11-28 22:02:24,195 [1] INFO  Photon.Hive.Plugin.PluginManager - Referenced Assembly Name=ExitGamesLibs, Version=1.0.4.0, Culture=, PublicKey token=EA-C0-ED-D9-74-6A-4A-A0, Path=
+2020-11-28 22:02:24,195 [1] INFO  Photon.Hive.Plugin.PluginManager - Referenced Assembly Name=System.Core, Version=4.0.0.0, Culture=, PublicKey token=B7-7A-5C-56-19-34-E0-89, Path=
+2020-11-28 22:02:24,196 [1] INFO  Photon.Hive.Plugin.PluginManager - Plugin Type MineSweepersPlugins.MineSweepersFactory from assembly MineSweepersPlugins, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null was successfuly created
+2020-11-28 22:02:24,197 [1] INFO  Photon.Hive.Plugin.PluginManager - Plugin manager (version=1.0.15.11060) is setup. type=MineSweepersPlugins.MineSweepersFactory;path=C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Plugins\MineSweepersPlugins\1.0.0\bin\MineSweepersPlugins.dll;version=1.0.15.11060
+2020-11-28 22:02:24,202 [1] INFO  Photon.SocketServer.Diagnostics.HttpQueuePerformanceCounters - User has no Admin rights. HttpQueuePerformanceCounters initialization skipped
+2020-11-28 22:02:24,206 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - TokenCreator intialized with an expiration of 02:46:40
+2020-11-28 22:02:24,319 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter Business Logic Queue
+2020-11-28 22:02:24,319 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter ENet Queue
+2020-11-28 22:02:24,320 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter bytes in/sec
+2020-11-28 22:02:24,320 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter bytes out/sec
+2020-11-28 22:02:24,321 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter ENet Threads Processing
+2020-11-28 22:02:24,321 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter ENet Threads Active
+2020-11-28 22:02:24,322 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter Time Spent In Server: In (ms)
+2020-11-28 22:02:24,322 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter Time Spent In Server: Out (ms)
+2020-11-28 22:02:24,323 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter TCP: Disconnected Peers +/sec
+2020-11-28 22:02:24,324 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter TCP: Disconnected Peers (C) +/sec
+2020-11-28 22:02:24,324 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter TCP: Peers
+2020-11-28 22:02:24,325 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter UDP: Disconnected Peers +/sec
+2020-11-28 22:02:24,325 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter UDP: Disconnected Peers (C) +/sec
+2020-11-28 22:02:24,325 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter UDP: Peers
+2020-11-28 22:02:24,337 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.FeedbackControlSystem - Could not initialize Feedback Control System from configuration: Invalid configuration file C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Workload.config. Using default settings... (Could not find file 'C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Workload.config'.)
+2020-11-28 22:02:24,346 [1] INFO  Photon.Common.LoadBalancer.ServerStateManager - Watching for application state file in C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\ServerState.txt
+2020-11-28 22:02:24,349 [1] INFO  Photon.Common.LoadBalancer.ServerStateManager - Server state is set to online
+2020-11-28 22:02:24,351 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - Initializing master server connection ...
+2020-11-28 22:02:24,361 [1] INFO  Photon.LoadBalancing.GameServer.MasterServerConnectionBase - Connecting to master at 127.0.0.1:4520, serverId=be73edf7-d1d3-4de1-99c8-9dadd342e0d3
+2020-11-28 22:02:24,385 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=Game; AppPath=C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancing\GameServer, Type=Photon.LoadBalancing.GameServer.GameApplication 
+2020-11-28 22:02:24,391 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher - CounterPublisher started publishing ExitGames.Diagnostics.Monitoring.CounterSamplePublisher to ExitGames.Diagnostics.Monitoring.CounterSampleSender
+2020-11-28 22:02:24,698 [12] INFO  Photon.LoadBalancing.GameServer.MasterServerConnectionBase - Master connection established: address:127.0.0.1
+2020-11-28 22:02:24,699 [12] INFO  Photon.Common.LoadBalancer.ServerStateManager - Server state is set to online
+2020-11-28 22:02:24,703 [12] INFO  Photon.LoadBalancing.GameServer.OutgoingMasterServerPeer - Registering game server with address 192.168.0.12, TCP 4531, UDP 5056, WebSocket 9091, Secure WebSocket 19091, HTTP 80, ServerID be73edf7-d1d3-4de1-99c8-9dadd342e0d3, Hostname localhost, IPv6Address 
+2020-11-28 22:02:24,777 [13] INFO  Photon.LoadBalancing.GameServer.OutgoingMasterServerPeer - Successfully registered at master server: serverId=be73edf7-d1d3-4de1-99c8-9dadd342e0d3
+2020-11-28 22:03:45,364 [20] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - NameMineSweepersVersus
+2020-11-28 22:03:45,366 [20] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-11-28 22:03:45,366 [20] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-11-28 22:03:45,367 [20] INFO  Photon.Hive.Plugin.PluginManager - Plugin successfully created:Type:MineSweepersPlugins.MineSweepersFactory, path:C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Plugins\MineSweepersPlugins\1.0.0\bin\MineSweepersPlugins.dll
+2020-11-28 22:03:45,387 [17] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - OnCreateGame dsdasda by user e865cb62-c559-47a3-bc2e-5dbeb275ada0
+2020-11-28 22:03:45,440 [17] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - GameCreated 13 by 10 with 13 mines. FirstSafe False, endOnExpload False, JoinAfterStart True
+2020-11-28 22:03:51,082 [16] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 6 , x: 4 , val: 1 , IsIsReveald: False 
+2020-11-28 22:03:51,674 [11] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 10 , x: 6 , val: 0 , IsIsReveald: False 
+2020-11-28 22:03:55,353 [17] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - Sync player3
+2020-11-28 22:03:59,241 [26] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 22:04:00,123 [25] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 22:04:03,289 [17] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - Sync player4
+2020-11-28 22:04:05,474 [26] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 10 , x: 2 , val: 1 , IsIsReveald: True 
+2020-11-28 22:04:06,672 [19] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 9 , x: 1 , val: 1 , IsIsReveald: True 
+2020-11-28 22:04:08,173 [14] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 22:04:13,090 [26] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 22:04:15,946 [17] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - Sync player5
+2020-11-28 22:04:18,939 [13] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 22:04:19,471 [13] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 1 , x: 6 , val: 1 , IsIsReveald: True 
+2020-11-28 22:04:22,583 [14] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - Sync player6
+2020-11-28 22:04:27,294 [19] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 22:04:28,041 [16] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 9 , x: 7 , val: 1 , IsIsReveald: True 
+2020-11-28 22:04:28,752 [16] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 8 , x: 7 , val: 1 , IsIsReveald: True 
+2020-11-28 22:04:29,729 [16] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 7 , x: 6 , val: 1 , IsIsReveald: True 
+2020-11-28 22:04:31,343 [19] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 6 , x: 5 , val: 1 , IsIsReveald: True 
+2020-11-28 22:04:33,065 [14] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 22:04:33,529 [11] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 6 , x: 7 , val: 1 , IsIsReveald: True 
+2020-11-28 22:04:34,424 [25] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 5 , x: 8 , val: 1 , IsIsReveald: True 
+2020-11-28 22:04:35,550 [14] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-11-28 22:04:36,356 [19] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 2 , x: 7 , val: 1 , IsIsReveald: True 

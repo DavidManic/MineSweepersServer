@@ -66,5 +66,11 @@ namespace MineSweepersPlugins
         {
             BroadcastEvent((byte)Event.GameEnd, null);
         }
+
+        protected override void SyncPlayer(IJoinGameCallInfo info)
+        {
+            
+            base.SyncPlayer(info);
+        }
     }
 }

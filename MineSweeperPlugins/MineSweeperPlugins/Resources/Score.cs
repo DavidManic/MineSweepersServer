@@ -10,13 +10,13 @@ namespace MineSweepersPlugins
     public class ScoreManager
     {
         Dictionary<int, int> scores;
-        Dictionary<int, int> disconects;
+        Dictionary<string, int> disconects;
         IPluginHost host;
 
         public ScoreManager(IList<IActor> actors, IPluginHost host)
         {
             scores = new Dictionary<int, int>();
-            disconects = new Dictionary<int, int>();
+            disconects = new Dictionary<string, int>();
             foreach (IActor a in actors)
                 scores.Add(a.ActorNr, 0);
 
@@ -29,17 +29,21 @@ namespace MineSweepersPlugins
         /// <param name="score"></param>
         public void AddPlayer(int actorNr, int score)
         {
-
-            scores.Add(actorNr, disconects.ContainsKey(actorNr) ? disconects[actorNr] : score);
-            host.BroadcastEvent(new List<int> { actorNr }, 0, (byte)Event.scoreSet, new Dictionary<byte, object>() { { (byte)0, scores } }, CacheOperations.DoNotCache);
+            string userId = host.GameActors.ToList().Find(a => a.ActorNr == actorNr).UserId;
+            scores.Add(actorNr, disconects.ContainsKey(userId) ? disconects[userId] : score);
+            //host.BroadcastEvent(new List<int> { actorNr }, 0, (byte)Event.scoreSet, new Dictionary<byte, object>() { { (byte)0, scores } }, CacheOperations.DoNotCache);
+            host.BroadcastEvent(ReciverGroup.All, 0, 0, (byte)Event.scoreSet, new Dictionary<byte, object>() { { (byte)0, scores } }, CacheOperations.DoNotCache);
         }
         /// <summary>
         /// Remove actor from pool of players
         /// </summary>
         /// <param name="actorNr"></param>
-        public void RemovePlayer(int actorNr)
+        public void RemovePlayer(int actorNr, string userId)
         {
-            disconects.Add(actorNr, scores[actorNr]);
+            if (disconects.ContainsKey(userId))
+                disconects[userId] = scores[actorNr];
+            else
+                disconects.Add(userId, scores[actorNr]);
             scores.Remove(actorNr);
         }
 

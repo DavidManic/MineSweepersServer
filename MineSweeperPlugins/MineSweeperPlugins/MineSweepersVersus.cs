@@ -77,12 +77,12 @@ namespace MineSweepersPlugins
             if (board.IsMine(y, x))
                 board.ToggleFlag(y, x);
 
-            scoreManager.AddPoints(turnManager.Actors.Find(a => a.ActorNr == info.ActorNr), board.IsMine(y, x) ? 5 : -5);
-
             if (board.IsMine(y, x))
                 BroadcastEvent((byte)Event.ReceiveToggleFlag, new Dictionary<byte, object>() { { (byte)0, y }, { (byte)1, x }, { (byte)2, board.IsFlag(y, x) } });
             else
                 OpenTile(y, x, board.GetTile(y, x));
+
+            scoreManager.AddPoints(turnManager.Actors.Find(a => a.ActorNr == info.ActorNr), board.IsMine(y, x) ? 5 : -5);
 
         }
         /// <summary>
@@ -91,9 +91,10 @@ namespace MineSweepersPlugins
         /// <param name="info"></param>
         protected override void SyncPlayer(IJoinGameCallInfo info)
         {
+            scoreManager.AddPlayer(info.ActorNr, 0);
+            turnManager.AddActor(PluginHost.GameActors.ToList().Find(a=>a.ActorNr==info.ActorNr));
             base.SyncPlayer(info);
 
-            scoreManager.AddPlayer(info.ActorNr, 0);
         }
 
         /// <summary>
@@ -106,7 +107,7 @@ namespace MineSweepersPlugins
             if (IsGameStarted)
             {
                 if(scoreManager.ContainPlayer(info.ActorNr))//if player gets kicked on join
-                    scoreManager.RemovePlayer(info.ActorNr);
+                    scoreManager.RemovePlayer(info.ActorNr,info.UserId);
             }
         }
         /// <summary>

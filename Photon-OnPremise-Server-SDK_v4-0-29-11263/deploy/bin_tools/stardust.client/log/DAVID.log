@@ -1,37 +1,25 @@
-2020-01-30 19:24:38,468 [1] INFO  Photon.StarDust.Client.Program - Starting 5 games with 3 players
-2020-01-30 19:24:38,826 [7] WARN  Photon.StarDust.Client.ConnectionStates.LoadBalancing.AuthenticatedOnMaster - OnOperationReturn: CreateGame failed: ReturnCode: 32762 (Failed to get server instance.). Disconnecting...
-2020-01-30 19:24:39,154 [4] INFO  Photon.StarDust.Client.Program - [5892] Started game DAVID(5892)1 with 3 clients
-2020-01-30 19:24:39,294 [7] WARN  Photon.StarDust.Client.ConnectionStates.LoadBalancing.AuthenticatedOnMaster - OnOperationReturn: CreateGame failed: ReturnCode: 32762 (Failed to get server instance.). Disconnecting...
-2020-01-30 19:24:39,417 [6] WARN  Photon.StarDust.Client.ConnectionStates.LoadBalancing.AuthenticatedOnMaster - OnOperationReturn: JoinGame failed: ReturnCode: 32758 (Game does not exists). Disconnecting...
-2020-01-30 19:24:39,489 [6] DEBUG Photon.StarDust.Client.Program - peers: 5, r-ev: 6.732997, ur-ev: 0, r-op: 10.77278, ur-op: 0, res: 10.77269, r-rtt: 0, ur-rtt: 0, rtt: 0, var: 0, flsh-rtt: 0, flsh-ev 0, flsh-op 0
-2020-01-30 19:24:39,534 [4] INFO  Photon.StarDust.Client.Program - [5892] Started game DAVID(5892)2 with 3 clients
-2020-01-30 19:24:39,608 [25] WARN  Photon.StarDust.Client.ConnectionStates.LoadBalancing.AuthenticatedOnMaster - OnOperationReturn: JoinGame failed: ReturnCode: 32758 (Game does not exists). Disconnecting...
-2020-01-30 19:24:39,641 [27] WARN  Photon.StarDust.Client.ConnectionStates.LoadBalancing.AuthenticatedOnMaster - OnOperationReturn: CreateGame failed: ReturnCode: 32762 (Failed to get server instance.). Disconnecting...
-2020-01-30 19:24:39,888 [7] WARN  Photon.StarDust.Client.ConnectionStates.LoadBalancing.AuthenticatedOnMaster - OnOperationReturn: JoinGame failed: ReturnCode: 32758 (Game does not exists). Disconnecting...
-2020-01-30 19:24:40,044 [4] INFO  Photon.StarDust.Client.Program - [5892] Started game DAVID(5892)3 with 3 clients
-2020-01-30 19:24:40,078 [25] WARN  Photon.StarDust.Client.ConnectionStates.LoadBalancing.AuthenticatedOnMaster - OnOperationReturn: JoinGame failed: ReturnCode: 32758 (Game does not exists). Disconnecting...
-2020-01-30 19:24:40,169 [11] WARN  Photon.StarDust.Client.ConnectionStates.LoadBalancing.AuthenticatedOnMaster - OnOperationReturn: CreateGame failed: ReturnCode: 32762 (Failed to get server instance.). Disconnecting...
-2020-01-30 19:24:40,340 [24] WARN  Photon.StarDust.Client.ConnectionStates.LoadBalancing.AuthenticatedOnMaster - OnOperationReturn: JoinGame failed: ReturnCode: 32758 (Game does not exists). Disconnecting...
-2020-01-30 19:24:40,465 [24] WARN  Photon.StarDust.Client.ConnectionStates.LoadBalancing.AuthenticatedOnMaster - OnOperationReturn: JoinGame failed: ReturnCode: 32758 (Game does not exists). Disconnecting...
-2020-01-30 19:24:40,494 [24] DEBUG Photon.StarDust.Client.Program - peers: 12, r-ev: 6.953044, ur-ev: 0, r-op: 13.90609, ur-op: 0, res: 13.90609, r-rtt: 0, ur-rtt: 0, rtt: 0, var: 0, flsh-rtt: 0, flsh-ev 0, flsh-op 0
-2020-01-30 19:24:40,564 [4] INFO  Photon.StarDust.Client.Program - [5892] Started game DAVID(5892)4 with 3 clients
-2020-01-30 19:24:40,701 [6] WARN  Photon.StarDust.Client.ConnectionStates.LoadBalancing.AuthenticatedOnMaster - OnOperationReturn: CreateGame failed: ReturnCode: 32762 (Failed to get server instance.). Disconnecting...
-2020-01-30 19:24:40,818 [11] WARN  Photon.StarDust.Client.ConnectionStates.LoadBalancing.AuthenticatedOnMaster - OnOperationReturn: JoinGame failed: ReturnCode: 32758 (Game does not exists). Disconnecting...
-2020-01-30 19:24:40,910 [4] INFO  Photon.StarDust.Client.Program - [5892] Started game DAVID(5892)5 with 3 clients
-2020-01-30 19:24:40,982 [5] WARN  Photon.StarDust.Client.ConnectionStates.LoadBalancing.AuthenticatedOnMaster - OnOperationReturn: JoinGame failed: ReturnCode: 32758 (Game does not exists). Disconnecting...
-2020-01-30 19:24:41,345 [4] WARN  Photon.StarDust.Client.ConnectionStates.LoadBalancing.AuthenticatedOnMaster - OnOperationReturn: JoinGame failed: ReturnCode: 32758 (Game does not exists). Disconnecting...
-2020-01-30 19:24:41,420 [24] WARN  Photon.StarDust.Client.ConnectionStates.LoadBalancing.AuthenticatedOnMaster - OnOperationReturn: JoinGame failed: ReturnCode: 32758 (Game does not exists). Disconnecting...
-2020-01-30 19:24:41,497 [27] DEBUG Photon.StarDust.Client.Program - peers: 15, r-ev: 2.992132, ur-ev: 0, r-op: 7.979022, ur-op: 0, res: 7.979026, r-rtt: 0, ur-rtt: 0, rtt: 0, var: 0, flsh-rtt: 0, flsh-ev 0, flsh-op 0
-2020-01-30 19:24:42,494 [4] DEBUG Photon.StarDust.Client.Program - peers: 15, r-ev: 0, ur-ev: 0, r-op: 0, ur-op: 0, res: 0, r-rtt: 0, ur-rtt: 0, rtt: 0, var: 0, flsh-rtt: 0, flsh-ev 0, flsh-op 0
-2020-01-30 19:24:43,495 [24] DEBUG Photon.StarDust.Client.Program - peers: 15, r-ev: 0, ur-ev: 0, r-op: 0, ur-op: 0, res: 0, r-rtt: 0, ur-rtt: 0, rtt: 0, var: 0, flsh-rtt: 0, flsh-ev 0, flsh-op 0
-2020-01-30 19:24:44,498 [11] DEBUG Photon.StarDust.Client.Program - peers: 15, r-ev: 0, ur-ev: 0, r-op: 0, ur-op: 0, res: 0, r-rtt: 0, ur-rtt: 0, rtt: 0, var: 0, flsh-rtt: 0, flsh-ev 0, flsh-op 0
-2020-01-30 19:24:45,499 [4] DEBUG Photon.StarDust.Client.Program - peers: 15, r-ev: 0, ur-ev: 0, r-op: 0, ur-op: 0, res: 0, r-rtt: 0, ur-rtt: 0, rtt: 0, var: 0, flsh-rtt: 0, flsh-ev 0, flsh-op 0
-2020-01-30 19:24:46,512 [27] DEBUG Photon.StarDust.Client.Program - peers: 15, r-ev: 0, ur-ev: 0, r-op: 0, ur-op: 0, res: 0, r-rtt: 0, ur-rtt: 0, rtt: 0, var: 0, flsh-rtt: 0, flsh-ev 0, flsh-op 0
-2020-01-30 19:24:47,517 [24] DEBUG Photon.StarDust.Client.Program - peers: 15, r-ev: 0, ur-ev: 0, r-op: 0, ur-op: 0, res: 0, r-rtt: 0, ur-rtt: 0, rtt: 0, var: 0, flsh-rtt: 0, flsh-ev 0, flsh-op 0
-2020-01-30 19:24:48,527 [11] DEBUG Photon.StarDust.Client.Program - peers: 15, r-ev: 0, ur-ev: 0, r-op: 0, ur-op: 0, res: 0, r-rtt: 0, ur-rtt: 0, rtt: 0, var: 0, flsh-rtt: 0, flsh-ev 0, flsh-op 0
-2020-01-30 19:24:49,542 [25] DEBUG Photon.StarDust.Client.Program - peers: 15, r-ev: 0, ur-ev: 0, r-op: 0, ur-op: 0, res: 0, r-rtt: 0, ur-rtt: 0, rtt: 0, var: 0, flsh-rtt: 0, flsh-ev 0, flsh-op 0
-2020-01-30 19:24:50,549 [26] DEBUG Photon.StarDust.Client.Program - peers: 15, r-ev: 0, ur-ev: 0, r-op: 0, ur-op: 0, res: 0, r-rtt: 0, ur-rtt: 0, rtt: 0, var: 0, flsh-rtt: 0, flsh-ev 0, flsh-op 0
-2020-01-30 19:24:51,548 [26] DEBUG Photon.StarDust.Client.Program - peers: 15, r-ev: 0, ur-ev: 0, r-op: 0, ur-op: 0, res: 0, r-rtt: 0, ur-rtt: 0, rtt: 0, var: 0, flsh-rtt: 0, flsh-ev 0, flsh-op 0
-2020-01-30 19:24:52,564 [26] DEBUG Photon.StarDust.Client.Program - peers: 15, r-ev: 0, ur-ev: 0, r-op: 0, ur-op: 0, res: 0, r-rtt: 0, ur-rtt: 0, rtt: 0, var: 0, flsh-rtt: 0, flsh-ev 0, flsh-op 0
-2020-01-30 19:24:53,561 [7] DEBUG Photon.StarDust.Client.Program - peers: 15, r-ev: 0, ur-ev: 0, r-op: 0, ur-op: 0, res: 0, r-rtt: 0, ur-rtt: 0, rtt: 0, var: 0, flsh-rtt: 0, flsh-ev 0, flsh-op 0
-2020-01-30 19:24:54,562 [5] DEBUG Photon.StarDust.Client.Program - peers: 15, r-ev: 0, ur-ev: 0, r-op: 0, ur-op: 0, res: 0, r-rtt: 0, ur-rtt: 0, rtt: 0, var: 0, flsh-rtt: 0, flsh-ev 0, flsh-op 0
+2020-11-27 17:12:23,543 [1] INFO  Photon.StarDust.Client.Program - Starting 5 games with 3 players
+2020-11-27 17:12:23,721 [7] INFO  Photon.StarDust.Client.ConnectionStates.LoadBalancing.WaitingForGameServerConnect - Connecting to 192.168.0.12:5056
+2020-11-27 17:12:24,146 [5] INFO  Photon.StarDust.Client.Program - [5528] Started game DAVID(5528)1 with 3 clients
+2020-11-27 17:12:24,242 [4] INFO  Photon.StarDust.Client.ConnectionStates.LoadBalancing.WaitingForGameServerConnect - Connecting to 192.168.0.12:5056
+2020-11-27 17:12:24,413 [6] INFO  Photon.StarDust.Client.ConnectionStates.LoadBalancing.WaitingForGameServerConnect - Connecting to 192.168.0.12:5056
+2020-11-27 17:12:24,558 [11] DEBUG Photon.StarDust.Client.Program - peers: 5, r-ev: 9.818197, ur-ev: 0, r-op: 24.00002, ur-op: 0, res: 15.27271, r-rtt: 0, ur-rtt: 0, rtt: 5.333333, var: 37, flsh-rtt: 0, flsh-ev 0, flsh-op 0
+2020-11-27 17:12:24,603 [7] INFO  Photon.StarDust.Client.ConnectionStates.LoadBalancing.WaitingForGameServerConnect - Connecting to 192.168.0.12:5056
+2020-11-27 17:12:24,654 [5] INFO  Photon.StarDust.Client.Program - [5528] Started game DAVID(5528)2 with 3 clients
+2020-11-27 17:12:24,773 [7] INFO  Photon.StarDust.Client.ConnectionStates.LoadBalancing.WaitingForGameServerConnect - Connecting to 192.168.0.12:5056
+2020-11-27 17:12:24,963 [4] INFO  Photon.StarDust.Client.ConnectionStates.LoadBalancing.WaitingForGameServerConnect - Connecting to 192.168.0.12:5056
+2020-11-27 17:12:25,166 [5] INFO  Photon.StarDust.Client.Program - [5528] Started game DAVID(5528)3 with 3 clients
+2020-11-27 17:12:25,168 [35] INFO  Photon.StarDust.Client.ConnectionStates.LoadBalancing.WaitingForGameServerConnect - Connecting to 192.168.0.12:5056
+2020-11-27 17:12:25,259 [39] INFO  Photon.StarDust.Client.ConnectionStates.LoadBalancing.WaitingForGameServerConnect - Connecting to 192.168.0.12:5056
+2020-11-27 17:12:25,446 [37] INFO  Photon.StarDust.Client.ConnectionStates.LoadBalancing.WaitingForGameServerConnect - Connecting to 192.168.0.12:5056
+2020-11-27 17:12:25,570 [7] DEBUG Photon.StarDust.Client.Program - peers: 12, r-ev: 81.90701, ur-ev: 0, r-op: 74.01236, ur-op: 0, res: 23.68395, r-rtt: 43.95454, ur-rtt: 0, rtt: 8.375, var: 24.625, flsh-rtt: 0, flsh-ev 0, flsh-op 0
+2020-11-27 17:12:25,589 [38] INFO  Photon.StarDust.Client.ConnectionStates.LoadBalancing.WaitingForGameServerConnect - Connecting to 192.168.0.12:5056
+2020-11-27 17:12:25,621 [5] INFO  Photon.StarDust.Client.Program - [5528] Started game DAVID(5528)4 with 3 clients
+2020-11-27 17:12:25,741 [37] INFO  Photon.StarDust.Client.ConnectionStates.LoadBalancing.WaitingForGameServerConnect - Connecting to 192.168.0.12:5056
+2020-11-27 17:12:25,975 [4] INFO  Photon.StarDust.Client.ConnectionStates.LoadBalancing.WaitingForGameServerConnect - Connecting to 192.168.0.12:5056
+2020-11-27 17:12:26,030 [5] INFO  Photon.StarDust.Client.Program - [5528] Started game DAVID(5528)5 with 3 clients
+2020-11-27 17:12:26,099 [39] INFO  Photon.StarDust.Client.ConnectionStates.LoadBalancing.WaitingForGameServerConnect - Connecting to 192.168.0.12:5056
+2020-11-27 17:12:26,307 [11] INFO  Photon.StarDust.Client.ConnectionStates.LoadBalancing.WaitingForGameServerConnect - Connecting to 192.168.0.12:5056
+2020-11-27 17:12:26,572 [7] INFO  Photon.StarDust.Client.ConnectionStates.LoadBalancing.WaitingForGameServerConnect - Connecting to 192.168.0.12:5056
+2020-11-27 17:12:26,585 [5] DEBUG Photon.StarDust.Client.Program - peers: 14, r-ev: 178.3413, ur-ev: 0, r-op: 104.443, ur-op: 0, res: 19.70622, r-rtt: 44.21818, ur-rtt: 0, rtt: 9.428572, var: 19.14286, flsh-rtt: 0, flsh-ev 0, flsh-op 0
+2020-11-27 17:12:27,585 [34] DEBUG Photon.StarDust.Client.Program - peers: 15, r-ev: 269.8625, ur-ev: 0, r-op: 143.9266, ur-op: 0, res: 1.998981, r-rtt: 41.7603, ur-rtt: 0, rtt: 16.06667, var: 8.733334, flsh-rtt: 0, flsh-ev 0, flsh-op 0

@@ -73,8 +73,10 @@ namespace MineSweepersPlugins
                 {
                     PluginHost.RemoveActor(info.ActorNr, "Game already started"); return;
                 }
-
-                SyncPlayer(info);
+                PluginHost.CreateOneTimeTimer(
+                    () => SyncPlayer(info),
+                    200);
+                
 
             }
             else
@@ -90,6 +92,7 @@ namespace MineSweepersPlugins
 
         }
 
+
         /// <summary>
         /// Sync player to current game state
         /// </summary>
@@ -97,14 +100,14 @@ namespace MineSweepersPlugins
         protected virtual void SyncPlayer(IJoinGameCallInfo info)
         {
             PluginHost.LogError("Sync player" + info.ActorNr);
-            PluginHost.BroadcastEvent(new List<int> { info.ActorNr }, 0, (byte)Event.GameStart, new Dictionary<byte, object>() { { (byte)0, board.Hight }, { (byte)1, board.Width }, { 2, board.MineCount } }, CacheOperations.DoNotCache);
             
+            PluginHost.BroadcastEvent(new List<int> { info.ActorNr }, 0, (byte)Event.GameStart, new Dictionary<byte, object>() { { (byte)0, board.Hight }, { (byte)1, board.Width }, { 2, board.MineCount } }, CacheOperations.DoNotCache);
+
             foreach (Dictionary<byte, object> dic in board.AllReveald())
                 PluginHost.BroadcastEvent(new List<int> { info.ActorNr }, 0, (byte)Event.SyncFields, dic, CacheOperations.DoNotCache);
 
             foreach (Dictionary<byte, object> dic in board.AllFlags())
                 PluginHost.BroadcastEvent(new List<int> { info.ActorNr }, 0, (byte)Event.SyncFlags, dic, CacheOperations.DoNotCache);
-
         }
 
         public abstract void StartGame();
