@@ -12528,3 +12528,855 @@ Exception System.IO.FileNotFoundException: The system cannot find the file speci
 2020-11-28 22:04:34,424 [25] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 5 , x: 8 , val: 1 , IsIsReveald: True 
 2020-11-28 22:04:35,550 [14] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
 2020-11-28 22:04:36,356 [19] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 2 , x: 7 , val: 1 , IsIsReveald: True 
+2020-12-03 09:33:53,870 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - Setup: serverId=bfc7b56d-9462-4a5f-8156-86279d5cb1e2
+2020-12-03 09:33:53,895 [1] INFO  Photon.Hive.Plugin.PluginManager - Plugin configured: name=MineSweepersPlugins
+2020-12-03 09:33:53,913 [1] INFO  Photon.Hive.Plugin.PluginManager - Loaded Assembly Name=MineSweepersPlugins, Version=1.0.0.0, Culture=, PublicKey token=, Path=C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Plugins\MineSweepersPlugins\1.0.0\bin\MineSweepersPlugins.dll
+2020-12-03 09:33:53,913 [1] INFO  Photon.Hive.Plugin.PluginManager - Referenced Assembly Name=mscorlib, Version=4.0.0.0, Culture=, PublicKey token=B7-7A-5C-56-19-34-E0-89, Path=
+2020-12-03 09:33:53,913 [1] INFO  Photon.Hive.Plugin.PluginManager - Referenced Assembly Name=PhotonHivePlugin, Version=1.0.15.11060, Culture=, PublicKey token=, Path=
+2020-12-03 09:33:53,914 [1] INFO  Photon.Hive.Plugin.PluginManager - Referenced Assembly Name=ExitGamesLibs, Version=1.0.4.0, Culture=, PublicKey token=EA-C0-ED-D9-74-6A-4A-A0, Path=
+2020-12-03 09:33:53,914 [1] INFO  Photon.Hive.Plugin.PluginManager - Referenced Assembly Name=System.Core, Version=4.0.0.0, Culture=, PublicKey token=B7-7A-5C-56-19-34-E0-89, Path=
+2020-12-03 09:33:53,914 [1] INFO  Photon.Hive.Plugin.PluginManager - Plugin Type MineSweepersPlugins.MineSweepersFactory from assembly MineSweepersPlugins, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null was successfuly created
+2020-12-03 09:33:53,915 [1] INFO  Photon.Hive.Plugin.PluginManager - Plugin manager (version=1.0.15.11060) is setup. type=MineSweepersPlugins.MineSweepersFactory;path=C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Plugins\MineSweepersPlugins\1.0.0\bin\MineSweepersPlugins.dll;version=1.0.15.11060
+2020-12-03 09:33:54,018 [1] INFO  Photon.SocketServer.Diagnostics.HttpQueuePerformanceCounters - HTTP Queue performance counters successfully initialized
+2020-12-03 09:33:54,019 [1] INFO  Photon.SocketServer.Diagnostics.HttpQueuePerformanceCounters - Internal HTTP Queue performance counters successfully created
+2020-12-03 09:33:54,023 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - TokenCreator intialized with an expiration of 02:46:40
+2020-12-03 09:33:54,035 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter Business Logic Queue
+2020-12-03 09:33:54,035 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter ENet Queue
+2020-12-03 09:33:54,036 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter bytes in/sec
+2020-12-03 09:33:54,036 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter bytes out/sec
+2020-12-03 09:33:54,036 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter ENet Threads Processing
+2020-12-03 09:33:54,036 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter ENet Threads Active
+2020-12-03 09:33:54,037 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter Time Spent In Server: In (ms)
+2020-12-03 09:33:54,037 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter Time Spent In Server: Out (ms)
+2020-12-03 09:33:54,037 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter TCP: Disconnected Peers +/sec
+2020-12-03 09:33:54,038 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter TCP: Disconnected Peers (C) +/sec
+2020-12-03 09:33:54,038 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter TCP: Peers
+2020-12-03 09:33:54,038 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter UDP: Disconnected Peers +/sec
+2020-12-03 09:33:54,039 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter UDP: Disconnected Peers (C) +/sec
+2020-12-03 09:33:54,039 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter UDP: Peers
+2020-12-03 09:33:54,049 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.FeedbackControlSystem - Could not initialize Feedback Control System from configuration: Invalid configuration file C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Workload.config. Using default settings... (Could not find file 'C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Workload.config'.)
+2020-12-03 09:33:54,057 [1] INFO  Photon.Common.LoadBalancer.ServerStateManager - Watching for application state file in C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\ServerState.txt
+2020-12-03 09:33:54,060 [1] INFO  Photon.Common.LoadBalancer.ServerStateManager - Server state is set to online
+2020-12-03 09:33:54,061 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - Initializing master server connection ...
+2020-12-03 09:33:54,070 [1] INFO  Photon.LoadBalancing.GameServer.MasterServerConnectionBase - Connecting to master at 127.0.0.1:4520, serverId=bfc7b56d-9462-4a5f-8156-86279d5cb1e2
+2020-12-03 09:33:54,092 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=Game; AppPath=C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancing\GameServer, Type=Photon.LoadBalancing.GameServer.GameApplication 
+2020-12-03 09:33:54,098 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher - CounterPublisher started publishing ExitGames.Diagnostics.Monitoring.CounterSamplePublisher to ExitGames.Diagnostics.Monitoring.CounterSampleSender
+2020-12-03 09:33:54,469 [10] INFO  Photon.LoadBalancing.GameServer.MasterServerConnectionBase - Master connection established: address:127.0.0.1
+2020-12-03 09:33:54,470 [10] INFO  Photon.Common.LoadBalancer.ServerStateManager - Server state is set to online
+2020-12-03 09:33:54,474 [10] INFO  Photon.LoadBalancing.GameServer.OutgoingMasterServerPeer - Registering game server with address 192.168.0.12, TCP 4531, UDP 5056, WebSocket 9091, Secure WebSocket 19091, HTTP 80, ServerID bfc7b56d-9462-4a5f-8156-86279d5cb1e2, Hostname localhost, IPv6Address 
+2020-12-03 09:33:54,539 [12] INFO  Photon.LoadBalancing.GameServer.OutgoingMasterServerPeer - Successfully registered at master server: serverId=bfc7b56d-9462-4a5f-8156-86279d5cb1e2
+2020-12-03 09:34:51,230 [18] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - NameMineSweepersVersus
+2020-12-03 09:34:51,231 [18] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-12-03 09:34:51,231 [18] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-12-03 09:34:51,232 [18] INFO  Photon.Hive.Plugin.PluginManager - Plugin successfully created:Type:MineSweepersPlugins.MineSweepersFactory, path:C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Plugins\MineSweepersPlugins\1.0.0\bin\MineSweepersPlugins.dll
+2020-12-03 09:34:51,250 [18] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - OnCreateGame da by user e669805e-2462-4b59-a55a-65800347c21a
+2020-12-03 09:34:51,300 [18] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - GameCreated 15 by 12 with 18 mines. FirstSafe False, endOnExpload False, JoinAfterStart False
+2020-12-03 09:35:06,746 [19] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 3 , x: 3 , val: 10 , IsIsReveald: False 
+2020-12-03 09:35:13,237 [15] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 6 , x: 1 , val: 10 , IsIsReveald: False 
+2020-12-03 09:35:14,237 [12] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 5 , x: 3 , val: 1 , IsIsReveald: False 
+2020-12-03 09:35:36,603 [10] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - NameMineSweepersVersus
+2020-12-03 09:35:36,604 [10] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-12-03 09:35:36,605 [10] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-12-03 09:35:36,605 [10] INFO  Photon.Hive.Plugin.PluginManager - Plugin successfully created:Type:MineSweepersPlugins.MineSweepersFactory, path:C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Plugins\MineSweepersPlugins\1.0.0\bin\MineSweepersPlugins.dll
+2020-12-03 09:35:36,606 [10] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - OnCreateGame fdf by user e669805e-2462-4b59-a55a-65800347c21a
+2020-12-03 09:35:36,607 [10] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - GameCreated 25 by 23 with 57 mines. FirstSafe False, endOnExpload False, JoinAfterStart False
+2020-12-03 09:35:46,102 [26] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 10 , x: 12 , val: 2 , IsIsReveald: False 
+2020-12-03 09:35:47,201 [10] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 9 , x: 8 , val: 2 , IsIsReveald: False 
+2020-12-03 09:35:47,934 [13] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 13 , x: 7 , val: 0 , IsIsReveald: False 
+2020-12-03 09:35:49,437 [26] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-12-03 09:35:50,201 [19] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-12-03 09:35:54,334 [10] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-12-03 09:35:54,934 [25] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 17 , x: 3 , val: 1 , IsIsReveald: True 
+2020-12-03 09:35:56,768 [26] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 14 , x: 4 , val: 1 , IsIsReveald: True 
+2020-12-03 09:35:57,267 [13] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 14 , x: 4 , val: 1 , IsIsReveald: True 
+2020-12-03 09:35:58,991 [25] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-12-03 09:35:59,802 [12] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-12-03 09:36:00,702 [25] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-12-03 09:36:02,134 [13] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-12-03 09:36:02,801 [15] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-12-03 09:36:03,335 [12] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-12-03 09:36:04,401 [13] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-12-03 09:36:04,834 [10] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-12-03 09:46:47,269 [24] INFO  Photon.Common.LoadBalancer.LoadShedding.FeedbackController - Transit CpuUsage from Lowest to Low with input 35
+2020-12-03 09:46:47,270 [24] INFO  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - FeedbackLevel changed: old=Lowest, new=Low
+2020-12-03 09:50:29,721 [19] INFO  Photon.Common.LoadBalancer.LoadShedding.FeedbackController - Transit CpuUsage from Low to Lowest with input 20
+2020-12-03 09:50:29,742 [19] INFO  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - FeedbackLevel changed: old=Low, new=Lowest
+2020-12-03 11:40:37,029 [13] INFO  Photon.Common.LoadBalancer.LoadShedding.FeedbackController - Transit CpuUsage from Lowest to Low with input 35
+2020-12-03 11:40:37,030 [13] INFO  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - FeedbackLevel changed: old=Lowest, new=Low
+2020-12-03 11:40:56,797 [6] INFO  Photon.Common.LoadBalancer.LoadShedding.FeedbackController - Transit CpuUsage from Low to Normal with input 50
+2020-12-03 11:40:56,798 [6] INFO  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - FeedbackLevel changed: old=Low, new=Normal
+2020-12-03 11:41:26,194 [19] INFO  Photon.Common.LoadBalancer.LoadShedding.FeedbackController - Transit CpuUsage from Normal to High with input 70
+2020-12-03 11:41:26,194 [19] INFO  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - FeedbackLevel changed: old=Normal, new=High
+2020-12-03 11:45:17,988 [17] INFO  Photon.Common.LoadBalancer.LoadShedding.FeedbackController - Transit CpuUsage from High to Normal with input 50
+2020-12-03 11:45:17,988 [17] INFO  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - FeedbackLevel changed: old=High, new=Normal
+2020-12-03 12:06:24,115 [17] INFO  Photon.Common.LoadBalancer.LoadShedding.FeedbackController - Transit CpuUsage from Normal to Low with input 35
+2020-12-03 12:06:24,115 [17] INFO  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - FeedbackLevel changed: old=Normal, new=Low
+2020-12-03 12:08:03,896 [6] INFO  Photon.Common.LoadBalancer.LoadShedding.FeedbackController - Transit CpuUsage from Low to Normal with input 50
+2020-12-03 12:08:03,896 [6] INFO  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - FeedbackLevel changed: old=Low, new=Normal
+2020-12-03 12:10:27,917 [19] INFO  Photon.Common.LoadBalancer.LoadShedding.FeedbackController - Transit CpuUsage from Normal to Low with input 35
+2020-12-03 12:10:27,917 [19] INFO  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - FeedbackLevel changed: old=Normal, new=Low
+2020-12-03 12:25:42,258 [6] INFO  Photon.Common.LoadBalancer.LoadShedding.FeedbackController - Transit CpuUsage from Low to Normal with input 50
+2020-12-03 12:25:42,258 [6] INFO  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - FeedbackLevel changed: old=Low, new=Normal
+2020-12-03 12:36:12,631 [6] INFO  Photon.Common.LoadBalancer.LoadShedding.FeedbackController - Transit CpuUsage from Normal to Low with input 35
+2020-12-03 12:36:12,631 [6] INFO  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - FeedbackLevel changed: old=Normal, new=Low
+2020-12-03 12:40:30,442 [17] INFO  Photon.Common.LoadBalancer.LoadShedding.FeedbackController - Transit CpuUsage from Low to Normal with input 50
+2020-12-03 12:40:30,442 [17] INFO  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - FeedbackLevel changed: old=Low, new=Normal
+2020-12-03 13:02:50,956 [18] INFO  Photon.Common.LoadBalancer.LoadShedding.FeedbackController - Transit CpuUsage from Normal to Low with input 35
+2020-12-03 13:02:50,956 [18] INFO  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - FeedbackLevel changed: old=Normal, new=Low
+2020-12-03 15:26:41,519 [11] INFO  Photon.Common.LoadBalancer.LoadShedding.FeedbackController - Transit CpuUsage from Low to Normal with input 50
+2020-12-03 15:26:41,520 [11] INFO  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - FeedbackLevel changed: old=Low, new=Normal
+2020-12-03 15:37:08,083 [27] INFO  Photon.Common.LoadBalancer.LoadShedding.FeedbackController - Transit CpuUsage from Normal to Low with input 35
+2020-12-03 15:37:08,083 [27] INFO  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - FeedbackLevel changed: old=Normal, new=Low
+2020-12-03 17:31:30,660 [16] INFO  Photon.Common.LoadBalancer.LoadShedding.FeedbackController - Transit CpuUsage from Low to Normal with input 50
+2020-12-03 17:31:30,661 [16] INFO  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - FeedbackLevel changed: old=Low, new=Normal
+2020-12-03 17:35:36,456 [6] INFO  Photon.Common.LoadBalancer.LoadShedding.FeedbackController - Transit CpuUsage from Normal to Low with input 35
+2020-12-03 17:35:36,457 [6] INFO  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - FeedbackLevel changed: old=Normal, new=Low
+2020-12-03 19:03:19,348 [19] INFO  Photon.Common.LoadBalancer.LoadShedding.FeedbackController - Transit CpuUsage from Low to Normal with input 50
+2020-12-03 19:03:19,348 [19] INFO  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - FeedbackLevel changed: old=Low, new=Normal
+2020-12-03 19:12:45,489 [17] INFO  Photon.Common.LoadBalancer.LoadShedding.FeedbackController - Transit CpuUsage from Normal to Low with input 35
+2020-12-03 19:12:45,489 [17] INFO  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - FeedbackLevel changed: old=Normal, new=Low
+2020-12-03 22:49:17,301 [4] INFO  Photon.Common.LoadBalancer.LoadShedding.FeedbackController - Transit CpuUsage from Low to Normal with input 50
+2020-12-03 22:49:17,304 [4] INFO  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - FeedbackLevel changed: old=Low, new=Normal
+2020-12-03 23:16:35,008 [16] INFO  Photon.Common.LoadBalancer.LoadShedding.FeedbackController - Transit CpuUsage from Normal to Low with input 35
+2020-12-03 23:16:35,009 [16] INFO  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - FeedbackLevel changed: old=Normal, new=Low
+2020-12-17 10:04:30,825 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - Setup: serverId=8992b88f-37b4-4b91-a6a5-221541e14c4c
+2020-12-17 10:04:30,850 [1] INFO  Photon.Hive.Plugin.PluginManager - Plugin configured: name=MineSweepersPlugins
+2020-12-17 10:04:30,867 [1] INFO  Photon.Hive.Plugin.PluginManager - Loaded Assembly Name=MineSweepersPlugins, Version=1.0.0.0, Culture=, PublicKey token=, Path=C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Plugins\MineSweepersPlugins\1.0.0\bin\MineSweepersPlugins.dll
+2020-12-17 10:04:30,868 [1] INFO  Photon.Hive.Plugin.PluginManager - Referenced Assembly Name=mscorlib, Version=4.0.0.0, Culture=, PublicKey token=B7-7A-5C-56-19-34-E0-89, Path=
+2020-12-17 10:04:30,868 [1] INFO  Photon.Hive.Plugin.PluginManager - Referenced Assembly Name=PhotonHivePlugin, Version=1.0.15.11060, Culture=, PublicKey token=, Path=
+2020-12-17 10:04:30,868 [1] INFO  Photon.Hive.Plugin.PluginManager - Referenced Assembly Name=ExitGamesLibs, Version=1.0.4.0, Culture=, PublicKey token=EA-C0-ED-D9-74-6A-4A-A0, Path=
+2020-12-17 10:04:30,868 [1] INFO  Photon.Hive.Plugin.PluginManager - Referenced Assembly Name=System.Core, Version=4.0.0.0, Culture=, PublicKey token=B7-7A-5C-56-19-34-E0-89, Path=
+2020-12-17 10:04:30,869 [1] INFO  Photon.Hive.Plugin.PluginManager - Plugin Type MineSweepersPlugins.MineSweepersFactory from assembly MineSweepersPlugins, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null was successfuly created
+2020-12-17 10:04:30,869 [1] INFO  Photon.Hive.Plugin.PluginManager - Plugin manager (version=1.0.15.11060) is setup. type=MineSweepersPlugins.MineSweepersFactory;path=C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Plugins\MineSweepersPlugins\1.0.0\bin\MineSweepersPlugins.dll;version=1.0.15.11060
+2020-12-17 10:04:30,973 [1] INFO  Photon.SocketServer.Diagnostics.HttpQueuePerformanceCounters - HTTP Queue performance counters successfully initialized
+2020-12-17 10:04:30,975 [1] INFO  Photon.SocketServer.Diagnostics.HttpQueuePerformanceCounters - Internal HTTP Queue performance counters successfully created
+2020-12-17 10:04:30,979 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - TokenCreator intialized with an expiration of 02:46:40
+2020-12-17 10:04:30,992 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter Business Logic Queue
+2020-12-17 10:04:30,992 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter ENet Queue
+2020-12-17 10:04:30,992 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter bytes in/sec
+2020-12-17 10:04:30,992 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter bytes out/sec
+2020-12-17 10:04:30,993 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter ENet Threads Processing
+2020-12-17 10:04:30,993 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter ENet Threads Active
+2020-12-17 10:04:30,993 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter Time Spent In Server: In (ms)
+2020-12-17 10:04:30,994 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter Time Spent In Server: Out (ms)
+2020-12-17 10:04:30,994 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter TCP: Disconnected Peers +/sec
+2020-12-17 10:04:30,995 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter TCP: Disconnected Peers (C) +/sec
+2020-12-17 10:04:30,995 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter TCP: Peers
+2020-12-17 10:04:30,995 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter UDP: Disconnected Peers +/sec
+2020-12-17 10:04:30,995 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter UDP: Disconnected Peers (C) +/sec
+2020-12-17 10:04:30,996 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter UDP: Peers
+2020-12-17 10:04:31,005 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.FeedbackControlSystem - Could not initialize Feedback Control System from configuration: Invalid configuration file C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Workload.config. Using default settings... (Could not find file 'C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Workload.config'.)
+2020-12-17 10:04:31,014 [1] INFO  Photon.Common.LoadBalancer.ServerStateManager - Watching for application state file in C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\ServerState.txt
+2020-12-17 10:04:31,017 [1] INFO  Photon.Common.LoadBalancer.ServerStateManager - Server state is set to online
+2020-12-17 10:04:31,018 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - Initializing master server connection ...
+2020-12-17 10:04:31,029 [1] INFO  Photon.LoadBalancing.GameServer.MasterServerConnectionBase - Connecting to master at 127.0.0.1:4520, serverId=8992b88f-37b4-4b91-a6a5-221541e14c4c
+2020-12-17 10:04:31,050 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=Game; AppPath=C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancing\GameServer, Type=Photon.LoadBalancing.GameServer.GameApplication 
+2020-12-17 10:04:31,055 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher - CounterPublisher started publishing ExitGames.Diagnostics.Monitoring.CounterSamplePublisher to ExitGames.Diagnostics.Monitoring.CounterSampleSender
+2020-12-17 10:04:31,430 [11] INFO  Photon.LoadBalancing.GameServer.MasterServerConnectionBase - Master connection established: address:127.0.0.1
+2020-12-17 10:04:31,431 [11] INFO  Photon.Common.LoadBalancer.ServerStateManager - Server state is set to online
+2020-12-17 10:04:31,435 [11] INFO  Photon.LoadBalancing.GameServer.OutgoingMasterServerPeer - Registering game server with address 192.168.0.12, TCP 4531, UDP 5056, WebSocket 9091, Secure WebSocket 19091, HTTP 80, ServerID 8992b88f-37b4-4b91-a6a5-221541e14c4c, Hostname localhost, IPv6Address 
+2020-12-17 10:04:31,493 [16] INFO  Photon.LoadBalancing.GameServer.OutgoingMasterServerPeer - Successfully registered at master server: serverId=8992b88f-37b4-4b91-a6a5-221541e14c4c
+2020-12-17 10:05:21,609 [11] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - NameMineSweepersVersus
+2020-12-17 10:05:21,610 [11] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-12-17 10:05:21,610 [11] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-12-17 10:05:21,611 [11] INFO  Photon.Hive.Plugin.PluginManager - Plugin successfully created:Type:MineSweepersPlugins.MineSweepersFactory, path:C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Plugins\MineSweepersPlugins\1.0.0\bin\MineSweepersPlugins.dll
+2020-12-17 10:05:21,631 [11] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - OnCreateGame dsds by user 2e59cce5-d3ea-4e7f-b079-d6f18daf74af
+2020-12-17 10:05:21,684 [11] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - GameCreated 5 by 5 with 2 mines. FirstSafe False, endOnExpload False, JoinAfterStart False
+2020-12-17 10:06:04,551 [12] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - NameMineSweepersVersus
+2020-12-17 10:06:04,551 [12] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-12-17 10:06:04,552 [12] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-12-17 10:06:04,552 [12] INFO  Photon.Hive.Plugin.PluginManager - Plugin successfully created:Type:MineSweepersPlugins.MineSweepersFactory, path:C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Plugins\MineSweepersPlugins\1.0.0\bin\MineSweepersPlugins.dll
+2020-12-17 10:06:04,552 [12] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - OnCreateGame trtr by user 892ab962-def7-4632-ae46-c928d70345bd
+2020-12-17 10:06:04,553 [12] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - GameCreated 5 by 5 with 2 mines. FirstSafe False, endOnExpload False, JoinAfterStart True
+2020-12-17 10:06:06,875 [12] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 2 , x: 2 , val: 10 , IsIsReveald: False 
+2020-12-17 10:10:53,508 [11] INFO  Photon.Common.LoadBalancer.LoadShedding.FeedbackController - Transit CpuUsage from Lowest to Low with input 35
+2020-12-17 10:10:53,508 [11] INFO  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - FeedbackLevel changed: old=Lowest, new=Low
+2020-12-17 10:16:02,340 [20] INFO  Photon.Common.LoadBalancer.LoadShedding.FeedbackController - Transit CpuUsage from Low to Lowest with input 20
+2020-12-17 10:16:02,358 [20] INFO  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - FeedbackLevel changed: old=Low, new=Lowest
+2020-12-17 10:49:28,496 [31] INFO  Photon.Common.LoadBalancer.LoadShedding.FeedbackController - Transit CpuUsage from Lowest to Low with input 35
+2020-12-17 10:49:28,497 [31] INFO  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - FeedbackLevel changed: old=Lowest, new=Low
+2020-12-17 10:49:51,260 [19] INFO  Photon.Common.LoadBalancer.LoadShedding.FeedbackController - Transit CpuUsage from Low to Normal with input 50
+2020-12-17 10:49:51,261 [19] INFO  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - FeedbackLevel changed: old=Low, new=Normal
+2020-12-17 10:50:26,115 [28] INFO  Photon.Common.LoadBalancer.LoadShedding.FeedbackController - Transit CpuUsage from Normal to High with input 70
+2020-12-17 10:50:26,116 [28] INFO  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - FeedbackLevel changed: old=Normal, new=High
+2020-12-17 10:52:51,353 [28] INFO  Photon.Common.LoadBalancer.LoadShedding.FeedbackController - Transit CpuUsage from High to Normal with input 50
+2020-12-17 10:52:51,354 [28] INFO  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - FeedbackLevel changed: old=High, new=Normal
+2020-12-17 10:53:35,649 [31] INFO  Photon.Common.LoadBalancer.LoadShedding.FeedbackController - Transit CpuUsage from Normal to Low with input 35
+2020-12-17 10:53:35,649 [31] INFO  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - FeedbackLevel changed: old=Normal, new=Low
+2020-12-17 10:54:50,228 [20] INFO  Photon.Common.LoadBalancer.LoadShedding.FeedbackController - Transit CpuUsage from Low to Normal with input 50
+2020-12-17 10:54:50,229 [20] INFO  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - FeedbackLevel changed: old=Low, new=Normal
+2020-12-17 10:55:45,071 [19] INFO  Photon.Common.LoadBalancer.LoadShedding.FeedbackController - Transit CpuUsage from Normal to High with input 70
+2020-12-17 10:55:45,072 [19] INFO  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - FeedbackLevel changed: old=Normal, new=High
+2020-12-17 10:58:34,930 [30] INFO  Photon.Common.LoadBalancer.LoadShedding.FeedbackController - Transit CpuUsage from High to Normal with input 50
+2020-12-17 10:58:34,931 [30] INFO  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - FeedbackLevel changed: old=High, new=Normal
+2020-12-17 11:02:15,524 [20] INFO  Photon.Common.LoadBalancer.LoadShedding.FeedbackController - Transit CpuUsage from Normal to Low with input 35
+2020-12-17 11:02:15,524 [20] INFO  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - FeedbackLevel changed: old=Normal, new=Low
+2020-12-17 11:35:51,298 [30] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - NameMineSweepersVersus
+2020-12-17 11:35:51,299 [30] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-12-17 11:35:51,299 [30] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-12-17 11:35:51,299 [30] INFO  Photon.Hive.Plugin.PluginManager - Plugin successfully created:Type:MineSweepersPlugins.MineSweepersFactory, path:C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Plugins\MineSweepersPlugins\1.0.0\bin\MineSweepersPlugins.dll
+2020-12-17 11:35:51,300 [30] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - OnCreateGame fdfd by user 7d06182c-f2e4-4ee9-96b8-86ad487072f4
+2020-12-17 11:35:51,300 [30] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - GameCreated 5 by 5 with 2 mines. FirstSafe False, endOnExpload False, JoinAfterStart True
+2020-12-17 12:07:33,651 [13] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - NameMineSweepersVersus
+2020-12-17 12:07:33,652 [13] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-12-17 12:07:33,652 [13] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-12-17 12:07:33,653 [13] INFO  Photon.Hive.Plugin.PluginManager - Plugin successfully created:Type:MineSweepersPlugins.MineSweepersFactory, path:C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Plugins\MineSweepersPlugins\1.0.0\bin\MineSweepersPlugins.dll
+2020-12-17 12:07:33,654 [13] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - OnCreateGame fefe by user 7d06182c-f2e4-4ee9-96b8-86ad487072f4
+2020-12-17 12:07:33,655 [13] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - GameCreated 5 by 5 with 2 mines. FirstSafe False, endOnExpload False, JoinAfterStart False
+2020-12-17 12:07:55,114 [16] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - Sync player4
+2020-12-17 12:11:17,651 [25] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - NameMineSweepersVersus
+2020-12-17 12:11:17,652 [25] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-12-17 12:11:17,653 [25] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-12-17 12:11:17,654 [25] INFO  Photon.Hive.Plugin.PluginManager - Plugin successfully created:Type:MineSweepersPlugins.MineSweepersFactory, path:C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Plugins\MineSweepersPlugins\1.0.0\bin\MineSweepersPlugins.dll
+2020-12-17 12:11:17,654 [25] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - OnCreateGame dsds by user a8888f4c-18eb-480f-9cbb-94f1616ab118
+2020-12-17 12:11:17,655 [25] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - GameCreated 5 by 5 with 2 mines. FirstSafe False, endOnExpload False, JoinAfterStart False
+2020-12-17 12:11:23,166 [12] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - NameMineSweepersVersus
+2020-12-17 12:11:23,166 [12] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-12-17 12:11:23,167 [12] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-12-17 12:11:23,167 [12] INFO  Photon.Hive.Plugin.PluginManager - Plugin successfully created:Type:MineSweepersPlugins.MineSweepersFactory, path:C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Plugins\MineSweepersPlugins\1.0.0\bin\MineSweepersPlugins.dll
+2020-12-17 12:11:23,167 [12] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - OnCreateGame ds by user a8888f4c-18eb-480f-9cbb-94f1616ab118
+2020-12-17 12:11:23,168 [12] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - GameCreated 5 by 5 with 2 mines. FirstSafe False, endOnExpload False, JoinAfterStart True
+2020-12-17 12:11:26,316 [22] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 2 , x: 4 , val: 0 , IsIsReveald: False 
+2020-12-17 12:20:50,135 [22] INFO  Photon.Common.LoadBalancer.LoadShedding.FeedbackController - Transit CpuUsage from Low to Lowest with input 20
+2020-12-17 12:20:50,136 [22] INFO  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - FeedbackLevel changed: old=Low, new=Lowest
+2020-12-17 12:27:13,371 [20] INFO  Photon.Common.LoadBalancer.LoadShedding.FeedbackController - Transit CpuUsage from Lowest to Low with input 35
+2020-12-17 12:27:13,372 [20] INFO  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - FeedbackLevel changed: old=Lowest, new=Low
+2020-12-17 12:27:55,652 [24] INFO  Photon.Common.LoadBalancer.LoadShedding.FeedbackController - Transit CpuUsage from Low to Lowest with input 20
+2020-12-17 12:27:55,653 [24] INFO  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - FeedbackLevel changed: old=Low, new=Lowest
+2020-12-17 15:13:29,838 [11] WARN  ExitGames.Diagnostics.Monitoring.Protocol.PhotonBinaryWriterBase - SendData: Publishing counter data failed for the 0 time: An invalid argument was supplied
+2020-12-17 15:13:29,844 [11] WARN  Photon.SocketServer.Diagnostics.CounterPublisher - CounterPublisher stopped working because of a network loss
+2020-12-17 15:22:51,154 [30] INFO  Photon.Common.LoadBalancer.LoadShedding.FeedbackController - Transit CpuUsage from Lowest to Low with input 35
+2020-12-17 15:22:51,154 [30] INFO  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - FeedbackLevel changed: old=Lowest, new=Low
+2020-12-17 15:24:37,023 [26] INFO  Photon.Common.LoadBalancer.LoadShedding.FeedbackController - Transit CpuUsage from Low to Lowest with input 20
+2020-12-17 15:24:37,024 [26] INFO  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - FeedbackLevel changed: old=Low, new=Lowest
+2020-12-17 15:26:47,256 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - OnStopRequested: serverid=8992b88f-37b4-4b91-a6a5-221541e14c4c
+2020-12-17 15:26:47,257 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=Game
+2020-12-17 15:26:47,266 [16] INFO  Photon.LoadBalancing.GameServer.OutgoingMasterServerPeer - connection to master closed (id=2, reason=ManagedDisconnect, detail=), serverId=8992b88f-37b4-4b91-a6a5-221541e14c4c
+2020-12-17 15:26:47,281 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - TearDown: serverId=8992b88f-37b4-4b91-a6a5-221541e14c4c
+2020-12-17 15:26:47,283 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=Game
+2020-12-17 15:26:51,920 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - Setup: serverId=43a52c93-ddbb-4db1-ab92-884c2f9977a6
+2020-12-17 15:26:51,947 [1] INFO  Photon.Hive.Plugin.PluginManager - Plugin configured: name=MineSweepersPlugins
+2020-12-17 15:26:51,966 [1] INFO  Photon.Hive.Plugin.PluginManager - Loaded Assembly Name=MineSweepersPlugins, Version=1.0.0.0, Culture=, PublicKey token=, Path=C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Plugins\MineSweepersPlugins\1.0.0\bin\MineSweepersPlugins.dll
+2020-12-17 15:26:51,967 [1] INFO  Photon.Hive.Plugin.PluginManager - Referenced Assembly Name=mscorlib, Version=4.0.0.0, Culture=, PublicKey token=B7-7A-5C-56-19-34-E0-89, Path=
+2020-12-17 15:26:51,967 [1] INFO  Photon.Hive.Plugin.PluginManager - Referenced Assembly Name=PhotonHivePlugin, Version=1.0.15.11060, Culture=, PublicKey token=, Path=
+2020-12-17 15:26:51,967 [1] INFO  Photon.Hive.Plugin.PluginManager - Referenced Assembly Name=ExitGamesLibs, Version=1.0.4.0, Culture=, PublicKey token=EA-C0-ED-D9-74-6A-4A-A0, Path=
+2020-12-17 15:26:51,968 [1] INFO  Photon.Hive.Plugin.PluginManager - Referenced Assembly Name=System.Core, Version=4.0.0.0, Culture=, PublicKey token=B7-7A-5C-56-19-34-E0-89, Path=
+2020-12-17 15:26:51,968 [1] INFO  Photon.Hive.Plugin.PluginManager - Plugin Type MineSweepersPlugins.MineSweepersFactory from assembly MineSweepersPlugins, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null was successfuly created
+2020-12-17 15:26:51,969 [1] INFO  Photon.Hive.Plugin.PluginManager - Plugin manager (version=1.0.15.11060) is setup. type=MineSweepersPlugins.MineSweepersFactory;path=C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Plugins\MineSweepersPlugins\1.0.0\bin\MineSweepersPlugins.dll;version=1.0.15.11060
+2020-12-17 15:26:51,974 [1] INFO  Photon.SocketServer.Diagnostics.HttpQueuePerformanceCounters - User has no Admin rights. HttpQueuePerformanceCounters initialization skipped
+2020-12-17 15:26:51,982 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - TokenCreator intialized with an expiration of 02:46:40
+2020-12-17 15:26:52,091 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter Business Logic Queue
+2020-12-17 15:26:52,091 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter ENet Queue
+2020-12-17 15:26:52,092 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter bytes in/sec
+2020-12-17 15:26:52,093 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter bytes out/sec
+2020-12-17 15:26:52,093 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter ENet Threads Processing
+2020-12-17 15:26:52,094 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter ENet Threads Active
+2020-12-17 15:26:52,094 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter Time Spent In Server: In (ms)
+2020-12-17 15:26:52,095 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter Time Spent In Server: Out (ms)
+2020-12-17 15:26:52,095 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter TCP: Disconnected Peers +/sec
+2020-12-17 15:26:52,095 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter TCP: Disconnected Peers (C) +/sec
+2020-12-17 15:26:52,096 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter TCP: Peers
+2020-12-17 15:26:52,096 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter UDP: Disconnected Peers +/sec
+2020-12-17 15:26:52,097 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter UDP: Disconnected Peers (C) +/sec
+2020-12-17 15:26:52,097 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter UDP: Peers
+2020-12-17 15:26:52,109 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.FeedbackControlSystem - Could not initialize Feedback Control System from configuration: Invalid configuration file C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Workload.config. Using default settings... (Could not find file 'C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Workload.config'.)
+2020-12-17 15:26:52,118 [1] INFO  Photon.Common.LoadBalancer.ServerStateManager - Watching for application state file in C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\ServerState.txt
+2020-12-17 15:26:52,121 [1] INFO  Photon.Common.LoadBalancer.ServerStateManager - Server state is set to online
+2020-12-17 15:26:52,122 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - Initializing master server connection ...
+2020-12-17 15:26:52,134 [1] INFO  Photon.LoadBalancing.GameServer.MasterServerConnectionBase - Connecting to master at 127.0.0.1:4520, serverId=43a52c93-ddbb-4db1-ab92-884c2f9977a6
+2020-12-17 15:26:52,159 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=Game; AppPath=C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancing\GameServer, Type=Photon.LoadBalancing.GameServer.GameApplication 
+2020-12-17 15:26:52,165 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher - CounterPublisher started publishing ExitGames.Diagnostics.Monitoring.CounterSamplePublisher to ExitGames.Diagnostics.Monitoring.CounterSampleSender
+2020-12-17 15:26:52,477 [10] INFO  Photon.LoadBalancing.GameServer.MasterServerConnectionBase - Master connection established: address:127.0.0.1
+2020-12-17 15:26:52,477 [10] INFO  Photon.Common.LoadBalancer.ServerStateManager - Server state is set to online
+2020-12-17 15:26:52,482 [10] INFO  Photon.LoadBalancing.GameServer.OutgoingMasterServerPeer - Registering game server with address 192.168.0.12, TCP 4531, UDP 5056, WebSocket 9091, Secure WebSocket 19091, HTTP 80, ServerID 43a52c93-ddbb-4db1-ab92-884c2f9977a6, Hostname localhost, IPv6Address 
+2020-12-17 15:26:52,562 [11] INFO  Photon.LoadBalancing.GameServer.OutgoingMasterServerPeer - Successfully registered at master server: serverId=43a52c93-ddbb-4db1-ab92-884c2f9977a6
+2020-12-17 15:28:14,215 [22] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - NameMineSweepersVersus
+2020-12-17 15:28:14,217 [22] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-12-17 15:28:14,217 [22] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-12-17 15:28:14,218 [22] INFO  Photon.Hive.Plugin.PluginManager - Plugin successfully created:Type:MineSweepersPlugins.MineSweepersFactory, path:C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Plugins\MineSweepersPlugins\1.0.0\bin\MineSweepersPlugins.dll
+2020-12-17 15:28:14,242 [10] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - OnCreateGame dwdw by user 7d06182c-f2e4-4ee9-96b8-86ad487072f4
+2020-12-17 15:28:14,299 [10] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - GameCreated 5 by 5 with 2 mines. FirstSafe False, endOnExpload False, JoinAfterStart True
+2020-12-17 15:39:50,552 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - OnStopRequested: serverid=43a52c93-ddbb-4db1-ab92-884c2f9977a6
+2020-12-17 15:39:50,553 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=Game
+2020-12-17 15:39:50,556 [23] INFO  Photon.LoadBalancing.GameServer.OutgoingMasterServerPeer - connection to master closed (id=2, reason=ManagedDisconnect, detail=), serverId=43a52c93-ddbb-4db1-ab92-884c2f9977a6
+2020-12-17 15:39:50,573 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - TearDown: serverId=43a52c93-ddbb-4db1-ab92-884c2f9977a6
+2020-12-17 15:39:50,575 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=Game
+2020-12-17 15:39:55,477 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - Setup: serverId=ee124f08-b477-41de-a6ba-4c11d087d6ea
+2020-12-17 15:39:55,506 [1] INFO  Photon.Hive.Plugin.PluginManager - Plugin configured: name=MineSweepersPlugins
+2020-12-17 15:39:55,537 [1] INFO  Photon.Hive.Plugin.PluginManager - Loaded Assembly Name=MineSweepersPlugins, Version=1.0.0.0, Culture=, PublicKey token=, Path=C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Plugins\MineSweepersPlugins\1.0.0\bin\MineSweepersPlugins.dll
+2020-12-17 15:39:55,537 [1] INFO  Photon.Hive.Plugin.PluginManager - Referenced Assembly Name=mscorlib, Version=4.0.0.0, Culture=, PublicKey token=B7-7A-5C-56-19-34-E0-89, Path=
+2020-12-17 15:39:55,538 [1] INFO  Photon.Hive.Plugin.PluginManager - Referenced Assembly Name=PhotonHivePlugin, Version=1.0.15.11060, Culture=, PublicKey token=, Path=
+2020-12-17 15:39:55,538 [1] INFO  Photon.Hive.Plugin.PluginManager - Referenced Assembly Name=ExitGamesLibs, Version=1.0.4.0, Culture=, PublicKey token=EA-C0-ED-D9-74-6A-4A-A0, Path=
+2020-12-17 15:39:55,539 [1] INFO  Photon.Hive.Plugin.PluginManager - Referenced Assembly Name=System.Core, Version=4.0.0.0, Culture=, PublicKey token=B7-7A-5C-56-19-34-E0-89, Path=
+2020-12-17 15:39:55,540 [1] INFO  Photon.Hive.Plugin.PluginManager - Plugin Type MineSweepersPlugins.MineSweepersFactory from assembly MineSweepersPlugins, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null was successfuly created
+2020-12-17 15:39:55,540 [1] INFO  Photon.Hive.Plugin.PluginManager - Plugin manager (version=1.0.15.11060) is setup. type=MineSweepersPlugins.MineSweepersFactory;path=C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Plugins\MineSweepersPlugins\1.0.0\bin\MineSweepersPlugins.dll;version=1.0.15.11060
+2020-12-17 15:39:55,545 [1] INFO  Photon.SocketServer.Diagnostics.HttpQueuePerformanceCounters - User has no Admin rights. HttpQueuePerformanceCounters initialization skipped
+2020-12-17 15:39:55,550 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - TokenCreator intialized with an expiration of 02:46:40
+2020-12-17 15:39:55,673 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter Business Logic Queue
+2020-12-17 15:39:55,674 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter ENet Queue
+2020-12-17 15:39:55,674 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter bytes in/sec
+2020-12-17 15:39:55,675 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter bytes out/sec
+2020-12-17 15:39:55,675 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter ENet Threads Processing
+2020-12-17 15:39:55,676 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter ENet Threads Active
+2020-12-17 15:39:55,676 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter Time Spent In Server: In (ms)
+2020-12-17 15:39:55,677 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter Time Spent In Server: Out (ms)
+2020-12-17 15:39:55,677 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter TCP: Disconnected Peers +/sec
+2020-12-17 15:39:55,678 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter TCP: Disconnected Peers (C) +/sec
+2020-12-17 15:39:55,678 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter TCP: Peers
+2020-12-17 15:39:55,678 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter UDP: Disconnected Peers +/sec
+2020-12-17 15:39:55,681 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter UDP: Disconnected Peers (C) +/sec
+2020-12-17 15:39:55,681 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter UDP: Peers
+2020-12-17 15:39:55,694 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.FeedbackControlSystem - Could not initialize Feedback Control System from configuration: Invalid configuration file C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Workload.config. Using default settings... (Could not find file 'C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Workload.config'.)
+2020-12-17 15:39:55,707 [1] INFO  Photon.Common.LoadBalancer.ServerStateManager - Watching for application state file in C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\ServerState.txt
+2020-12-17 15:39:55,710 [1] INFO  Photon.Common.LoadBalancer.ServerStateManager - Server state is set to online
+2020-12-17 15:39:55,711 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - Initializing master server connection ...
+2020-12-17 15:39:55,724 [1] INFO  Photon.LoadBalancing.GameServer.MasterServerConnectionBase - Connecting to master at 127.0.0.1:4520, serverId=ee124f08-b477-41de-a6ba-4c11d087d6ea
+2020-12-17 15:39:55,749 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=Game; AppPath=C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancing\GameServer, Type=Photon.LoadBalancing.GameServer.GameApplication 
+2020-12-17 15:39:55,756 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher - CounterPublisher started publishing ExitGames.Diagnostics.Monitoring.CounterSamplePublisher to ExitGames.Diagnostics.Monitoring.CounterSampleSender
+2020-12-17 15:39:56,170 [12] INFO  Photon.LoadBalancing.GameServer.MasterServerConnectionBase - Master connection established: address:127.0.0.1
+2020-12-17 15:39:56,171 [12] INFO  Photon.Common.LoadBalancer.ServerStateManager - Server state is set to online
+2020-12-17 15:39:56,176 [12] INFO  Photon.LoadBalancing.GameServer.OutgoingMasterServerPeer - Registering game server with address 192.168.0.12, TCP 4531, UDP 5056, WebSocket 9091, Secure WebSocket 19091, HTTP 80, ServerID ee124f08-b477-41de-a6ba-4c11d087d6ea, Hostname localhost, IPv6Address 
+2020-12-17 15:39:56,261 [10] INFO  Photon.LoadBalancing.GameServer.OutgoingMasterServerPeer - Successfully registered at master server: serverId=ee124f08-b477-41de-a6ba-4c11d087d6ea
+2020-12-17 15:40:12,932 [13] INFO  Photon.Common.LoadBalancer.LoadShedding.FeedbackController - Transit CpuUsage from Lowest to Low with input 35
+2020-12-17 15:40:12,933 [13] INFO  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - FeedbackLevel changed: old=Lowest, new=Low
+2020-12-17 15:40:19,524 [18] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - NameMineSweepersVersus
+2020-12-17 15:40:19,525 [18] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-12-17 15:40:19,526 [18] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-12-17 15:40:19,526 [18] INFO  Photon.Hive.Plugin.PluginManager - Plugin successfully created:Type:MineSweepersPlugins.MineSweepersFactory, path:C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Plugins\MineSweepersPlugins\1.0.0\bin\MineSweepersPlugins.dll
+2020-12-17 15:40:19,572 [18] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - OnCreateGame dwdw by user a8888f4c-18eb-480f-9cbb-94f1616ab118
+2020-12-17 15:40:19,643 [18] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - GameCreated 5 by 5 with 2 mines. FirstSafe False, endOnExpload False, JoinAfterStart True
+2020-12-17 15:41:04,613 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - OnStopRequested: serverid=ee124f08-b477-41de-a6ba-4c11d087d6ea
+2020-12-17 15:41:04,614 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=Game
+2020-12-17 15:41:04,623 [16] INFO  Photon.LoadBalancing.GameServer.OutgoingMasterServerPeer - connection to master closed (id=2, reason=ManagedDisconnect, detail=), serverId=ee124f08-b477-41de-a6ba-4c11d087d6ea
+2020-12-17 15:41:04,647 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - TearDown: serverId=ee124f08-b477-41de-a6ba-4c11d087d6ea
+2020-12-17 15:41:04,649 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=Game
+2020-12-17 15:41:08,117 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - Setup: serverId=f5605873-2670-4a6d-bec7-7d09dbbb3df1
+2020-12-17 15:41:08,149 [1] INFO  Photon.Hive.Plugin.PluginManager - Plugin configured: name=MineSweepersPlugins
+2020-12-17 15:41:08,171 [1] INFO  Photon.Hive.Plugin.PluginManager - Loaded Assembly Name=MineSweepersPlugins, Version=1.0.0.0, Culture=, PublicKey token=, Path=C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Plugins\MineSweepersPlugins\1.0.0\bin\MineSweepersPlugins.dll
+2020-12-17 15:41:08,171 [1] INFO  Photon.Hive.Plugin.PluginManager - Referenced Assembly Name=mscorlib, Version=4.0.0.0, Culture=, PublicKey token=B7-7A-5C-56-19-34-E0-89, Path=
+2020-12-17 15:41:08,172 [1] INFO  Photon.Hive.Plugin.PluginManager - Referenced Assembly Name=PhotonHivePlugin, Version=1.0.15.11060, Culture=, PublicKey token=, Path=
+2020-12-17 15:41:08,172 [1] INFO  Photon.Hive.Plugin.PluginManager - Referenced Assembly Name=ExitGamesLibs, Version=1.0.4.0, Culture=, PublicKey token=EA-C0-ED-D9-74-6A-4A-A0, Path=
+2020-12-17 15:41:08,172 [1] INFO  Photon.Hive.Plugin.PluginManager - Referenced Assembly Name=System.Core, Version=4.0.0.0, Culture=, PublicKey token=B7-7A-5C-56-19-34-E0-89, Path=
+2020-12-17 15:41:08,173 [1] INFO  Photon.Hive.Plugin.PluginManager - Plugin Type MineSweepersPlugins.MineSweepersFactory from assembly MineSweepersPlugins, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null was successfuly created
+2020-12-17 15:41:08,174 [1] INFO  Photon.Hive.Plugin.PluginManager - Plugin manager (version=1.0.15.11060) is setup. type=MineSweepersPlugins.MineSweepersFactory;path=C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Plugins\MineSweepersPlugins\1.0.0\bin\MineSweepersPlugins.dll;version=1.0.15.11060
+2020-12-17 15:41:08,181 [1] INFO  Photon.SocketServer.Diagnostics.HttpQueuePerformanceCounters - User has no Admin rights. HttpQueuePerformanceCounters initialization skipped
+2020-12-17 15:41:08,185 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - TokenCreator intialized with an expiration of 02:46:40
+2020-12-17 15:41:08,301 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter Business Logic Queue
+2020-12-17 15:41:08,301 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter ENet Queue
+2020-12-17 15:41:08,302 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter bytes in/sec
+2020-12-17 15:41:08,302 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter bytes out/sec
+2020-12-17 15:41:08,302 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter ENet Threads Processing
+2020-12-17 15:41:08,303 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter ENet Threads Active
+2020-12-17 15:41:08,303 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter Time Spent In Server: In (ms)
+2020-12-17 15:41:08,304 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter Time Spent In Server: Out (ms)
+2020-12-17 15:41:08,304 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter TCP: Disconnected Peers +/sec
+2020-12-17 15:41:08,305 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter TCP: Disconnected Peers (C) +/sec
+2020-12-17 15:41:08,305 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter TCP: Peers
+2020-12-17 15:41:08,306 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter UDP: Disconnected Peers +/sec
+2020-12-17 15:41:08,306 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter UDP: Disconnected Peers (C) +/sec
+2020-12-17 15:41:08,307 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter UDP: Peers
+2020-12-17 15:41:08,318 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.FeedbackControlSystem - Could not initialize Feedback Control System from configuration: Invalid configuration file C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Workload.config. Using default settings... (Could not find file 'C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Workload.config'.)
+2020-12-17 15:41:08,328 [1] INFO  Photon.Common.LoadBalancer.ServerStateManager - Watching for application state file in C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\ServerState.txt
+2020-12-17 15:41:08,331 [1] INFO  Photon.Common.LoadBalancer.ServerStateManager - Server state is set to online
+2020-12-17 15:41:08,332 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - Initializing master server connection ...
+2020-12-17 15:41:08,344 [1] INFO  Photon.LoadBalancing.GameServer.MasterServerConnectionBase - Connecting to master at 127.0.0.1:4520, serverId=f5605873-2670-4a6d-bec7-7d09dbbb3df1
+2020-12-17 15:41:08,368 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=Game; AppPath=C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancing\GameServer, Type=Photon.LoadBalancing.GameServer.GameApplication 
+2020-12-17 15:41:08,374 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher - CounterPublisher started publishing ExitGames.Diagnostics.Monitoring.CounterSamplePublisher to ExitGames.Diagnostics.Monitoring.CounterSampleSender
+2020-12-17 15:41:08,733 [13] INFO  Photon.LoadBalancing.GameServer.MasterServerConnectionBase - Master connection established: address:127.0.0.1
+2020-12-17 15:41:08,734 [13] INFO  Photon.Common.LoadBalancer.ServerStateManager - Server state is set to online
+2020-12-17 15:41:08,739 [13] INFO  Photon.LoadBalancing.GameServer.OutgoingMasterServerPeer - Registering game server with address 192.168.0.12, TCP 4531, UDP 5056, WebSocket 9091, Secure WebSocket 19091, HTTP 80, ServerID f5605873-2670-4a6d-bec7-7d09dbbb3df1, Hostname localhost, IPv6Address 
+2020-12-17 15:41:08,822 [10] INFO  Photon.LoadBalancing.GameServer.OutgoingMasterServerPeer - Successfully registered at master server: serverId=f5605873-2670-4a6d-bec7-7d09dbbb3df1
+2020-12-17 15:44:28,594 [21] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - NameMineSweepersVersus
+2020-12-17 15:44:28,595 [21] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-12-17 15:44:28,595 [21] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-12-17 15:44:28,596 [21] INFO  Photon.Hive.Plugin.PluginManager - Plugin successfully created:Type:MineSweepersPlugins.MineSweepersFactory, path:C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Plugins\MineSweepersPlugins\1.0.0\bin\MineSweepersPlugins.dll
+2020-12-17 15:44:28,616 [21] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - OnCreateGame 111 by user 7d06182c-f2e4-4ee9-96b8-86ad487072f4
+2020-12-17 15:44:28,667 [21] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - GameCreated 5 by 5 with 2 mines. FirstSafe False, endOnExpload False, JoinAfterStart True
+2020-12-17 15:57:05,572 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - OnStopRequested: serverid=f5605873-2670-4a6d-bec7-7d09dbbb3df1
+2020-12-17 15:57:05,573 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=Game
+2020-12-17 15:57:05,576 [12] INFO  Photon.LoadBalancing.GameServer.OutgoingMasterServerPeer - connection to master closed (id=2, reason=ManagedDisconnect, detail=), serverId=f5605873-2670-4a6d-bec7-7d09dbbb3df1
+2020-12-17 15:57:05,590 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - TearDown: serverId=f5605873-2670-4a6d-bec7-7d09dbbb3df1
+2020-12-17 15:57:05,594 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=Game
+2020-12-17 15:57:09,663 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - Setup: serverId=fee6e0a4-9199-47f5-a95e-1dee3cfc8f5a
+2020-12-17 15:57:09,690 [1] INFO  Photon.Hive.Plugin.PluginManager - Plugin configured: name=MineSweepersPlugins
+2020-12-17 15:57:09,709 [1] INFO  Photon.Hive.Plugin.PluginManager - Loaded Assembly Name=MineSweepersPlugins, Version=1.0.0.0, Culture=, PublicKey token=, Path=C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Plugins\MineSweepersPlugins\1.0.0\bin\MineSweepersPlugins.dll
+2020-12-17 15:57:09,709 [1] INFO  Photon.Hive.Plugin.PluginManager - Referenced Assembly Name=mscorlib, Version=4.0.0.0, Culture=, PublicKey token=B7-7A-5C-56-19-34-E0-89, Path=
+2020-12-17 15:57:09,710 [1] INFO  Photon.Hive.Plugin.PluginManager - Referenced Assembly Name=PhotonHivePlugin, Version=1.0.15.11060, Culture=, PublicKey token=, Path=
+2020-12-17 15:57:09,710 [1] INFO  Photon.Hive.Plugin.PluginManager - Referenced Assembly Name=ExitGamesLibs, Version=1.0.4.0, Culture=, PublicKey token=EA-C0-ED-D9-74-6A-4A-A0, Path=
+2020-12-17 15:57:09,711 [1] INFO  Photon.Hive.Plugin.PluginManager - Referenced Assembly Name=System.Core, Version=4.0.0.0, Culture=, PublicKey token=B7-7A-5C-56-19-34-E0-89, Path=
+2020-12-17 15:57:09,712 [1] INFO  Photon.Hive.Plugin.PluginManager - Plugin Type MineSweepersPlugins.MineSweepersFactory from assembly MineSweepersPlugins, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null was successfuly created
+2020-12-17 15:57:09,712 [1] INFO  Photon.Hive.Plugin.PluginManager - Plugin manager (version=1.0.15.11060) is setup. type=MineSweepersPlugins.MineSweepersFactory;path=C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Plugins\MineSweepersPlugins\1.0.0\bin\MineSweepersPlugins.dll;version=1.0.15.11060
+2020-12-17 15:57:09,717 [1] INFO  Photon.SocketServer.Diagnostics.HttpQueuePerformanceCounters - User has no Admin rights. HttpQueuePerformanceCounters initialization skipped
+2020-12-17 15:57:09,722 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - TokenCreator intialized with an expiration of 02:46:40
+2020-12-17 15:57:09,830 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter Business Logic Queue
+2020-12-17 15:57:09,831 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter ENet Queue
+2020-12-17 15:57:09,831 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter bytes in/sec
+2020-12-17 15:57:09,832 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter bytes out/sec
+2020-12-17 15:57:09,833 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter ENet Threads Processing
+2020-12-17 15:57:09,833 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter ENet Threads Active
+2020-12-17 15:57:09,833 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter Time Spent In Server: In (ms)
+2020-12-17 15:57:09,834 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter Time Spent In Server: Out (ms)
+2020-12-17 15:57:09,835 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter TCP: Disconnected Peers +/sec
+2020-12-17 15:57:09,837 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter TCP: Disconnected Peers (C) +/sec
+2020-12-17 15:57:09,837 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter TCP: Peers
+2020-12-17 15:57:09,838 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter UDP: Disconnected Peers +/sec
+2020-12-17 15:57:09,838 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter UDP: Disconnected Peers (C) +/sec
+2020-12-17 15:57:09,839 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter UDP: Peers
+2020-12-17 15:57:09,849 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.FeedbackControlSystem - Could not initialize Feedback Control System from configuration: Invalid configuration file C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Workload.config. Using default settings... (Could not find file 'C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Workload.config'.)
+2020-12-17 15:57:09,859 [1] INFO  Photon.Common.LoadBalancer.ServerStateManager - Watching for application state file in C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\ServerState.txt
+2020-12-17 15:57:09,862 [1] INFO  Photon.Common.LoadBalancer.ServerStateManager - Server state is set to online
+2020-12-17 15:57:09,863 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - Initializing master server connection ...
+2020-12-17 15:57:09,875 [1] INFO  Photon.LoadBalancing.GameServer.MasterServerConnectionBase - Connecting to master at 127.0.0.1:4520, serverId=fee6e0a4-9199-47f5-a95e-1dee3cfc8f5a
+2020-12-17 15:57:09,902 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=Game; AppPath=C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancing\GameServer, Type=Photon.LoadBalancing.GameServer.GameApplication 
+2020-12-17 15:57:09,909 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher - CounterPublisher started publishing ExitGames.Diagnostics.Monitoring.CounterSamplePublisher to ExitGames.Diagnostics.Monitoring.CounterSampleSender
+2020-12-17 15:57:10,207 [11] INFO  Photon.LoadBalancing.GameServer.MasterServerConnectionBase - Master connection established: address:127.0.0.1
+2020-12-17 15:57:10,207 [11] INFO  Photon.Common.LoadBalancer.ServerStateManager - Server state is set to online
+2020-12-17 15:57:10,212 [11] INFO  Photon.LoadBalancing.GameServer.OutgoingMasterServerPeer - Registering game server with address 192.168.0.12, TCP 4531, UDP 5056, WebSocket 9091, Secure WebSocket 19091, HTTP 80, ServerID fee6e0a4-9199-47f5-a95e-1dee3cfc8f5a, Hostname localhost, IPv6Address 
+2020-12-17 15:57:10,278 [10] INFO  Photon.LoadBalancing.GameServer.OutgoingMasterServerPeer - Successfully registered at master server: serverId=fee6e0a4-9199-47f5-a95e-1dee3cfc8f5a
+2020-12-17 15:57:18,197 [12] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - NameMineSweepersVersus
+2020-12-17 15:57:18,200 [12] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-12-17 15:57:18,200 [12] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-12-17 15:57:18,201 [12] INFO  Photon.Hive.Plugin.PluginManager - Plugin successfully created:Type:MineSweepersPlugins.MineSweepersFactory, path:C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Plugins\MineSweepersPlugins\1.0.0\bin\MineSweepersPlugins.dll
+2020-12-17 15:57:18,220 [12] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - OnCreateGame 323 by user a8888f4c-18eb-480f-9cbb-94f1616ab118
+2020-12-17 15:57:18,273 [12] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - GameCreated 5 by 5 with 2 mines. FirstSafe False, endOnExpload False, JoinAfterStart False
+2020-12-17 16:01:43,574 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - OnStopRequested: serverid=fee6e0a4-9199-47f5-a95e-1dee3cfc8f5a
+2020-12-17 16:01:43,576 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=Game
+2020-12-17 16:01:43,601 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - TearDown: serverId=fee6e0a4-9199-47f5-a95e-1dee3cfc8f5a
+2020-12-17 16:01:43,602 [23] INFO  Photon.LoadBalancing.GameServer.OutgoingMasterServerPeer - connection to master closed (id=2, reason=ManagedDisconnect, detail=), serverId=fee6e0a4-9199-47f5-a95e-1dee3cfc8f5a
+2020-12-17 16:01:43,603 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=Game
+2020-12-17 16:01:46,908 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - Setup: serverId=8f75cf97-8473-433f-9763-a893100d5b7f
+2020-12-17 16:01:46,935 [1] INFO  Photon.Hive.Plugin.PluginManager - Plugin configured: name=MineSweepersPlugins
+2020-12-17 16:01:46,955 [1] INFO  Photon.Hive.Plugin.PluginManager - Loaded Assembly Name=MineSweepersPlugins, Version=1.0.0.0, Culture=, PublicKey token=, Path=C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Plugins\MineSweepersPlugins\1.0.0\bin\MineSweepersPlugins.dll
+2020-12-17 16:01:46,955 [1] INFO  Photon.Hive.Plugin.PluginManager - Referenced Assembly Name=mscorlib, Version=4.0.0.0, Culture=, PublicKey token=B7-7A-5C-56-19-34-E0-89, Path=
+2020-12-17 16:01:46,956 [1] INFO  Photon.Hive.Plugin.PluginManager - Referenced Assembly Name=PhotonHivePlugin, Version=1.0.15.11060, Culture=, PublicKey token=, Path=
+2020-12-17 16:01:46,956 [1] INFO  Photon.Hive.Plugin.PluginManager - Referenced Assembly Name=ExitGamesLibs, Version=1.0.4.0, Culture=, PublicKey token=EA-C0-ED-D9-74-6A-4A-A0, Path=
+2020-12-17 16:01:46,957 [1] INFO  Photon.Hive.Plugin.PluginManager - Referenced Assembly Name=System.Core, Version=4.0.0.0, Culture=, PublicKey token=B7-7A-5C-56-19-34-E0-89, Path=
+2020-12-17 16:01:46,958 [1] INFO  Photon.Hive.Plugin.PluginManager - Plugin Type MineSweepersPlugins.MineSweepersFactory from assembly MineSweepersPlugins, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null was successfuly created
+2020-12-17 16:01:46,958 [1] INFO  Photon.Hive.Plugin.PluginManager - Plugin manager (version=1.0.15.11060) is setup. type=MineSweepersPlugins.MineSweepersFactory;path=C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Plugins\MineSweepersPlugins\1.0.0\bin\MineSweepersPlugins.dll;version=1.0.15.11060
+2020-12-17 16:01:46,963 [1] INFO  Photon.SocketServer.Diagnostics.HttpQueuePerformanceCounters - User has no Admin rights. HttpQueuePerformanceCounters initialization skipped
+2020-12-17 16:01:46,969 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - TokenCreator intialized with an expiration of 02:46:40
+2020-12-17 16:01:47,075 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter Business Logic Queue
+2020-12-17 16:01:47,076 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter ENet Queue
+2020-12-17 16:01:47,077 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter bytes in/sec
+2020-12-17 16:01:47,077 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter bytes out/sec
+2020-12-17 16:01:47,079 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter ENet Threads Processing
+2020-12-17 16:01:47,079 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter ENet Threads Active
+2020-12-17 16:01:47,080 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter Time Spent In Server: In (ms)
+2020-12-17 16:01:47,080 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter Time Spent In Server: Out (ms)
+2020-12-17 16:01:47,081 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter TCP: Disconnected Peers +/sec
+2020-12-17 16:01:47,081 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter TCP: Disconnected Peers (C) +/sec
+2020-12-17 16:01:47,081 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter TCP: Peers
+2020-12-17 16:01:47,082 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter UDP: Disconnected Peers +/sec
+2020-12-17 16:01:47,082 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter UDP: Disconnected Peers (C) +/sec
+2020-12-17 16:01:47,083 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter UDP: Peers
+2020-12-17 16:01:47,095 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.FeedbackControlSystem - Could not initialize Feedback Control System from configuration: Invalid configuration file C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Workload.config. Using default settings... (Could not find file 'C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Workload.config'.)
+2020-12-17 16:01:47,104 [1] INFO  Photon.Common.LoadBalancer.ServerStateManager - Watching for application state file in C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\ServerState.txt
+2020-12-17 16:01:47,107 [1] INFO  Photon.Common.LoadBalancer.ServerStateManager - Server state is set to online
+2020-12-17 16:01:47,109 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - Initializing master server connection ...
+2020-12-17 16:01:47,120 [1] INFO  Photon.LoadBalancing.GameServer.MasterServerConnectionBase - Connecting to master at 127.0.0.1:4520, serverId=8f75cf97-8473-433f-9763-a893100d5b7f
+2020-12-17 16:01:47,144 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=Game; AppPath=C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancing\GameServer, Type=Photon.LoadBalancing.GameServer.GameApplication 
+2020-12-17 16:01:47,150 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher - CounterPublisher started publishing ExitGames.Diagnostics.Monitoring.CounterSamplePublisher to ExitGames.Diagnostics.Monitoring.CounterSampleSender
+2020-12-17 16:01:47,461 [13] INFO  Photon.LoadBalancing.GameServer.MasterServerConnectionBase - Master connection established: address:127.0.0.1
+2020-12-17 16:01:47,462 [13] INFO  Photon.Common.LoadBalancer.ServerStateManager - Server state is set to online
+2020-12-17 16:01:47,468 [13] INFO  Photon.LoadBalancing.GameServer.OutgoingMasterServerPeer - Registering game server with address 192.168.0.12, TCP 4531, UDP 5056, WebSocket 9091, Secure WebSocket 19091, HTTP 80, ServerID 8f75cf97-8473-433f-9763-a893100d5b7f, Hostname localhost, IPv6Address 
+2020-12-17 16:01:47,530 [13] INFO  Photon.LoadBalancing.GameServer.OutgoingMasterServerPeer - Successfully registered at master server: serverId=8f75cf97-8473-433f-9763-a893100d5b7f
+2020-12-17 16:02:17,265 [11] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - NameMineSweepersVersus
+2020-12-17 16:02:17,267 [11] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-12-17 16:02:17,267 [11] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-12-17 16:02:17,268 [11] INFO  Photon.Hive.Plugin.PluginManager - Plugin successfully created:Type:MineSweepersPlugins.MineSweepersFactory, path:C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Plugins\MineSweepersPlugins\1.0.0\bin\MineSweepersPlugins.dll
+2020-12-17 16:02:17,286 [11] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - OnCreateGame ewew by user a8888f4c-18eb-480f-9cbb-94f1616ab118
+2020-12-17 16:02:17,340 [11] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - GameCreated 5 by 5 with 2 mines. FirstSafe False, endOnExpload False, JoinAfterStart True
+2020-12-17 16:02:24,616 [24] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 2 , x: 2 , val: 1 , IsIsReveald: False 
+2020-12-17 16:02:29,866 [11] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - Game is full
+2020-12-17 16:08:05,182 [28] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - NameMineSweepersVersus
+2020-12-17 16:08:05,183 [28] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-12-17 16:08:05,184 [28] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-12-17 16:08:05,187 [28] INFO  Photon.Hive.Plugin.PluginManager - Plugin successfully created:Type:MineSweepersPlugins.MineSweepersFactory, path:C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Plugins\MineSweepersPlugins\1.0.0\bin\MineSweepersPlugins.dll
+2020-12-17 16:08:05,188 [28] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - OnCreateGame 2232 by user a8888f4c-18eb-480f-9cbb-94f1616ab118
+2020-12-17 16:08:05,190 [28] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - GameCreated 5 by 5 with 2 mines. FirstSafe False, endOnExpload False, JoinAfterStart True
+2020-12-17 16:08:45,058 [18] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - NameMineSweepersVersus
+2020-12-17 16:08:45,059 [18] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-12-17 16:08:45,065 [18] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-12-17 16:08:45,066 [18] INFO  Photon.Hive.Plugin.PluginManager - Plugin successfully created:Type:MineSweepersPlugins.MineSweepersFactory, path:C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Plugins\MineSweepersPlugins\1.0.0\bin\MineSweepersPlugins.dll
+2020-12-17 16:08:45,067 [18] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - OnCreateGame 1121 by user b96b004e-920f-4277-91a9-bc10cffb3eac
+2020-12-17 16:08:45,068 [18] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - GameCreated 5 by 5 with 2 mines. FirstSafe False, endOnExpload False, JoinAfterStart True
+2020-12-17 16:09:01,027 [25] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - Game is full
+2020-12-17 16:10:34,886 [32] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - NameMineSweepersVersus
+2020-12-17 16:10:34,887 [32] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-12-17 16:10:34,887 [32] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-12-17 16:10:34,888 [32] INFO  Photon.Hive.Plugin.PluginManager - Plugin successfully created:Type:MineSweepersPlugins.MineSweepersFactory, path:C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Plugins\MineSweepersPlugins\1.0.0\bin\MineSweepersPlugins.dll
+2020-12-17 16:10:34,889 [32] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - OnCreateGame 33 by user c1916e0f-71ba-4853-80ce-a60e9af50aae
+2020-12-17 16:10:34,891 [32] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - GameCreated 5 by 5 with 2 mines. FirstSafe False, endOnExpload False, JoinAfterStart True
+2020-12-17 16:10:51,609 [26] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - Game is full
+2020-12-17 16:14:59,906 [26] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - Game is full
+2020-12-17 16:18:07,570 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - OnStopRequested: serverid=8f75cf97-8473-433f-9763-a893100d5b7f
+2020-12-17 16:18:07,571 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=Game
+2020-12-17 16:18:07,575 [26] INFO  Photon.LoadBalancing.GameServer.OutgoingMasterServerPeer - connection to master closed (id=2, reason=ManagedDisconnect, detail=), serverId=8f75cf97-8473-433f-9763-a893100d5b7f
+2020-12-17 16:18:07,589 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - TearDown: serverId=8f75cf97-8473-433f-9763-a893100d5b7f
+2020-12-17 16:18:07,591 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=Game
+2020-12-17 16:18:11,581 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - Setup: serverId=1cb1c168-32cb-421f-8239-630bf6f96921
+2020-12-17 16:18:11,606 [1] INFO  Photon.Hive.Plugin.PluginManager - Plugin configured: name=MineSweepersPlugins
+2020-12-17 16:18:11,623 [1] INFO  Photon.Hive.Plugin.PluginManager - Loaded Assembly Name=MineSweepersPlugins, Version=1.0.0.0, Culture=, PublicKey token=, Path=C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Plugins\MineSweepersPlugins\1.0.0\bin\MineSweepersPlugins.dll
+2020-12-17 16:18:11,624 [1] INFO  Photon.Hive.Plugin.PluginManager - Referenced Assembly Name=mscorlib, Version=4.0.0.0, Culture=, PublicKey token=B7-7A-5C-56-19-34-E0-89, Path=
+2020-12-17 16:18:11,624 [1] INFO  Photon.Hive.Plugin.PluginManager - Referenced Assembly Name=PhotonHivePlugin, Version=1.0.15.11060, Culture=, PublicKey token=, Path=
+2020-12-17 16:18:11,625 [1] INFO  Photon.Hive.Plugin.PluginManager - Referenced Assembly Name=ExitGamesLibs, Version=1.0.4.0, Culture=, PublicKey token=EA-C0-ED-D9-74-6A-4A-A0, Path=
+2020-12-17 16:18:11,625 [1] INFO  Photon.Hive.Plugin.PluginManager - Referenced Assembly Name=System.Core, Version=4.0.0.0, Culture=, PublicKey token=B7-7A-5C-56-19-34-E0-89, Path=
+2020-12-17 16:18:11,626 [1] INFO  Photon.Hive.Plugin.PluginManager - Plugin Type MineSweepersPlugins.MineSweepersFactory from assembly MineSweepersPlugins, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null was successfuly created
+2020-12-17 16:18:11,627 [1] INFO  Photon.Hive.Plugin.PluginManager - Plugin manager (version=1.0.15.11060) is setup. type=MineSweepersPlugins.MineSweepersFactory;path=C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Plugins\MineSweepersPlugins\1.0.0\bin\MineSweepersPlugins.dll;version=1.0.15.11060
+2020-12-17 16:18:11,631 [1] INFO  Photon.SocketServer.Diagnostics.HttpQueuePerformanceCounters - User has no Admin rights. HttpQueuePerformanceCounters initialization skipped
+2020-12-17 16:18:11,636 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - TokenCreator intialized with an expiration of 02:46:40
+2020-12-17 16:18:11,739 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter Business Logic Queue
+2020-12-17 16:18:11,739 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter ENet Queue
+2020-12-17 16:18:11,740 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter bytes in/sec
+2020-12-17 16:18:11,740 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter bytes out/sec
+2020-12-17 16:18:11,741 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter ENet Threads Processing
+2020-12-17 16:18:11,741 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter ENet Threads Active
+2020-12-17 16:18:11,743 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter Time Spent In Server: In (ms)
+2020-12-17 16:18:11,744 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter Time Spent In Server: Out (ms)
+2020-12-17 16:18:11,745 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter TCP: Disconnected Peers +/sec
+2020-12-17 16:18:11,745 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter TCP: Disconnected Peers (C) +/sec
+2020-12-17 16:18:11,746 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter TCP: Peers
+2020-12-17 16:18:11,746 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter UDP: Disconnected Peers +/sec
+2020-12-17 16:18:11,747 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter UDP: Disconnected Peers (C) +/sec
+2020-12-17 16:18:11,747 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter UDP: Peers
+2020-12-17 16:18:11,757 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.FeedbackControlSystem - Could not initialize Feedback Control System from configuration: Invalid configuration file C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Workload.config. Using default settings... (Could not find file 'C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Workload.config'.)
+2020-12-17 16:18:11,766 [1] INFO  Photon.Common.LoadBalancer.ServerStateManager - Watching for application state file in C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\ServerState.txt
+2020-12-17 16:18:11,769 [1] INFO  Photon.Common.LoadBalancer.ServerStateManager - Server state is set to online
+2020-12-17 16:18:11,770 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - Initializing master server connection ...
+2020-12-17 16:18:11,781 [1] INFO  Photon.LoadBalancing.GameServer.MasterServerConnectionBase - Connecting to master at 127.0.0.1:4520, serverId=1cb1c168-32cb-421f-8239-630bf6f96921
+2020-12-17 16:18:11,802 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=Game; AppPath=C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancing\GameServer, Type=Photon.LoadBalancing.GameServer.GameApplication 
+2020-12-17 16:18:11,808 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher - CounterPublisher started publishing ExitGames.Diagnostics.Monitoring.CounterSamplePublisher to ExitGames.Diagnostics.Monitoring.CounterSampleSender
+2020-12-17 16:18:12,086 [12] INFO  Photon.LoadBalancing.GameServer.MasterServerConnectionBase - Master connection established: address:127.0.0.1
+2020-12-17 16:18:12,087 [12] INFO  Photon.Common.LoadBalancer.ServerStateManager - Server state is set to online
+2020-12-17 16:18:12,092 [11] INFO  Photon.LoadBalancing.GameServer.OutgoingMasterServerPeer - Registering game server with address 192.168.0.12, TCP 4531, UDP 5056, WebSocket 9091, Secure WebSocket 19091, HTTP 80, ServerID 1cb1c168-32cb-421f-8239-630bf6f96921, Hostname localhost, IPv6Address 
+2020-12-17 16:18:12,147 [10] INFO  Photon.LoadBalancing.GameServer.OutgoingMasterServerPeer - Successfully registered at master server: serverId=1cb1c168-32cb-421f-8239-630bf6f96921
+2020-12-17 16:18:42,685 [11] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - NameMineSweepersVersus
+2020-12-17 16:18:42,687 [11] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-12-17 16:18:42,687 [11] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-12-17 16:18:42,687 [11] INFO  Photon.Hive.Plugin.PluginManager - Plugin successfully created:Type:MineSweepersPlugins.MineSweepersFactory, path:C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Plugins\MineSweepersPlugins\1.0.0\bin\MineSweepersPlugins.dll
+2020-12-17 16:18:42,706 [11] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - OnCreateGame 3232 by user c1916e0f-71ba-4853-80ce-a60e9af50aae
+2020-12-17 16:18:42,760 [11] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - GameCreated 5 by 5 with 2 mines. FirstSafe False, endOnExpload False, JoinAfterStart False
+2020-12-17 16:21:05,141 [20] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 2 , x: 1 , val: 0 , IsIsReveald: False 
+2020-12-17 16:21:06,057 [22] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-12-17 16:21:06,652 [20] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-12-17 16:21:07,446 [23] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 4 , x: 3 , val: 1 , IsIsReveald: True 
+2020-12-17 16:22:23,383 [19] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - NameMineSweepersVersus
+2020-12-17 16:22:23,384 [19] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-12-17 16:22:23,385 [19] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-12-17 16:22:23,386 [19] INFO  Photon.Hive.Plugin.PluginManager - Plugin successfully created:Type:MineSweepersPlugins.MineSweepersFactory, path:C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Plugins\MineSweepersPlugins\1.0.0\bin\MineSweepersPlugins.dll
+2020-12-17 16:22:23,389 [19] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - OnCreateGame fefe by user 335a074a-b9ad-4f4a-862b-0df98c7ab0d4
+2020-12-17 16:22:23,390 [19] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - GameCreated 5 by 5 with 2 mines. FirstSafe False, endOnExpload False, JoinAfterStart False
+2020-12-17 16:22:40,002 [10] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 2 , x: 1 , val: 0 , IsIsReveald: False 
+2020-12-17 16:22:41,014 [22] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-12-17 16:22:41,914 [22] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 1 , x: 3 , val: 1 , IsIsReveald: True 
+2020-12-17 16:22:42,546 [10] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-12-17 16:22:43,046 [23] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 1 , x: 0 , val: 1 , IsIsReveald: True 
+2020-12-17 16:22:51,147 [11] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - NameMineSweepersVersus
+2020-12-17 16:22:51,148 [11] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-12-17 16:22:51,149 [11] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-12-17 16:22:51,150 [11] INFO  Photon.Hive.Plugin.PluginManager - Plugin successfully created:Type:MineSweepersPlugins.MineSweepersFactory, path:C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Plugins\MineSweepersPlugins\1.0.0\bin\MineSweepersPlugins.dll
+2020-12-17 16:22:51,151 [11] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - OnCreateGame rere by user 928ccc59-64e9-460a-afa6-9c36405d883a
+2020-12-17 16:22:51,155 [11] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - GameCreated 5 by 5 with 2 mines. FirstSafe False, endOnExpload False, JoinAfterStart True
+2020-12-17 16:23:01,462 [23] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 1 , x: 2 , val: 1 , IsIsReveald: False 
+2020-12-17 16:23:05,701 [19] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - Game is full
+2020-12-17 16:23:05,716 [19] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - UnhandledException:'Name:MineSweepersVersus, Version:1.0 AppId:827A-68F6-0482-0D25-3728-48B8, AppVersion:'. Exception: System.Exception: Already called Continue/Fail/Cancel.
+   at Photon.Hive.Plugin.CallInfo.Fail(String msg, Dictionary`2 errorData)
+   at MineSweepersPlugins.MineSweepersPlugin.BeforeJoin(IBeforeJoinGameCallInfo info) in C:\Users\Admin\Documents\MineSweepersServer\MineSweeperPlugins\MineSweeperPlugins\MineSweepersPlugin.cs:line 62
+   at Photon.Hive.Plugin.PluginBase.Photon.Hive.Plugin.IGamePlugin.BeforeJoin(IBeforeJoinGameCallInfo info)
+2020-12-17 16:24:13,566 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - OnStopRequested: serverid=1cb1c168-32cb-421f-8239-630bf6f96921
+2020-12-17 16:24:13,567 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=Game
+2020-12-17 16:24:13,571 [11] INFO  Photon.LoadBalancing.GameServer.OutgoingMasterServerPeer - connection to master closed (id=2, reason=ManagedDisconnect, detail=), serverId=1cb1c168-32cb-421f-8239-630bf6f96921
+2020-12-17 16:24:13,586 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - TearDown: serverId=1cb1c168-32cb-421f-8239-630bf6f96921
+2020-12-17 16:24:13,589 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=Game
+2020-12-17 16:24:17,687 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - Setup: serverId=750eb83b-5e4c-4c8e-bd91-06cdfbbaad92
+2020-12-17 16:24:17,714 [1] INFO  Photon.Hive.Plugin.PluginManager - Plugin configured: name=MineSweepersPlugins
+2020-12-17 16:24:17,733 [1] INFO  Photon.Hive.Plugin.PluginManager - Loaded Assembly Name=MineSweepersPlugins, Version=1.0.0.0, Culture=, PublicKey token=, Path=C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Plugins\MineSweepersPlugins\1.0.0\bin\MineSweepersPlugins.dll
+2020-12-17 16:24:17,733 [1] INFO  Photon.Hive.Plugin.PluginManager - Referenced Assembly Name=mscorlib, Version=4.0.0.0, Culture=, PublicKey token=B7-7A-5C-56-19-34-E0-89, Path=
+2020-12-17 16:24:17,733 [1] INFO  Photon.Hive.Plugin.PluginManager - Referenced Assembly Name=PhotonHivePlugin, Version=1.0.15.11060, Culture=, PublicKey token=, Path=
+2020-12-17 16:24:17,734 [1] INFO  Photon.Hive.Plugin.PluginManager - Referenced Assembly Name=ExitGamesLibs, Version=1.0.4.0, Culture=, PublicKey token=EA-C0-ED-D9-74-6A-4A-A0, Path=
+2020-12-17 16:24:17,735 [1] INFO  Photon.Hive.Plugin.PluginManager - Referenced Assembly Name=System.Core, Version=4.0.0.0, Culture=, PublicKey token=B7-7A-5C-56-19-34-E0-89, Path=
+2020-12-17 16:24:17,736 [1] INFO  Photon.Hive.Plugin.PluginManager - Plugin Type MineSweepersPlugins.MineSweepersFactory from assembly MineSweepersPlugins, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null was successfuly created
+2020-12-17 16:24:17,737 [1] INFO  Photon.Hive.Plugin.PluginManager - Plugin manager (version=1.0.15.11060) is setup. type=MineSweepersPlugins.MineSweepersFactory;path=C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Plugins\MineSweepersPlugins\1.0.0\bin\MineSweepersPlugins.dll;version=1.0.15.11060
+2020-12-17 16:24:17,742 [1] INFO  Photon.SocketServer.Diagnostics.HttpQueuePerformanceCounters - User has no Admin rights. HttpQueuePerformanceCounters initialization skipped
+2020-12-17 16:24:17,747 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - TokenCreator intialized with an expiration of 02:46:40
+2020-12-17 16:24:17,856 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter Business Logic Queue
+2020-12-17 16:24:17,857 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter ENet Queue
+2020-12-17 16:24:17,857 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter bytes in/sec
+2020-12-17 16:24:17,858 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter bytes out/sec
+2020-12-17 16:24:17,859 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter ENet Threads Processing
+2020-12-17 16:24:17,859 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter ENet Threads Active
+2020-12-17 16:24:17,860 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter Time Spent In Server: In (ms)
+2020-12-17 16:24:17,860 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter Time Spent In Server: Out (ms)
+2020-12-17 16:24:17,861 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter TCP: Disconnected Peers +/sec
+2020-12-17 16:24:17,861 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter TCP: Disconnected Peers (C) +/sec
+2020-12-17 16:24:17,862 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter TCP: Peers
+2020-12-17 16:24:17,862 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter UDP: Disconnected Peers +/sec
+2020-12-17 16:24:17,862 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter UDP: Disconnected Peers (C) +/sec
+2020-12-17 16:24:17,863 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter UDP: Peers
+2020-12-17 16:24:17,874 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.FeedbackControlSystem - Could not initialize Feedback Control System from configuration: Invalid configuration file C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Workload.config. Using default settings... (Could not find file 'C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Workload.config'.)
+2020-12-17 16:24:17,883 [1] INFO  Photon.Common.LoadBalancer.ServerStateManager - Watching for application state file in C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\ServerState.txt
+2020-12-17 16:24:17,886 [1] INFO  Photon.Common.LoadBalancer.ServerStateManager - Server state is set to online
+2020-12-17 16:24:17,887 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - Initializing master server connection ...
+2020-12-17 16:24:17,898 [1] INFO  Photon.LoadBalancing.GameServer.MasterServerConnectionBase - Connecting to master at 127.0.0.1:4520, serverId=750eb83b-5e4c-4c8e-bd91-06cdfbbaad92
+2020-12-17 16:24:17,921 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=Game; AppPath=C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancing\GameServer, Type=Photon.LoadBalancing.GameServer.GameApplication 
+2020-12-17 16:24:17,927 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher - CounterPublisher started publishing ExitGames.Diagnostics.Monitoring.CounterSamplePublisher to ExitGames.Diagnostics.Monitoring.CounterSampleSender
+2020-12-17 16:24:18,218 [11] INFO  Photon.LoadBalancing.GameServer.MasterServerConnectionBase - Master connection established: address:127.0.0.1
+2020-12-17 16:24:18,219 [11] INFO  Photon.Common.LoadBalancer.ServerStateManager - Server state is set to online
+2020-12-17 16:24:18,223 [13] INFO  Photon.LoadBalancing.GameServer.OutgoingMasterServerPeer - Registering game server with address 192.168.0.12, TCP 4531, UDP 5056, WebSocket 9091, Secure WebSocket 19091, HTTP 80, ServerID 750eb83b-5e4c-4c8e-bd91-06cdfbbaad92, Hostname localhost, IPv6Address 
+2020-12-17 16:24:18,296 [11] INFO  Photon.LoadBalancing.GameServer.OutgoingMasterServerPeer - Successfully registered at master server: serverId=750eb83b-5e4c-4c8e-bd91-06cdfbbaad92
+2020-12-17 16:24:23,635 [14] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - NameMineSweepersVersus
+2020-12-17 16:24:23,637 [14] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-12-17 16:24:23,639 [14] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-12-17 16:24:23,640 [14] INFO  Photon.Hive.Plugin.PluginManager - Plugin successfully created:Type:MineSweepersPlugins.MineSweepersFactory, path:C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Plugins\MineSweepersPlugins\1.0.0\bin\MineSweepersPlugins.dll
+2020-12-17 16:24:23,658 [14] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - OnCreateGame fef by user 928ccc59-64e9-460a-afa6-9c36405d883a
+2020-12-17 16:24:23,708 [14] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - GameCreated 5 by 5 with 2 mines. FirstSafe False, endOnExpload False, JoinAfterStart True
+2020-12-17 16:24:31,189 [21] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - NameMineSweepersVersus
+2020-12-17 16:24:31,190 [21] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-12-17 16:24:31,191 [21] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-12-17 16:24:31,192 [21] INFO  Photon.Hive.Plugin.PluginManager - Plugin successfully created:Type:MineSweepersPlugins.MineSweepersFactory, path:C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Plugins\MineSweepersPlugins\1.0.0\bin\MineSweepersPlugins.dll
+2020-12-17 16:24:31,193 [21] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - OnCreateGame 111 by user 928ccc59-64e9-460a-afa6-9c36405d883a
+2020-12-17 16:24:31,194 [21] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - GameCreated 5 by 5 with 2 mines. FirstSafe False, endOnExpload False, JoinAfterStart True
+2020-12-17 16:24:36,053 [12] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - MissingCallProcessing for type:Photon.Hive.Plugin.BeforeJoinGameCallInfo in Plugin:'Name:MineSweepersVersus, Version:1.0 AppId:827A-68F6-0482-0D25-3728-48B8, AppVersion:'.
+2020-12-17 16:24:36,060 [12] WARN  Photon.Hive.HiveHostGame - OnJoinFailHandler: Game '111' userId '335a074a-b9ad-4f4a-862b-0df98c7ab0d4' failed to join. msg:none of Photon.Hive.Plugin.BeforeJoinGameCallInfo's method were called -- peer:GameClientPeer: PID 6, IsConnected: True, IsDisposed: False, Last Activity: Operation 226 at UTC 12/17/2020 3:24:36 PM in Room 111, IP 192.168.0.12:64474, 
+2020-12-17 16:25:19,306 [25] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - NameMineSweepersVersus
+2020-12-17 16:25:19,309 [25] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-12-17 16:25:19,311 [25] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-12-17 16:25:19,311 [25] INFO  Photon.Hive.Plugin.PluginManager - Plugin successfully created:Type:MineSweepersPlugins.MineSweepersFactory, path:C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Plugins\MineSweepersPlugins\1.0.0\bin\MineSweepersPlugins.dll
+2020-12-17 16:25:19,312 [25] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - OnCreateGame ree by user 928ccc59-64e9-460a-afa6-9c36405d883a
+2020-12-17 16:25:19,313 [25] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - GameCreated 5 by 5 with 2 mines. FirstSafe False, endOnExpload False, JoinAfterStart True
+2020-12-17 16:25:30,348 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - OnStopRequested: serverid=750eb83b-5e4c-4c8e-bd91-06cdfbbaad92
+2020-12-17 16:25:30,350 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=Game
+2020-12-17 16:25:30,353 [24] INFO  Photon.LoadBalancing.GameServer.OutgoingMasterServerPeer - connection to master closed (id=2, reason=ManagedDisconnect, detail=), serverId=750eb83b-5e4c-4c8e-bd91-06cdfbbaad92
+2020-12-17 16:25:30,368 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - TearDown: serverId=750eb83b-5e4c-4c8e-bd91-06cdfbbaad92
+2020-12-17 16:25:30,370 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=Game
+2020-12-17 16:25:33,455 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - Setup: serverId=b97d3e2d-a8ae-4f7c-9e65-4101c63e6f5c
+2020-12-17 16:25:33,480 [1] INFO  Photon.Hive.Plugin.PluginManager - Plugin configured: name=MineSweepersPlugins
+2020-12-17 16:25:33,499 [1] INFO  Photon.Hive.Plugin.PluginManager - Loaded Assembly Name=MineSweepersPlugins, Version=1.0.0.0, Culture=, PublicKey token=, Path=C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Plugins\MineSweepersPlugins\1.0.0\bin\MineSweepersPlugins.dll
+2020-12-17 16:25:33,500 [1] INFO  Photon.Hive.Plugin.PluginManager - Referenced Assembly Name=mscorlib, Version=4.0.0.0, Culture=, PublicKey token=B7-7A-5C-56-19-34-E0-89, Path=
+2020-12-17 16:25:33,500 [1] INFO  Photon.Hive.Plugin.PluginManager - Referenced Assembly Name=PhotonHivePlugin, Version=1.0.15.11060, Culture=, PublicKey token=, Path=
+2020-12-17 16:25:33,500 [1] INFO  Photon.Hive.Plugin.PluginManager - Referenced Assembly Name=ExitGamesLibs, Version=1.0.4.0, Culture=, PublicKey token=EA-C0-ED-D9-74-6A-4A-A0, Path=
+2020-12-17 16:25:33,501 [1] INFO  Photon.Hive.Plugin.PluginManager - Referenced Assembly Name=System.Core, Version=4.0.0.0, Culture=, PublicKey token=B7-7A-5C-56-19-34-E0-89, Path=
+2020-12-17 16:25:33,502 [1] INFO  Photon.Hive.Plugin.PluginManager - Plugin Type MineSweepersPlugins.MineSweepersFactory from assembly MineSweepersPlugins, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null was successfuly created
+2020-12-17 16:25:33,502 [1] INFO  Photon.Hive.Plugin.PluginManager - Plugin manager (version=1.0.15.11060) is setup. type=MineSweepersPlugins.MineSweepersFactory;path=C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Plugins\MineSweepersPlugins\1.0.0\bin\MineSweepersPlugins.dll;version=1.0.15.11060
+2020-12-17 16:25:33,506 [1] INFO  Photon.SocketServer.Diagnostics.HttpQueuePerformanceCounters - User has no Admin rights. HttpQueuePerformanceCounters initialization skipped
+2020-12-17 16:25:33,511 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - TokenCreator intialized with an expiration of 02:46:40
+2020-12-17 16:25:33,616 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter Business Logic Queue
+2020-12-17 16:25:33,617 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter ENet Queue
+2020-12-17 16:25:33,617 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter bytes in/sec
+2020-12-17 16:25:33,618 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter bytes out/sec
+2020-12-17 16:25:33,618 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter ENet Threads Processing
+2020-12-17 16:25:33,619 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter ENet Threads Active
+2020-12-17 16:25:33,619 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter Time Spent In Server: In (ms)
+2020-12-17 16:25:33,620 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter Time Spent In Server: Out (ms)
+2020-12-17 16:25:33,620 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter TCP: Disconnected Peers +/sec
+2020-12-17 16:25:33,622 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter TCP: Disconnected Peers (C) +/sec
+2020-12-17 16:25:33,623 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter TCP: Peers
+2020-12-17 16:25:33,623 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter UDP: Disconnected Peers +/sec
+2020-12-17 16:25:33,624 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter UDP: Disconnected Peers (C) +/sec
+2020-12-17 16:25:33,624 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter UDP: Peers
+2020-12-17 16:25:33,635 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.FeedbackControlSystem - Could not initialize Feedback Control System from configuration: Invalid configuration file C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Workload.config. Using default settings... (Could not find file 'C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Workload.config'.)
+2020-12-17 16:25:33,644 [1] INFO  Photon.Common.LoadBalancer.ServerStateManager - Watching for application state file in C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\ServerState.txt
+2020-12-17 16:25:33,647 [1] INFO  Photon.Common.LoadBalancer.ServerStateManager - Server state is set to online
+2020-12-17 16:25:33,648 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - Initializing master server connection ...
+2020-12-17 16:25:33,658 [1] INFO  Photon.LoadBalancing.GameServer.MasterServerConnectionBase - Connecting to master at 127.0.0.1:4520, serverId=b97d3e2d-a8ae-4f7c-9e65-4101c63e6f5c
+2020-12-17 16:25:33,680 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=Game; AppPath=C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancing\GameServer, Type=Photon.LoadBalancing.GameServer.GameApplication 
+2020-12-17 16:25:33,687 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher - CounterPublisher started publishing ExitGames.Diagnostics.Monitoring.CounterSamplePublisher to ExitGames.Diagnostics.Monitoring.CounterSampleSender
+2020-12-17 16:25:33,975 [10] INFO  Photon.LoadBalancing.GameServer.MasterServerConnectionBase - Master connection established: address:127.0.0.1
+2020-12-17 16:25:33,976 [10] INFO  Photon.Common.LoadBalancer.ServerStateManager - Server state is set to online
+2020-12-17 16:25:33,981 [10] INFO  Photon.LoadBalancing.GameServer.OutgoingMasterServerPeer - Registering game server with address 192.168.0.12, TCP 4531, UDP 5056, WebSocket 9091, Secure WebSocket 19091, HTTP 80, ServerID b97d3e2d-a8ae-4f7c-9e65-4101c63e6f5c, Hostname localhost, IPv6Address 
+2020-12-17 16:25:34,049 [12] INFO  Photon.LoadBalancing.GameServer.OutgoingMasterServerPeer - Successfully registered at master server: serverId=b97d3e2d-a8ae-4f7c-9e65-4101c63e6f5c
+2020-12-17 16:25:42,433 [13] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - NameMineSweepersVersus
+2020-12-17 16:25:42,434 [13] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-12-17 16:25:42,435 [13] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-12-17 16:25:42,436 [13] INFO  Photon.Hive.Plugin.PluginManager - Plugin successfully created:Type:MineSweepersPlugins.MineSweepersFactory, path:C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Plugins\MineSweepersPlugins\1.0.0\bin\MineSweepersPlugins.dll
+2020-12-17 16:25:42,455 [13] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - OnCreateGame eee by user 928ccc59-64e9-460a-afa6-9c36405d883a
+2020-12-17 16:25:42,506 [13] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - GameCreated 5 by 5 with 2 mines. FirstSafe False, endOnExpload False, JoinAfterStart True
+2020-12-17 16:25:50,683 [11] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - Game is full
+2020-12-17 16:26:02,750 [10] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - Game is full
+2020-12-17 16:28:28,931 [29] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - Game is full
+2020-12-17 16:31:40,557 [27] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - Game is full
+2020-12-17 16:33:36,412 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - OnStopRequested: serverid=b97d3e2d-a8ae-4f7c-9e65-4101c63e6f5c
+2020-12-17 16:33:36,414 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=Game
+2020-12-17 16:33:36,421 [26] INFO  Photon.LoadBalancing.GameServer.OutgoingMasterServerPeer - connection to master closed (id=2, reason=ManagedDisconnect, detail=), serverId=b97d3e2d-a8ae-4f7c-9e65-4101c63e6f5c
+2020-12-17 16:33:36,431 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - TearDown: serverId=b97d3e2d-a8ae-4f7c-9e65-4101c63e6f5c
+2020-12-17 16:33:36,436 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=Game
+2020-12-17 16:33:40,619 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - Setup: serverId=33863ad8-1ab9-498b-8c51-964888917209
+2020-12-17 16:33:40,645 [1] INFO  Photon.Hive.Plugin.PluginManager - Plugin configured: name=MineSweepersPlugins
+2020-12-17 16:33:40,663 [1] INFO  Photon.Hive.Plugin.PluginManager - Loaded Assembly Name=MineSweepersPlugins, Version=1.0.0.0, Culture=, PublicKey token=, Path=C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Plugins\MineSweepersPlugins\1.0.0\bin\MineSweepersPlugins.dll
+2020-12-17 16:33:40,664 [1] INFO  Photon.Hive.Plugin.PluginManager - Referenced Assembly Name=mscorlib, Version=4.0.0.0, Culture=, PublicKey token=B7-7A-5C-56-19-34-E0-89, Path=
+2020-12-17 16:33:40,664 [1] INFO  Photon.Hive.Plugin.PluginManager - Referenced Assembly Name=PhotonHivePlugin, Version=1.0.15.11060, Culture=, PublicKey token=, Path=
+2020-12-17 16:33:40,665 [1] INFO  Photon.Hive.Plugin.PluginManager - Referenced Assembly Name=ExitGamesLibs, Version=1.0.4.0, Culture=, PublicKey token=EA-C0-ED-D9-74-6A-4A-A0, Path=
+2020-12-17 16:33:40,665 [1] INFO  Photon.Hive.Plugin.PluginManager - Referenced Assembly Name=System.Core, Version=4.0.0.0, Culture=, PublicKey token=B7-7A-5C-56-19-34-E0-89, Path=
+2020-12-17 16:33:40,666 [1] INFO  Photon.Hive.Plugin.PluginManager - Plugin Type MineSweepersPlugins.MineSweepersFactory from assembly MineSweepersPlugins, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null was successfuly created
+2020-12-17 16:33:40,666 [1] INFO  Photon.Hive.Plugin.PluginManager - Plugin manager (version=1.0.15.11060) is setup. type=MineSweepersPlugins.MineSweepersFactory;path=C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Plugins\MineSweepersPlugins\1.0.0\bin\MineSweepersPlugins.dll;version=1.0.15.11060
+2020-12-17 16:33:40,671 [1] INFO  Photon.SocketServer.Diagnostics.HttpQueuePerformanceCounters - User has no Admin rights. HttpQueuePerformanceCounters initialization skipped
+2020-12-17 16:33:40,676 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - TokenCreator intialized with an expiration of 02:46:40
+2020-12-17 16:33:40,788 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter Business Logic Queue
+2020-12-17 16:33:40,789 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter ENet Queue
+2020-12-17 16:33:40,789 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter bytes in/sec
+2020-12-17 16:33:40,790 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter bytes out/sec
+2020-12-17 16:33:40,790 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter ENet Threads Processing
+2020-12-17 16:33:40,791 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter ENet Threads Active
+2020-12-17 16:33:40,791 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter Time Spent In Server: In (ms)
+2020-12-17 16:33:40,792 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter Time Spent In Server: Out (ms)
+2020-12-17 16:33:40,792 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter TCP: Disconnected Peers +/sec
+2020-12-17 16:33:40,793 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter TCP: Disconnected Peers (C) +/sec
+2020-12-17 16:33:40,793 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter TCP: Peers
+2020-12-17 16:33:40,794 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter UDP: Disconnected Peers +/sec
+2020-12-17 16:33:40,794 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter UDP: Disconnected Peers (C) +/sec
+2020-12-17 16:33:40,795 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter UDP: Peers
+2020-12-17 16:33:40,806 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.FeedbackControlSystem - Could not initialize Feedback Control System from configuration: Invalid configuration file C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Workload.config. Using default settings... (Could not find file 'C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Workload.config'.)
+2020-12-17 16:33:40,815 [1] INFO  Photon.Common.LoadBalancer.ServerStateManager - Watching for application state file in C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\ServerState.txt
+2020-12-17 16:33:40,818 [1] INFO  Photon.Common.LoadBalancer.ServerStateManager - Server state is set to online
+2020-12-17 16:33:40,820 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - Initializing master server connection ...
+2020-12-17 16:33:40,831 [1] INFO  Photon.LoadBalancing.GameServer.MasterServerConnectionBase - Connecting to master at 127.0.0.1:4520, serverId=33863ad8-1ab9-498b-8c51-964888917209
+2020-12-17 16:33:40,855 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=Game; AppPath=C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancing\GameServer, Type=Photon.LoadBalancing.GameServer.GameApplication 
+2020-12-17 16:33:40,861 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher - CounterPublisher started publishing ExitGames.Diagnostics.Monitoring.CounterSamplePublisher to ExitGames.Diagnostics.Monitoring.CounterSampleSender
+2020-12-17 16:33:41,152 [11] INFO  Photon.LoadBalancing.GameServer.MasterServerConnectionBase - Master connection established: address:127.0.0.1
+2020-12-17 16:33:41,153 [11] INFO  Photon.Common.LoadBalancer.ServerStateManager - Server state is set to online
+2020-12-17 16:33:41,159 [11] INFO  Photon.LoadBalancing.GameServer.OutgoingMasterServerPeer - Registering game server with address 192.168.0.12, TCP 4531, UDP 5056, WebSocket 9091, Secure WebSocket 19091, HTTP 80, ServerID 33863ad8-1ab9-498b-8c51-964888917209, Hostname localhost, IPv6Address 
+2020-12-17 16:33:41,217 [11] INFO  Photon.LoadBalancing.GameServer.OutgoingMasterServerPeer - Successfully registered at master server: serverId=33863ad8-1ab9-498b-8c51-964888917209
+2020-12-17 16:33:52,778 [13] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - NameMineSweepersVersus
+2020-12-17 16:33:52,780 [13] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-12-17 16:33:52,781 [13] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-12-17 16:33:52,781 [13] INFO  Photon.Hive.Plugin.PluginManager - Plugin successfully created:Type:MineSweepersPlugins.MineSweepersFactory, path:C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Plugins\MineSweepersPlugins\1.0.0\bin\MineSweepersPlugins.dll
+2020-12-17 16:33:52,801 [13] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - OnCreateGame cscs by user 928ccc59-64e9-460a-afa6-9c36405d883a
+2020-12-17 16:33:52,856 [13] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - GameCreated 5 by 5 with 2 mines. FirstSafe False, endOnExpload False, JoinAfterStart True
+2020-12-17 16:34:05,580 [11] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - Game is full
+2020-12-17 16:36:32,316 [21] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - NameMineSweepersVersus
+2020-12-17 16:36:32,316 [21] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-12-17 16:36:32,317 [21] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-12-17 16:36:32,318 [21] INFO  Photon.Hive.Plugin.PluginManager - Plugin successfully created:Type:MineSweepersPlugins.MineSweepersFactory, path:C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Plugins\MineSweepersPlugins\1.0.0\bin\MineSweepersPlugins.dll
+2020-12-17 16:36:32,319 [21] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - OnCreateGame 111 by user 928ccc59-64e9-460a-afa6-9c36405d883a
+2020-12-17 16:36:32,319 [21] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - GameCreated 5 by 5 with 2 mines. FirstSafe False, endOnExpload False, JoinAfterStart True
+2020-12-17 16:36:41,705 [26] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - Sync player3
+2020-12-17 16:36:43,331 [27] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 3 , x: 2 , val: 2 , IsIsReveald: False 
+2020-12-17 16:38:42,255 [18] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 1 , x: 1 , val: 0 , IsIsReveald: False 
+2020-12-17 16:38:43,058 [13] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-12-17 16:38:43,842 [31] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 1 , x: 4 , val: 1 , IsIsReveald: True 
+2020-12-17 16:38:44,456 [18] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 2 , x: 2 , val: 1 , IsIsReveald: True 
+2020-12-17 16:38:45,055 [23] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 3 , x: 3 , val: 1 , IsIsReveald: True 
+2020-12-17 16:38:45,843 [13] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-12-17 16:38:46,289 [13] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 3 , x: 0 , val: 1 , IsIsReveald: True 
+2020-12-17 16:38:57,390 [21] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - NameMineSweepersVersus
+2020-12-17 16:38:57,391 [21] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-12-17 16:38:57,391 [21] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-12-17 16:38:57,392 [21] INFO  Photon.Hive.Plugin.PluginManager - Plugin successfully created:Type:MineSweepersPlugins.MineSweepersFactory, path:C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Plugins\MineSweepersPlugins\1.0.0\bin\MineSweepersPlugins.dll
+2020-12-17 16:38:57,393 [21] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - OnCreateGame 111 by user 928ccc59-64e9-460a-afa6-9c36405d883a
+2020-12-17 16:38:57,394 [21] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - GameCreated 5 by 5 with 2 mines. FirstSafe False, endOnExpload False, JoinAfterStart False
+2020-12-17 16:42:31,190 [31] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - NameMineSweepersVersus
+2020-12-17 16:42:31,190 [31] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-12-17 16:42:31,191 [31] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-12-17 16:42:31,192 [31] INFO  Photon.Hive.Plugin.PluginManager - Plugin successfully created:Type:MineSweepersPlugins.MineSweepersFactory, path:C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Plugins\MineSweepersPlugins\1.0.0\bin\MineSweepersPlugins.dll
+2020-12-17 16:42:31,194 [31] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - OnCreateGame wewe by user a3032867-c2e5-4e92-8fb7-f291a2e5b3f7
+2020-12-17 16:42:31,196 [31] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - GameCreated 5 by 5 with 2 mines. FirstSafe False, endOnExpload False, JoinAfterStart True
+2020-12-17 16:42:48,254 [21] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 1 , x: 3 , val: 1 , IsIsReveald: False 
+2020-12-17 16:42:49,187 [23] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 2 , x: 1 , val: 0 , IsIsReveald: False 
+2020-12-17 16:43:00,188 [21] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - NameMineSweepersVersus
+2020-12-17 16:43:00,188 [21] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-12-17 16:43:00,189 [21] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-12-17 16:43:00,192 [21] INFO  Photon.Hive.Plugin.PluginManager - Plugin successfully created:Type:MineSweepersPlugins.MineSweepersFactory, path:C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Plugins\MineSweepersPlugins\1.0.0\bin\MineSweepersPlugins.dll
+2020-12-17 16:43:00,194 [21] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - OnCreateGame 333 by user 9baaa2f2-63c4-4524-aa66-48c1be2e8d9f
+2020-12-17 16:43:00,195 [21] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - GameCreated 5 by 5 with 2 mines. FirstSafe False, endOnExpload False, JoinAfterStart False
+2020-12-17 16:43:23,684 [18] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - NameMineSweepersVersus
+2020-12-17 16:43:23,685 [18] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-12-17 16:43:23,685 [18] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-12-17 16:43:23,686 [18] INFO  Photon.Hive.Plugin.PluginManager - Plugin successfully created:Type:MineSweepersPlugins.MineSweepersFactory, path:C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Plugins\MineSweepersPlugins\1.0.0\bin\MineSweepersPlugins.dll
+2020-12-17 16:43:23,686 [18] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - OnCreateGame 3232 by user 9baaa2f2-63c4-4524-aa66-48c1be2e8d9f
+2020-12-17 16:43:23,687 [18] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - GameCreated 5 by 5 with 2 mines. FirstSafe False, endOnExpload False, JoinAfterStart True
+2020-12-17 16:43:31,573 [18] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - Sync player3
+2020-12-17 16:43:32,697 [18] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 2 , x: 2 , val: 0 , IsIsReveald: False 
+2020-12-17 16:43:33,784 [18] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-12-17 16:43:34,183 [9] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 2 , x: 3 , val: 1 , IsIsReveald: True 
+2020-12-17 16:44:24,934 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - OnStopRequested: serverid=33863ad8-1ab9-498b-8c51-964888917209
+2020-12-17 16:44:24,935 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=Game
+2020-12-17 16:44:24,939 [20] INFO  Photon.LoadBalancing.GameServer.OutgoingMasterServerPeer - connection to master closed (id=2, reason=ManagedDisconnect, detail=), serverId=33863ad8-1ab9-498b-8c51-964888917209
+2020-12-17 16:44:24,956 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - TearDown: serverId=33863ad8-1ab9-498b-8c51-964888917209
+2020-12-17 16:44:24,958 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=Game
+2020-12-17 16:44:28,866 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - Setup: serverId=538b3dae-3451-453b-8b87-bef21c4af5fd
+2020-12-17 16:44:28,892 [1] INFO  Photon.Hive.Plugin.PluginManager - Plugin configured: name=MineSweepersPlugins
+2020-12-17 16:44:28,910 [1] INFO  Photon.Hive.Plugin.PluginManager - Loaded Assembly Name=MineSweepersPlugins, Version=1.0.0.0, Culture=, PublicKey token=, Path=C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Plugins\MineSweepersPlugins\1.0.0\bin\MineSweepersPlugins.dll
+2020-12-17 16:44:28,911 [1] INFO  Photon.Hive.Plugin.PluginManager - Referenced Assembly Name=mscorlib, Version=4.0.0.0, Culture=, PublicKey token=B7-7A-5C-56-19-34-E0-89, Path=
+2020-12-17 16:44:28,912 [1] INFO  Photon.Hive.Plugin.PluginManager - Referenced Assembly Name=PhotonHivePlugin, Version=1.0.15.11060, Culture=, PublicKey token=, Path=
+2020-12-17 16:44:28,912 [1] INFO  Photon.Hive.Plugin.PluginManager - Referenced Assembly Name=ExitGamesLibs, Version=1.0.4.0, Culture=, PublicKey token=EA-C0-ED-D9-74-6A-4A-A0, Path=
+2020-12-17 16:44:28,913 [1] INFO  Photon.Hive.Plugin.PluginManager - Referenced Assembly Name=System.Core, Version=4.0.0.0, Culture=, PublicKey token=B7-7A-5C-56-19-34-E0-89, Path=
+2020-12-17 16:44:28,913 [1] INFO  Photon.Hive.Plugin.PluginManager - Plugin Type MineSweepersPlugins.MineSweepersFactory from assembly MineSweepersPlugins, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null was successfuly created
+2020-12-17 16:44:28,914 [1] INFO  Photon.Hive.Plugin.PluginManager - Plugin manager (version=1.0.15.11060) is setup. type=MineSweepersPlugins.MineSweepersFactory;path=C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Plugins\MineSweepersPlugins\1.0.0\bin\MineSweepersPlugins.dll;version=1.0.15.11060
+2020-12-17 16:44:28,918 [1] INFO  Photon.SocketServer.Diagnostics.HttpQueuePerformanceCounters - User has no Admin rights. HttpQueuePerformanceCounters initialization skipped
+2020-12-17 16:44:28,923 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - TokenCreator intialized with an expiration of 02:46:40
+2020-12-17 16:44:29,035 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter Business Logic Queue
+2020-12-17 16:44:29,036 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter ENet Queue
+2020-12-17 16:44:29,037 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter bytes in/sec
+2020-12-17 16:44:29,037 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter bytes out/sec
+2020-12-17 16:44:29,038 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter ENet Threads Processing
+2020-12-17 16:44:29,039 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter ENet Threads Active
+2020-12-17 16:44:29,039 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter Time Spent In Server: In (ms)
+2020-12-17 16:44:29,039 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter Time Spent In Server: Out (ms)
+2020-12-17 16:44:29,040 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter TCP: Disconnected Peers +/sec
+2020-12-17 16:44:29,040 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter TCP: Disconnected Peers (C) +/sec
+2020-12-17 16:44:29,041 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter TCP: Peers
+2020-12-17 16:44:29,041 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter UDP: Disconnected Peers +/sec
+2020-12-17 16:44:29,042 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter UDP: Disconnected Peers (C) +/sec
+2020-12-17 16:44:29,043 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - Did not find counter UDP: Peers
+2020-12-17 16:44:29,054 [1] WARN  Photon.Common.LoadBalancer.LoadShedding.FeedbackControlSystem - Could not initialize Feedback Control System from configuration: Invalid configuration file C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Workload.config. Using default settings... (Could not find file 'C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Workload.config'.)
+2020-12-17 16:44:29,064 [1] INFO  Photon.Common.LoadBalancer.ServerStateManager - Watching for application state file in C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\ServerState.txt
+2020-12-17 16:44:29,066 [1] INFO  Photon.Common.LoadBalancer.ServerStateManager - Server state is set to online
+2020-12-17 16:44:29,068 [1] INFO  Photon.LoadBalancing.GameServer.GameApplication - Initializing master server connection ...
+2020-12-17 16:44:29,079 [1] INFO  Photon.LoadBalancing.GameServer.MasterServerConnectionBase - Connecting to master at 127.0.0.1:4520, serverId=538b3dae-3451-453b-8b87-bef21c4af5fd
+2020-12-17 16:44:29,101 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=Game; AppPath=C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\LoadBalancing\GameServer, Type=Photon.LoadBalancing.GameServer.GameApplication 
+2020-12-17 16:44:29,108 [1] INFO  Photon.SocketServer.Diagnostics.CounterPublisher - CounterPublisher started publishing ExitGames.Diagnostics.Monitoring.CounterSamplePublisher to ExitGames.Diagnostics.Monitoring.CounterSampleSender
+2020-12-17 16:44:29,402 [10] INFO  Photon.LoadBalancing.GameServer.MasterServerConnectionBase - Master connection established: address:127.0.0.1
+2020-12-17 16:44:29,402 [10] INFO  Photon.Common.LoadBalancer.ServerStateManager - Server state is set to online
+2020-12-17 16:44:29,408 [12] INFO  Photon.LoadBalancing.GameServer.OutgoingMasterServerPeer - Registering game server with address 192.168.0.12, TCP 4531, UDP 5056, WebSocket 9091, Secure WebSocket 19091, HTTP 80, ServerID 538b3dae-3451-453b-8b87-bef21c4af5fd, Hostname localhost, IPv6Address 
+2020-12-17 16:44:29,464 [17] INFO  Photon.LoadBalancing.GameServer.OutgoingMasterServerPeer - Successfully registered at master server: serverId=538b3dae-3451-453b-8b87-bef21c4af5fd
+2020-12-17 16:44:39,426 [13] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - NameMineSweepersVersus
+2020-12-17 16:44:39,429 [13] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-12-17 16:44:39,430 [13] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-12-17 16:44:39,430 [13] INFO  Photon.Hive.Plugin.PluginManager - Plugin successfully created:Type:MineSweepersPlugins.MineSweepersFactory, path:C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Plugins\MineSweepersPlugins\1.0.0\bin\MineSweepersPlugins.dll
+2020-12-17 16:44:39,451 [13] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - OnCreateGame dwdw by user 9baaa2f2-63c4-4524-aa66-48c1be2e8d9f
+2020-12-17 16:44:39,502 [13] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - GameCreated 5 by 5 with 2 mines. FirstSafe False, endOnExpload False, JoinAfterStart False
+2020-12-17 16:44:55,451 [18] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 2 , x: 3 , val: 0 , IsIsReveald: False 
+2020-12-17 16:44:56,446 [18] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-12-17 16:44:57,444 [21] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-12-17 16:44:57,977 [11] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 1 , x: 1 , val: 2 , IsIsReveald: True 
+2020-12-17 16:45:07,998 [18] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - NameMineSweepersVersus
+2020-12-17 16:45:07,999 [18] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-12-17 16:45:07,999 [18] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-12-17 16:45:07,999 [18] INFO  Photon.Hive.Plugin.PluginManager - Plugin successfully created:Type:MineSweepersPlugins.MineSweepersFactory, path:C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Plugins\MineSweepersPlugins\1.0.0\bin\MineSweepersPlugins.dll
+2020-12-17 16:45:08,000 [18] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - OnCreateGame ewww by user 9baaa2f2-63c4-4524-aa66-48c1be2e8d9f
+2020-12-17 16:45:08,001 [18] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - GameCreated 5 by 5 with 2 mines. FirstSafe False, endOnExpload False, JoinAfterStart True
+2020-12-17 16:45:39,757 [21] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 1 , x: 3 , val: 1 , IsIsReveald: False 
+2020-12-17 16:45:40,357 [11] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 2 , x: 3 , val: 0 , IsIsReveald: False 
+2020-12-17 16:45:41,458 [21] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - SetFlag
+2020-12-17 16:45:42,091 [21] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 1 , x: 4 , val: 1 , IsIsReveald: True 
+2020-12-17 16:46:01,623 [13] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - NameMineSweepersVersus
+2020-12-17 16:46:01,624 [13] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-12-17 16:46:01,625 [13] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-12-17 16:46:01,625 [13] INFO  Photon.Hive.Plugin.PluginManager - Plugin successfully created:Type:MineSweepersPlugins.MineSweepersFactory, path:C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Plugins\MineSweepersPlugins\1.0.0\bin\MineSweepersPlugins.dll
+2020-12-17 16:46:01,626 [13] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - OnCreateGame 3232 by user 9baaa2f2-63c4-4524-aa66-48c1be2e8d9f
+2020-12-17 16:46:01,627 [13] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - GameCreated 5 by 5 with 2 mines. FirstSafe False, endOnExpload False, JoinAfterStart True
+2020-12-17 16:47:01,945 [20] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - NameMineSweepersVersus
+2020-12-17 16:47:01,946 [20] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-12-17 16:47:01,947 [20] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-12-17 16:47:01,948 [20] INFO  Photon.Hive.Plugin.PluginManager - Plugin successfully created:Type:MineSweepersPlugins.MineSweepersFactory, path:C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Plugins\MineSweepersPlugins\1.0.0\bin\MineSweepersPlugins.dll
+2020-12-17 16:47:01,949 [20] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - OnCreateGame 3222 by user ba9c5978-9be8-4e37-a489-5ae8c1ccb4ff
+2020-12-17 16:47:01,953 [20] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - GameCreated 5 by 5 with 2 mines. FirstSafe False, endOnExpload False, JoinAfterStart False
+2020-12-17 16:47:49,847 [12] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - NameMineSweepersVersus
+2020-12-17 16:47:49,848 [12] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-12-17 16:47:49,848 [12] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-12-17 16:47:49,848 [12] INFO  Photon.Hive.Plugin.PluginManager - Plugin successfully created:Type:MineSweepersPlugins.MineSweepersFactory, path:C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Plugins\MineSweepersPlugins\1.0.0\bin\MineSweepersPlugins.dll
+2020-12-17 16:47:49,849 [12] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - OnCreateGame 22 by user 9baaa2f2-63c4-4524-aa66-48c1be2e8d9f
+2020-12-17 16:47:49,850 [12] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - GameCreated 5 by 5 with 2 mines. FirstSafe False, endOnExpload False, JoinAfterStart True
+2020-12-17 16:48:00,635 [33] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - Sync player3
+2020-12-17 17:34:35,266 [21] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - NameMineSweepersVersus
+2020-12-17 17:34:35,267 [21] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-12-17 17:34:35,267 [21] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - {}
+2020-12-17 17:34:35,268 [21] INFO  Photon.Hive.Plugin.PluginManager - Plugin successfully created:Type:MineSweepersPlugins.MineSweepersFactory, path:C:\Users\Admin\Documents\MineSweepersServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Plugins\MineSweepersPlugins\1.0.0\bin\MineSweepersPlugins.dll
+2020-12-17 17:34:35,269 [21] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - OnCreateGame dwdw by user 78542874-eebc-470a-97f7-da9314286157
+2020-12-17 17:34:35,270 [21] INFO  Photon.Hive.HiveGame.HiveHostGame.Plugin - GameCreated 5 by 5 with 2 mines. FirstSafe False, endOnExpload False, JoinAfterStart False
+2020-12-17 17:34:54,798 [12] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 1 , x: 1 , val: 1 , IsIsReveald: False 
+2020-12-17 17:34:56,297 [43] ERROR Photon.Hive.HiveGame.HiveHostGame.Plugin - y: 2 , x: 2 , val: 0 , IsIsReveald: False 
+2020-12-17 17:43:26,666 [39] INFO  Photon.Common.LoadBalancer.LoadShedding.FeedbackController - Transit CpuUsage from Lowest to Low with input 35
+2020-12-17 17:43:26,666 [39] INFO  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - FeedbackLevel changed: old=Lowest, new=Low
+2020-12-17 17:52:15,980 [20] INFO  Photon.Common.LoadBalancer.LoadShedding.FeedbackController - Transit CpuUsage from Low to Lowest with input 20
+2020-12-17 17:52:15,989 [20] INFO  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - FeedbackLevel changed: old=Low, new=Lowest

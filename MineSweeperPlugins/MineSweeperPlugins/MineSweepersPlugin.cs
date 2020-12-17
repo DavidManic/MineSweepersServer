@@ -63,7 +63,8 @@ namespace MineSweepersPlugins
             base.OnJoin(info);
 
             if (PluginHost.GameActors.Count > NumberOfPlayers) {
-                PluginHost.RemoveActor(info.ActorNr, "Room is Full");
+                PluginHost.RemoveActor(info.ActorNr, 0, "Room is Full");
+                PluginHost.LogError("Game is full");
                 return;
             }
 
@@ -71,7 +72,7 @@ namespace MineSweepersPlugins
             {
                 if (!joinAfterStart)
                 {
-                    PluginHost.RemoveActor(info.ActorNr, "Game already started"); return;
+                    PluginHost.RemoveActor(info.ActorNr, 0, "Game already started"); return;
                 }
                 PluginHost.CreateOneTimeTimer(
                     () => SyncPlayer(info),
